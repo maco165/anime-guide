@@ -30,22 +30,26 @@
 <rect x="586" y="146" width="8" height="6" rx="0" fill="#10131a" stroke="#10131a" stroke-width="1"/>
 <rect x="16" y="216" width="298" height="46" rx="4" fill="#1f62d6" stroke="#10131a" stroke-width="3.5"/>
 <text x="68" y="248" font-size="23" font-weight="800" text-anchor="start" fill="#ffffff">持てる権利</text>
-<circle cx="42.0" cy="239.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
-<text x="42" y="245" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">4</text>
+<circle cx="42.0" cy="239.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="42" y="245" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">4</text>
 <rect x="326" y="216" width="298" height="46" rx="4" fill="#d92d20" stroke="#10131a" stroke-width="3.5"/>
 <text x="378" y="248" font-size="23" font-weight="800" text-anchor="start" fill="#ffffff">負う義務</text>
-<circle cx="352.0" cy="239.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
-<text x="352" y="245" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">5</text>
+<circle cx="352.0" cy="239.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="352" y="245" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">5</text>
 <rect x="16" y="270" width="298" height="54" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
-<text x="165.0" y="303.12" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">銀時計を見せて研究費を引き出す</text>
+<text x="165.0" y="303.12" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">年に数千万センズの研究費</text>
 <rect x="16" y="330" width="298" height="54" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
-<text x="165.0" y="363.12" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">年に数千万センズの研究費</text>
+<text x="165.0" y="363.12" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">特殊な文献の閲覧</text>
 <rect x="16" y="390" width="298" height="54" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
-<text x="165.0" y="423.12" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">特殊な文献の閲覧</text>
-<rect x="16" y="450" width="298" height="54" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
-<text x="165.0" y="483.12" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">施設の優先利用</text>
-<rect x="16" y="510" width="298" height="54" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
-<text x="165.0" y="543.12" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">軍人として働く者は報告が免除</text>
+<text x="165.0" y="423.12" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">施設の優先利用</text>
+<rect x="16" y="450" width="298" height="54" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="477.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="483.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">9</text>
+<text x="60" y="482.8" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">銀時計を見せて研究費を引き出す</text>
+<rect x="16" y="510" width="298" height="54" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="537.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="543.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">9</text>
+<text x="60" y="542.8" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">軍人として働く者は報告が免除</text>
 <rect x="326" y="270" width="298" height="92" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
 <text x="475.0" y="311.07" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">年に一度の査定。成果が</text>
 <text x="475.0" y="333.17" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">振るわなければ資格を失う</text>

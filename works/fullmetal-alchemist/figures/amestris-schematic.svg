@@ -44,8 +44,8 @@
 <path d="M414.0 320.0 L415.0 320.0" fill="none" stroke="#10131a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <polygon points="426.0,320.0 415.0,327.9 415.0,312.1" fill="#10131a" stroke="#10131a" stroke-width="1.5" stroke-linejoin="round"/>
 <rect x="430" y="384" width="194" height="146" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
-<circle cx="452.0" cy="408.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
-<text x="452" y="414" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">2</text>
+<circle cx="452.0" cy="408.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="452" y="414" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
 <text x="474" y="428.4" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">ほぼ円形で、</text>
 <text x="474" y="451.8" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">中央と東西南</text>
 <text x="474" y="475.2" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">北の 5 地域に</text>

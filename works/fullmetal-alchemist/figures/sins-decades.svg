@@ -1,6 +1,6 @@
 <svg data-sources="src-222 src-223 src-224 src-225 src-226 src-227 src-228 src-229 src-230 src-231 src-232 src-233 src-234 src-235 src-236 src-237 src-238 src-239 src-240 src-241 src-242 src-243 src-244 src-245 src-246 src-247 src-248 src-249 src-250 src-251 src-252 src-253 src-254 src-255 src-256 src-257 src-258 src-259 src-260 src-261 src-262 src-263 src-264 src-265 src-266 src-267 src-268 src-269 src-270 src-271" xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 572" width="640" height="572" role="img" aria-labelledby="sins-decades-title sins-decades-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
 <title id="sins-decades-title">年代別の作品数</title>
-<desc id="sins-decades-desc">資料で確認した作品を最初の発表年で年代別に数えた横棒グラフ。〜1989 4 件、1990 年代 5 件、2000 年代 14 件、2010 年代 20 件、2020 年代 3 件、年不明 1 件。</desc>
+<desc id="sins-decades-desc">資料で確認した作品を最初の発表年で年代別に数えた横棒グラフ。〜1989 4 件、1990 年代 5 件、2000 年代 15 件、2010 年代 19 件、2020 年代 3 件、年不明 1 件。</desc>
 <defs><pattern id="sins-decades-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
 <rect width="640" height="572" fill="#f1f5f8"/>
 <rect width="640" height="572" fill="url(#sins-decades-grid)"/>
@@ -15,8 +15,6 @@
 <text x="284" y="446" font-size="17" font-weight="500" text-anchor="middle" fill="#46515c">10</text>
 <line x1="414.0" y1="80.0" x2="414.0" y2="424.0" stroke="#b4c1cc" stroke-width="1" stroke-linecap="butt"/>
 <text x="414" y="446" font-size="17" font-weight="500" text-anchor="middle" fill="#46515c">15</text>
-<line x1="544.0" y1="80.0" x2="544.0" y2="424.0" stroke="#b4c1cc" stroke-width="1" stroke-linecap="butt"/>
-<text x="544" y="446" font-size="17" font-weight="500" text-anchor="middle" fill="#46515c">20</text>
 <text x="24" y="446" font-size="17" font-weight="500" text-anchor="middle" fill="#46515c">0</text>
 <text x="616" y="446" font-size="17" font-weight="500" text-anchor="end" fill="#46515c">件</text>
 <text x="32" y="100" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">〜1989</text>
@@ -30,14 +28,14 @@
 <text class="value" x="164" y="184" font-size="22" font-weight="800" fill="#10131a">5</text>
 </g>
 <text x="32" y="216" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">2000 年代</text>
-<g data-decade="2000 年代" data-count="14">
-<path d="M24 224 h360 a4 4 0 0 1 4 4 v12 a4 4 0 0 1 -4 4 h-360 z" fill="#1f62d6" data-width="364"/>
-<text class="value" x="398" y="242" font-size="22" font-weight="800" fill="#10131a">14</text>
+<g data-decade="2000 年代" data-count="15">
+<path d="M24 224 h386 a4 4 0 0 1 4 4 v12 a4 4 0 0 1 -4 4 h-386 z" fill="#1f62d6" data-width="390"/>
+<text class="value" x="424" y="242" font-size="22" font-weight="800" fill="#10131a">15</text>
 </g>
 <text x="32" y="274" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">2010 年代</text>
-<g data-decade="2010 年代" data-count="20">
-<path d="M24 282 h516 a4 4 0 0 1 4 4 v12 a4 4 0 0 1 -4 4 h-516 z" fill="#d92d20" data-width="520"/>
-<text class="value" x="554" y="300" font-size="22" font-weight="800" fill="#10131a">20</text>
+<g data-decade="2010 年代" data-count="19">
+<path d="M24 282 h490 a4 4 0 0 1 4 4 v12 a4 4 0 0 1 -4 4 h-490 z" fill="#d92d20" data-width="494"/>
+<text class="value" x="528" y="300" font-size="22" font-weight="800" fill="#10131a">19</text>
 </g>
 <text x="32" y="332" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">2020 年代</text>
 <g data-decade="2020 年代" data-count="3">

@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 740" width="640" height="740" role="img" aria-labelledby="abilities-state-splits-title abilities-state-splits-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 784" width="640" height="784" role="img" aria-labelledby="abilities-state-splits-title abilities-state-splits-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
 <title id="abilities-state-splits-title">国家錬金術師で資料が割れている点</title>
 <desc id="abilities-state-splits-desc">キンブリーの階級と爆発の距離、タッカーの階級と二つ名の表記、コマンチの陣の位置、マルコーの二つ名の注記を、破線の枠で並べる。</desc>
 <defs><pattern id="abilities-state-splits-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
-<rect width="640" height="740" fill="#f1f5f8"/>
-<rect width="640" height="740" fill="url(#abilities-state-splits-grid)"/>
+<rect width="640" height="784" fill="#f1f5f8"/>
+<rect width="640" height="784" fill="url(#abilities-state-splits-grid)"/>
 <rect x="0" y="0" width="640" height="56" fill="#10131a"/>
 <polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
 <polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
@@ -53,14 +53,16 @@
 <circle cx="32.0" cy="594.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
 <text x="32" y="600" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">6</text>
 <text x="54" y="601" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">マルコーの「結晶」の注記</text>
-<rect x="16" y="614" width="300" height="56" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
-<text x="166" y="637.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">注記なしで</text>
-<text x="166" y="659.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">二つ名として書く</text>
-<rect x="324" y="614" width="300" height="56" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
-<text x="474" y="637.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">原作には出ず</text>
-<text x="474" y="659.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">アニメ版の二つ名とする</text>
-<line x1="14.0" y1="696.0" x2="626.0" y2="696.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
-<rect x="30" y="709" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
-<text x="64" y="723" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">破線の枠は説が割れている内容です</text>
-<rect x="1.5" y="1.5" width="637" height="737" fill="none" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="614" width="300" height="100" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="166" y="659.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">注記なしで</text>
+<text x="166" y="681.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">二つ名として書く</text>
+<rect x="324" y="614" width="300" height="100" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="474" y="637.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">資料に「アニメ版の二つ名」とある</text>
+<text x="474" y="659.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">が、どのアニメ版かは書かれて</text>
+<text x="474" y="681.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">おらず、2009 年版で使われた</text>
+<text x="474" y="703.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">かは未確認</text>
+<line x1="14.0" y1="740.0" x2="626.0" y2="740.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="30" y="753" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="64" y="767" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">破線の枠は説が割れている内容です</text>
+<rect x="1.5" y="1.5" width="637" height="781" fill="none" stroke="#10131a" stroke-width="3"/>
 </svg>

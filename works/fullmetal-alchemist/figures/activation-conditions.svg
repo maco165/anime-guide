@@ -14,7 +14,7 @@
 <path d="M56 142.0 h40 M60 114.0 h32" fill="none" stroke="#1f62d6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="32.0" cy="98.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
 <text x="32" y="104" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
-<text x="130" y="110" font-size="22" font-weight="800" text-anchor="start" fill="#10131a">錬成陣で流し方を決める</text>
+<text x="130" y="110" font-size="22" font-weight="800" text-anchor="start" fill="#10131a">錬成陣にエネルギーを流して発動する</text>
 <text x="130" y="138" font-size="18" font-weight="500" text-anchor="start" fill="#10131a">円を基本に、構築式を組み込む</text>
 <text x="130" y="164" font-size="18" font-weight="500" text-anchor="start" fill="#10131a">多様な素材で描ける</text>
 <rect x="520" y="104" width="90" height="48" rx="4" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
@@ -23,6 +23,8 @@
 <circle cx="76.0" cy="227.0" r="26" fill="#ffffff" stroke="#10131a" stroke-width="3" stroke-dasharray="6,5"/>
 <line x1="56.0" y1="207.0" x2="96.0" y2="247.0" stroke="#d92d20" stroke-width="6" stroke-linecap="round"/>
 <line x1="96.0" y1="207.0" x2="56.0" y2="247.0" stroke="#d92d20" stroke-width="6" stroke-linecap="round"/>
+<circle cx="32.0" cy="212.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="32" y="218" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">5</text>
 <text x="130" y="235.0" font-size="22" font-weight="800" text-anchor="start" fill="#10131a">陣なしの錬成</text>
 <rect x="460" y="205" width="150" height="44" rx="4" fill="#ffffff" stroke="#d92d20" stroke-width="3.5"/>
 <text x="535.0" y="233.48" font-size="18" font-weight="800" text-anchor="middle" fill="#10131a">通常はできない</text>

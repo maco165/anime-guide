@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 764" width="640" height="764" role="img" aria-labelledby="abilities-state-2-title abilities-state-2-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 786" width="640" height="786" role="img" aria-labelledby="abilities-state-2-title abilities-state-2-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
 <title id="abilities-state-2-title">国家錬金術師の図鑑 2: キンブリー、タッカー、マルコー</title>
-<desc id="abilities-state-2-desc">キンブリー、タッカー、マルコーの二つ名、得意な術、錬成の方法、制限、階級を人物ごとのカードで示す。</desc>
+<desc id="abilities-state-2-desc">キンブリー、タッカー、マルコーの二つ名、得意な術、錬成の方法、制限や身体の事情、階級を人物ごとのカードで示す。</desc>
 <defs><pattern id="abilities-state-2-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
-<rect width="640" height="764" fill="#f1f5f8"/>
-<rect width="640" height="764" fill="url(#abilities-state-2-grid)"/>
+<rect width="640" height="786" fill="#f1f5f8"/>
+<rect width="640" height="786" fill="url(#abilities-state-2-grid)"/>
 <rect x="0" y="0" width="640" height="56" fill="#10131a"/>
 <polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
 <polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
@@ -60,68 +60,69 @@
 <text x="206" y="327" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">得意</text>
 <circle cx="186.0" cy="321.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
 <text x="186" y="327" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">3</text>
-<text x="258" y="327" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">生体錬成。人語を解する合成獣</text>
+<text x="258" y="327" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">生体錬成。人の言葉が分かる合成獣</text>
 <line x1="174.0" y1="338.0" x2="616.0" y2="338.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
 <text x="206" y="361" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">方法</text>
 <text x="258" y="361" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">記述は見つからず</text>
 <line x1="174.0" y1="372.0" x2="616.0" y2="372.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
-<text x="206" y="395" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">制限</text>
+<text x="206" y="395" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">事情</text>
 <circle cx="186.0" cy="389.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
 <text x="186" y="395" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">4</text>
-<text x="258" y="395" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">毎年の査定に成果が要る</text>
+<text x="258" y="395" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">査定に向けて成果を焦る</text>
 <line x1="174.0" y1="406.0" x2="616.0" y2="406.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
 <text x="206" y="429" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">階級</text>
 <rect x="250" y="409" width="364" height="28" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
 <text x="258" y="429" font-size="17" font-weight="600" text-anchor="start" fill="#10131a">少佐か記述なしか: 割れている、図 1-4</text>
-<rect x="16" y="456" width="608" height="250" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
-<rect x="16" y="456" width="148" height="250" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
-<text x="90.0" y="498" font-size="32" font-weight="800" text-anchor="middle" fill="#1f62d6">結晶</text>
+<rect x="16" y="456" width="608" height="272" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="456" width="148" height="272" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<text x="90.0" y="498" font-size="32" font-weight="800" text-anchor="middle" fill="#1f62d6">未確認</text>
 <text x="90.0" y="525" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">ティム・</text>
 <text x="90.0" y="547" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">マルコー</text>
 <rect x="24.0" y="560" width="132" height="26" rx="3" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
 <text x="90.0" y="579" font-size="16" font-weight="800" text-anchor="middle" fill="#ffffff">元国家錬金術師</text>
-<circle cx="90.0" cy="654.8" r="6.800000000000001" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
-<line x1="90.0" y1="661.6" x2="90.0" y2="679.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
-<line x1="90.0" y1="679.3" x2="81.8" y2="698.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
-<line x1="90.0" y1="679.3" x2="98.2" y2="698.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
-<line x1="90.0" y1="665.7" x2="79.8" y2="679.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
-<line x1="90.0" y1="665.7" x2="100.2" y2="679.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="90.0" cy="676.8" r="6.800000000000001" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="90.0" y1="683.6" x2="90.0" y2="701.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="701.3" x2="81.8" y2="720.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="701.3" x2="98.2" y2="720.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="687.7" x2="79.8" y2="701.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="687.7" x2="100.2" y2="701.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
 <text x="206" y="485" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">二つ名</text>
 <circle cx="186.0" cy="479.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
 <text x="186" y="485" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">5</text>
-<text x="258" y="485" font-size="17" font-weight="600" text-anchor="start" fill="#10131a">「結晶」。注記の違いは図 1-4</text>
-<line x1="174.0" y1="496.0" x2="616.0" y2="496.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
-<text x="206" y="519" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">得意</text>
-<circle cx="186.0" cy="513.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
-<text x="186" y="519" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
-<text x="258" y="519" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">医療系の錬金術</text>
-<circle cx="186.0" cy="547.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
-<text x="186" y="553" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">6</text>
-<text x="258" y="553" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">賢者の石の研究と壊し方の知識</text>
-<circle cx="186.0" cy="581.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
-<text x="186" y="587" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">7</text>
-<text x="258" y="587" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">生体の錬金術とする資料も</text>
-<line x1="174.0" y1="598.0" x2="616.0" y2="598.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
-<text x="206" y="621" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">方法</text>
-<circle cx="186.0" cy="615.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
-<text x="186" y="621" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">8</text>
-<text x="258" y="621" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">右の掌に隠した陣とする資料も</text>
-<line x1="174.0" y1="632.0" x2="616.0" y2="632.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
-<text x="206" y="655" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">制限</text>
-<circle cx="186.0" cy="649.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
-<text x="186" y="655" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">9</text>
-<text x="258" y="655" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">戦いには向かない</text>
-<line x1="174.0" y1="666.0" x2="616.0" y2="666.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
-<text x="206" y="689" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">階級</text>
-<circle cx="186.0" cy="683.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
-<text x="186" y="689" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">8</text>
-<text x="258" y="689" font-size="17" font-weight="600" text-anchor="start" fill="#10131a">「おそらく少佐」とする資料も</text>
-<line x1="14.0" y1="720.0" x2="626.0" y2="720.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
-<circle cx="30.0" cy="741.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
-<text x="44" y="747" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
-<circle cx="204.0" cy="741.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
-<text x="218" y="747" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
-<rect x="338" y="733" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
-<text x="372" y="747" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
-<rect x="1.5" y="1.5" width="637" height="761" fill="none" stroke="#10131a" stroke-width="3"/>
+<text x="258" y="485" font-size="17" font-weight="600" text-anchor="start" fill="#10131a">資料に「結晶」。2009 年版で使われた</text>
+<text x="258" y="507" font-size="17" font-weight="600" text-anchor="start" fill="#10131a">かは未確認。注記は図 1-4</text>
+<line x1="174.0" y1="518.0" x2="616.0" y2="518.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="541" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">得意</text>
+<circle cx="186.0" cy="535.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="541" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="258" y="541" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">医療系の錬金術</text>
+<circle cx="186.0" cy="569.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="575" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">6</text>
+<text x="258" y="575" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">賢者の石の研究と壊し方の知識</text>
+<circle cx="186.0" cy="603.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="609" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">7</text>
+<text x="258" y="609" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">生体の錬金術とする資料も</text>
+<line x1="174.0" y1="620.0" x2="616.0" y2="620.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="643" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">方法</text>
+<circle cx="186.0" cy="637.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="643" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">8</text>
+<text x="258" y="643" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">右の掌に隠した陣とする資料も</text>
+<line x1="174.0" y1="654.0" x2="616.0" y2="654.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="677" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">制限</text>
+<circle cx="186.0" cy="671.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="677" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">9</text>
+<text x="258" y="677" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">戦いには向かない</text>
+<line x1="174.0" y1="688.0" x2="616.0" y2="688.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="711" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">階級</text>
+<circle cx="186.0" cy="705.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="711" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">8</text>
+<text x="258" y="711" font-size="17" font-weight="600" text-anchor="start" fill="#10131a">「おそらく少佐」とする資料も</text>
+<line x1="14.0" y1="742.0" x2="626.0" y2="742.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="763.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="769" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="763.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="769" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="755" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="769" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="783" fill="none" stroke="#10131a" stroke-width="3"/>
 </svg>

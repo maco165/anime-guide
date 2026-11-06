@@ -21,9 +21,9 @@
 <rect x="16" y="280" width="250" height="118" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
 <circle cx="38.0" cy="304.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
 <text x="38" y="310" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">5</text>
-<text x="60" y="308.0" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">魂の対価が</text>
-<text x="60" y="329.76" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">分からないまま、</text>
-<text x="60" y="351.52" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">血を数滴入れただけ</text>
+<text x="60" y="308.0" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">原作を論じた論文では、</text>
+<text x="60" y="329.76" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">兄弟は魂の対価が分から</text>
+<text x="60" y="351.52" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">ず、血を数滴入れただけ</text>
 <line x1="266.0" y1="224.0" x2="284.0" y2="224.0" stroke="#10131a" stroke-width="4" stroke-linecap="round"/>
 <line x1="266.0" y1="339.0" x2="284.0" y2="339.0" stroke="#10131a" stroke-width="4" stroke-linecap="round"/>
 <line x1="284.0" y1="224.0" x2="284.0" y2="339.0" stroke="#10131a" stroke-width="4" stroke-linecap="round"/>
@@ -35,7 +35,7 @@
 <line x1="326.0" y1="276.0" x2="344.0" y2="298.0" stroke="#ffffff" stroke-width="3" stroke-linecap="butt"/>
 <line x1="326.0" y1="318.0" x2="344.0" y2="340.0" stroke="#ffffff" stroke-width="3" stroke-linecap="butt"/>
 <line x1="326.0" y1="360.0" x2="344.0" y2="382.0" stroke="#ffffff" stroke-width="3" stroke-linecap="butt"/>
-<rect x="362" y="178" width="262" height="220" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5" stroke-dasharray="10,6"/>
+<rect x="362" y="178" width="262" height="220" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
 <circle cx="432.0" cy="215.0" r="15.0" fill="#ffffff" stroke="#46515c" stroke-width="5"/>
 <line x1="432.0" y1="230.0" x2="432.0" y2="269.0" stroke="#46515c" stroke-width="5" stroke-linecap="round"/>
 <line x1="432.0" y1="269.0" x2="414.0" y2="311.0" stroke="#46515c" stroke-width="5" stroke-linecap="round"/>
@@ -65,18 +65,21 @@
 <circle cx="38.0" cy="740.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
 <text x="38" y="746" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">6</text>
 <text x="60" y="747" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">半端な怪物が生まれる</text>
-<rect x="326" y="508" width="298" height="268" rx="4" fill="#fdeceb" stroke="#10131a" stroke-width="3.5"/>
-<text x="340" y="540" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">代償は術者の身体に及ぶ</text>
-<circle cx="348.0" cy="574.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
-<text x="348" y="580" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">7</text>
-<text x="370" y="568.0" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">イズミは子の蘇生に</text>
-<text x="370" y="591.4" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">失敗して内臓の</text>
-<text x="370" y="614.8" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">一部を失った</text>
-<circle cx="348.0" cy="664.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
-<text x="348" y="670" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">8</text>
-<text x="370" y="658.0" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">行った国家錬金術師は</text>
-<text x="370" y="681.4" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">資格を奪われる</text>
-<text x="340" y="756" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">扉へ飛ばされる話は図 1-8</text>
+<rect x="326" y="508" width="298" height="164" rx="4" fill="#fdeceb" stroke="#10131a" stroke-width="3.5"/>
+<circle cx="348.0" cy="534.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="348" y="540" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">9</text>
+<text x="370" y="541" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">代償は術者の身体に及ぶ</text>
+<circle cx="348.0" cy="574.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="348" y="580" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<text x="370" y="574.0" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">イズミは子の蘇生に</text>
+<text x="370" y="597.4" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">失敗して内臓の</text>
+<text x="370" y="620.8" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">一部を失った</text>
+<text x="340" y="658" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">扉へ飛ばされる話は図 1-8</text>
+<rect x="326" y="684" width="298" height="92" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="348.0" cy="730.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="348" y="736" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">8</text>
+<text x="370" y="724.0" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">行った国家錬金術師は</text>
+<text x="370" y="747.4" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">資格を奪われる</text>
 <line x1="14.0" y1="786.0" x2="626.0" y2="786.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
 <circle cx="30.0" cy="807.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
 <text x="44" y="813" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>

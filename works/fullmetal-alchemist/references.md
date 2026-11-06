@@ -34,12 +34,12 @@ spoiler: 設定のネタバレを含む
 | id | 種類 | URL | 権利者 | 確認日 | 許諾 | 使っている箇所 |
 | --- | --- | --- | --- | --- | --- | --- |
 | src-001 | 公式サイト (作品紹介) | [https://www.hagaren.jp/fa/about/introduction.html](https://www.hagaren.jp/fa/about/introduction.html) | © 荒川弘／鋼の錬金術師製作委員会・MBS | 2026-11-06 | 不要 | [世界観](world.md) 図 1-2、図 1-7、図 2-2、図 2-3、図 3-2、図 3-3、図 3-4、本文<br>[コラム](column.md) 本文 |
-| src-002 | 公式サイト (キャラクター) | [https://www.hagaren.jp/fa/characters/index01.html](https://www.hagaren.jp/fa/characters/index01.html) | © 荒川弘／鋼の錬金術師製作委員会・MBS | 2026-11-06 | 不要 | [世界観](world.md) 図 2-2、図 2-3、図 2-6、図 3-2、図 3-4、図 3-5、本文<br>[能力](abilities.md) 図 1-1、図 1-2、図 2-1、図 2-2、図 2-3、図 2-4、図 3-1、図 5-1、本文<br>[七つの大罪](seven-sins.md) 図 2-1、図 2-2、本文 |
-| src-003 | 公式サイト (話数あらすじ) | [https://www.hagaren.jp/fa/about/story.html](https://www.hagaren.jp/fa/about/story.html) | © 荒川弘／鋼の錬金術師製作委員会・MBS | 2026-11-06 | 不要 | [世界観](world.md) 図 2-3、図 3-2、図 3-3、図 3-4<br>[能力](abilities.md) 図 1-2、図 1-3、図 1-4、図 2-3 |
+| src-002 | 公式サイト (キャラクター) | [https://www.hagaren.jp/fa/characters/index01.html](https://www.hagaren.jp/fa/characters/index01.html) | © 荒川弘／鋼の錬金術師製作委員会・MBS | 2026-11-06 | 不要 | [世界観](world.md) 図 2-2、図 2-3、図 2-6、図 3-2、図 3-3、図 3-4、図 3-5、本文<br>[能力](abilities.md) 図 1-1、図 1-2、図 2-1、図 2-2、図 2-3、図 2-4、図 3-1、図 5-1、本文<br>[七つの大罪](seven-sins.md) 図 2-1、図 2-2、本文 |
+| src-003 | 公式サイト (話数あらすじ) | [https://www.hagaren.jp/fa/about/story.html](https://www.hagaren.jp/fa/about/story.html) | © 荒川弘／鋼の錬金術師製作委員会・MBS | 2026-11-06 | 不要 | [世界観](world.md) 図 2-3、図 3-2、図 3-3、図 3-4<br>[能力](abilities.md) 図 1-2、図 1-3、図 1-4、図 2-3、本文 |
 | src-004 | 公式サイト (話数あらすじ) | [https://www.hagaren.jp/fa/about/story01.html](https://www.hagaren.jp/fa/about/story01.html) | © 荒川弘／鋼の錬金術師製作委員会・MBS | 2026-11-06 | 不要 | [世界観](world.md) 図 2-3、図 3-2、図 3-4、図 3-5 |
 | src-005 | 公式サイト (話数あらすじ) | [https://www.hagaren.jp/fa/about/story02.html](https://www.hagaren.jp/fa/about/story02.html) | © 荒川弘／鋼の錬金術師製作委員会・MBS | 2026-11-06 | 不要 | [世界観](world.md) 図 2-6、本文 |
-| src-006 | 公式サイト (話数あらすじ) | [https://www.hagaren.jp/fa/about/story03.html](https://www.hagaren.jp/fa/about/story03.html) | © 荒川弘／鋼の錬金術師製作委員会・MBS | 2026-11-06 | 不要 | [世界観](world.md) 本文 |
-| src-007 | 公式サイト (話数あらすじ) | [https://www.hagaren.jp/fa/about/story04.html](https://www.hagaren.jp/fa/about/story04.html) | © 荒川弘／鋼の錬金術師製作委員会・MBS | 2026-11-06 | 不要 | [世界観](world.md) 図 2-5、図 3-2、本文<br>[コラム](column.md) 本文 |
+| src-006 | 公式サイト (話数あらすじ) | [https://www.hagaren.jp/fa/about/story03.html](https://www.hagaren.jp/fa/about/story03.html) | © 荒川弘／鋼の錬金術師製作委員会・MBS | 2026-11-06 | 不要 | [世界観](world.md) 図 1-5、本文 |
+| src-007 | 公式サイト (話数あらすじ) | [https://www.hagaren.jp/fa/about/story04.html](https://www.hagaren.jp/fa/about/story04.html) | © 荒川弘／鋼の錬金術師製作委員会・MBS | 2026-11-06 | 不要 | [世界観](world.md) 図 2-5、図 3-2<br>[コラム](column.md) 本文 |
 | src-008 | 英語版の公式サイト (キャラクター) | [https://fullmetalalchemistusa.com/character/](https://fullmetalalchemistusa.com/character/) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 3-5、本文<br>[コラム](column.md) 本文 |
 | src-081 | 公式サイト (話数あらすじ) | [https://www.hagaren.jp/fa/about/story05.html](https://www.hagaren.jp/fa/about/story05.html) | © 荒川弘／鋼の錬金術師製作委員会・MBS | 2026-11-06 | 不要 | [世界観](world.md) 図 2-3、図 2-7、本文<br>[コラム](column.md) 本文 |
 
@@ -47,7 +47,7 @@ spoiler: 設定のネタバレを含む
 
 | id | 種類 | URL | 権利者 | 確認日 | 許諾 | 使っている箇所 |
 | --- | --- | --- | --- | --- | --- | --- |
-| src-009 | 事典 (Wikipedia) | [https://en.wikipedia.org/wiki/Fullmetal_Alchemist](https://en.wikipedia.org/wiki/Fullmetal_Alchemist) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 3-5、本文<br>[七つの大罪](seven-sins.md) 図 5-1<br>[コラム](column.md) 本文 |
+| src-009 | 事典 (Wikipedia) | [https://en.wikipedia.org/wiki/Fullmetal_Alchemist](https://en.wikipedia.org/wiki/Fullmetal_Alchemist) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 2-6、図 3-5、本文<br>[七つの大罪](seven-sins.md) 図 5-1<br>[コラム](column.md) 本文 |
 | src-011 | 事典 (Wikipedia) | [https://en.wikipedia.org/wiki/Alchemy](https://en.wikipedia.org/wiki/Alchemy) | 不明 | 2026-11-06 | 不要 | [コラム](column.md) 本文 |
 | src-012 | 事典 (Wikipedia) | [https://en.wikipedia.org/wiki/Waidan](https://en.wikipedia.org/wiki/Waidan) | 不明 | 2026-11-06 | 不要 | [コラム](column.md) 本文 |
 | src-013 | 事典 (Wikipedia) | [https://en.wikipedia.org/wiki/Neidan](https://en.wikipedia.org/wiki/Neidan) | 不明 | 2026-11-06 | 不要 | [コラム](column.md) 本文 |
@@ -59,11 +59,11 @@ spoiler: 設定のネタバレを含む
 | src-035 | ファン wiki | [https://fma.fandom.com/wiki/Volume_19](https://fma.fandom.com/wiki/Volume_19) | 不明 | 2026-11-06 | 不要 | [コラム](column.md) 本文 |
 | src-037 | ファン wiki | [https://fma.fandom.com/wiki/Roy_Mustang](https://fma.fandom.com/wiki/Roy_Mustang) | 不明 | 2026-11-06 | 不要 | [コラム](column.md) 本文 |
 | src-038 | 利用者が編集する事典 (namu.wiki) | [https://en.namu.wiki/w/강철의 연금술사/등장인물](https://en.namu.wiki/w/%EA%B0%95%EC%B2%A0%EC%9D%98%20%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC) | 不明 | 2026-11-06 | 不要 | [コラム](column.md) 本文 |
-| src-040 | 事典 (Wikipedia) | [https://ja.wikipedia.org/wiki/鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 1-3、図 1-4、図 1-5、図 1-6、図 1-7、図 1-8、図 2-2、図 2-3、図 2-5、図 2-6、図 2-8、図 3-2、図 3-3、図 3-5、本文<br>[能力](abilities.md) 図 3-1、図 4-1、本文<br>[コラム](column.md) 本文 |
+| src-040 | 事典 (Wikipedia) | [https://ja.wikipedia.org/wiki/鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 1-3、図 1-4、図 1-5、図 1-6、図 1-7、図 1-8、図 2-2、図 2-3、図 2-4、図 2-5、図 2-6、図 2-8、図 3-2、図 3-3、図 3-5、本文<br>[能力](abilities.md) 図 3-1、図 4-1、本文<br>[コラム](column.md) 本文 |
 | src-041 | 事典 (Wikipedia) | [https://ja.wikipedia.org/wiki/鋼の錬金術師_FULLMETAL_ALCHEMIST](https://ja.wikipedia.org/wiki/鋼の錬金術師_FULLMETAL_ALCHEMIST) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 1-6 |
 | src-042 | 事典 (Wikipedia) | [https://en.wikipedia.org/wiki/List_of_Fullmetal_Alchemist_characters](https://en.wikipedia.org/wiki/List_of_Fullmetal_Alchemist_characters) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 2-5、図 2-7、図 2-8、図 3-4<br>[能力](abilities.md) 図 1-2、図 1-3、図 1-4、図 2-2、図 2-4、図 3-1、図 4-3、図 4-4<br>[七つの大罪](seven-sins.md) 図 2-1、図 2-2 |
 | src-043 | 事典 (Wikipedia) | [https://en.wikipedia.org/wiki/Edward_Elric](https://en.wikipedia.org/wiki/Edward_Elric) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 2-6、図 3-5、本文 |
-| src-044 | 事典 (マンガペディア) | [https://mangapedia.com/鋼の錬金術師-uninl50t6](https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 1-3、図 1-5、図 1-6、図 1-7、図 1-8、図 2-6、図 3-2、図 3-3、図 3-5<br>[コラム](column.md) 本文 |
+| src-044 | 事典 (マンガペディア) | [https://mangapedia.com/鋼の錬金術師-uninl50t6](https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 1-3、図 1-5、図 1-6、図 1-7、図 1-8、図 2-2、図 2-3、図 2-6、図 3-2、図 3-3、図 3-5<br>[コラム](column.md) 本文 |
 | src-045 | 利用者が編集する wiki (アニヲタ wiki) | [https://wiki3.jp/aniwotadata/name/国家錬金術師](https://wiki3.jp/aniwotadata/name/%E5%9B%BD%E5%AE%B6%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 2-3、図 2-4<br>[能力](abilities.md) 図 1-1、図 1-2、図 1-3、図 1-4、本文 |
 | src-046 | 利用者が編集する wiki (アニヲタ wiki) | [https://wiki3.jp/aniwotadata/name/鋼の錬金術師](https://wiki3.jp/aniwotadata/name/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 1-7、図 3-3、図 3-5 |
 | src-047 | 利用者が編集する事典 (ニコニコ大百科) | [https://dic.nicovideo.jp/a/賢者の石](https://dic.nicovideo.jp/a/%E8%B3%A2%E8%80%85%E3%81%AE%E7%9F%B3) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 3-2<br>[コラム](column.md) 本文 |
@@ -171,7 +171,7 @@ spoiler: 設定のネタバレを含む
 | src-021 | 科学記者の記事 (Philip Ball) | [https://philipball.co.uk/wp-content/uploads/2015/05/newtons_alchemy_final.pdf](https://philipball.co.uk/wp-content/uploads/2015/05/newtons_alchemy_final.pdf) | 不明 | 2026-11-06 | 不要 | [コラム](column.md) 本文 |
 | src-030 | 解説記事 (Looper) | [https://www.looper.com/179096/the-untold-truth-of-fullmetal-alchemist/](https://www.looper.com/179096/the-untold-truth-of-fullmetal-alchemist/) | 不明 | 2026-11-06 | 不要 | [コラム](column.md) 本文 |
 | src-050 | 解説サイト (daddyjim。補助扱い) | [https://daddyjim.com/ja/fullmetal-alchemist/character/Ishval-Civil-War](https://daddyjim.com/ja/fullmetal-alchemist/character/Ishval-Civil-War) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 2-5 |
-| src-051 | 解説サイト (daddyjim。補助扱い) | [https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-40-2009-Anime](https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-40-2009-Anime) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 2-7 |
+| src-051 | 解説サイト (daddyjim。補助扱い) | [https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-40-2009-Anime](https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-40-2009-Anime) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 2-7、図 2-8 |
 | src-052 | 解説サイト (daddyjim。補助扱い) | [https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-35-2009-Anime](https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-35-2009-Anime) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 2-6、図 2-8 |
 | src-053 | 解説サイト (daddyjim。補助扱い) | [https://daddyjim.com/ja/fullmetal-alchemist/character/Alchemist](https://daddyjim.com/ja/fullmetal-alchemist/character/Alchemist) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 2-3、図 2-4 |
 | src-054 | 解説サイト (daddyjim。補助扱い) | [https://daddyjim.com/ja/fullmetal-alchemist/character/Father](https://daddyjim.com/ja/fullmetal-alchemist/character/Father) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 1-5 |
@@ -185,7 +185,7 @@ spoiler: 設定のネタバレを含む
 | src-070 | 記事 (ComicBook) | [https://comicbook.com/anime/news/fullmetal-alchemist-edward-elric-disabled-anime](https://comicbook.com/anime/news/fullmetal-alchemist-edward-elric-disabled-anime) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 3-5、本文 |
 | src-071 | 解説記事 (CBR) | [https://www.cbr.com/fullmetal-alchemist-brotherhood-symbols-explained/](https://www.cbr.com/fullmetal-alchemist-brotherhood-symbols-explained/) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 1-8、図 3-4<br>[能力](abilities.md) 図 2-1、図 2-4、図 4-1、図 4-2、図 4-3、図 4-4、本文 |
 | src-072 | 解説記事 (Fiction Horizon) | [https://fictionhorizon.com/most-important-fullmetal-alchemist-symbols-meanings/](https://fictionhorizon.com/most-important-fullmetal-alchemist-symbols-meanings/) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 1-6、図 1-8、図 2-6、本文<br>[能力](abilities.md) 図 4-4 |
-| src-074 | まとめ記事 (RENOTE) | [https://renote.net/articles/13966](https://renote.net/articles/13966) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 1-8、図 2-3 |
+| src-074 | まとめ記事 (RENOTE) | [https://renote.net/articles/13966](https://renote.net/articles/13966) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 1-8、図 2-3、図 3-3 |
 | src-075 | まとめ記事 (RENOTE) | [https://renote.net/articles/13936](https://renote.net/articles/13936) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 1-6、図 2-3 |
 | src-076 | まとめ記事 (RENOTE) | [https://renote.net/articles/78723](https://renote.net/articles/78723) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 2-5 |
 | src-077 | まとめ記事 (ciatr) | [https://ciatr.jp/topics/308259](https://ciatr.jp/topics/308259) | 不明 | 2026-11-06 | 不要 | [世界観](world.md) 図 1-4、図 1-8、図 3-3、図 3-4 |
@@ -283,8 +283,8 @@ spoiler: 設定のネタバレを含む
 | --- | --- | --- | --- |
 | 1 | 力の源は地殻変動のエネルギー | `3 サイトで一致` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-044]](https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6) [[src-058]](https://anigamers.com/2009/12/fma-brotherhood-diaries-episode-35.html) 2009 年版 第 35 話: [src-058] |
 | 2 | 地下の賢者の石があいだに入り、お父様は意思で封じられる | `2 サイトで一致` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-054]](https://daddyjim.com/ja/fullmetal-alchemist/character/Father) |
-| 3 | 玉座から国中のパイプに流す | `1 サイトのみ` | [[src-054]](https://daddyjim.com/ja/fullmetal-alchemist/character/Father) |
-| 4 | 比較として描いた龍脈と、封じが届かないこと (この節の印は図 1-7 に付けています) | 印なし | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-049]](https://dic.nicovideo.jp/a/%E3%83%A1%E3%82%A4%E3%83%BB%E3%83%81%E3%83%A3%E3%83%B3) [[src-054]](https://daddyjim.com/ja/fullmetal-alchemist/character/Father) |
+| 3 | 石を国中のパイプに流して封じる、と書く資料もある | `1 サイトのみ` | [[src-054]](https://daddyjim.com/ja/fullmetal-alchemist/character/Father) |
+| 4 | 比較として描いた龍脈と、封じが届かないこと | `公式` | [[src-006]](https://www.hagaren.jp/fa/about/story03.html) [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-049]](https://dic.nicovideo.jp/a/%E3%83%A1%E3%82%A4%E3%83%BB%E3%83%81%E3%83%A3%E3%83%B3) [[src-054]](https://daddyjim.com/ja/fullmetal-alchemist/character/Father) 公式あらすじ 第 31 話: [src-006] |
 | 5 | 錬金術師は知らずに封じられた魂の力を使っている | `1 サイトのみ` | [[src-054]](https://daddyjim.com/ja/fullmetal-alchemist/character/Father) |
 
 #### 世界観 図 1-6
@@ -293,10 +293,11 @@ spoiler: 設定のネタバレを含む
 
 | 番号 | 内容 | 印 | 出典 |
 | --- | --- | --- | --- |
-| 1 | 錬成陣で流し方を決める。円を基本に構築式を組み込み、多様な素材で描ける | `3 サイトで一致` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-044]](https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6) [[src-072]](https://fictionhorizon.com/most-important-fullmetal-alchemist-symbols-meanings/) |
+| 1 | 錬成陣にエネルギーを流して発動する。円を基本に構築式を組み込み、多様な素材で描ける | `3 サイトで一致` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-044]](https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6) [[src-072]](https://fictionhorizon.com/most-important-fullmetal-alchemist-symbols-meanings/) |
 | 2 | 真理の扉を見た者は手を合わせて陣なしで発動する | `2 サイトで一致` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-075]](https://renote.net/articles/13936) |
 | 3 | 手を合わせるのが一番楽だと思ったという作者の発言 | `1 サイトのみ` | [[src-029]](https://www.cinematoday.jp/page/A0005783) |
 | 4 | 錬成の光の色 | `1 サイトのみ` | [[src-041]](https://ja.wikipedia.org/wiki/鋼の錬金術師_FULLMETAL_ALCHEMIST) |
+| 5 | 陣なしの錬成は通常できない | `1 サイトのみ` | [[src-072]](https://fictionhorizon.com/most-important-fullmetal-alchemist-symbols-meanings/) |
 
 #### 世界観 図 1-7
 
@@ -307,7 +308,7 @@ spoiler: 設定のネタバレを含む
 | 1 | 力の源の違い | `5 サイトで一致` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-044]](https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6) [[src-046]](https://wiki3.jp/aniwotadata/name/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) [[src-049]](https://dic.nicovideo.jp/a/%E3%83%A1%E3%82%A4%E3%83%BB%E3%83%81%E3%83%A3%E3%83%B3) [[src-058]](https://anigamers.com/2009/12/fma-brotherhood-diaries-episode-35.html) 2009 年版 第 35 話: [src-058] |
 | 2 | 使えなくなる場面 | `1 サイトのみ` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) |
 | 3 | 錬金術は作中でもっとも進んだ科学 | `公式` | [[src-001]](https://www.hagaren.jp/fa/about/introduction.html) |
-| 4 | 錬丹術は医療に特化して発達した術 | `1 サイトのみ` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) |
+| 4 | 錬丹術は医療に特化して発達した術 | `2 サイトで一致` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-044]](https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6) |
 | 5 | 遠隔錬成。メイ・チャンは龍脈を読んで使う | `2 サイトで一致` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-049]](https://dic.nicovideo.jp/a/%E3%83%A1%E3%82%A4%E3%83%BB%E3%83%81%E3%83%A3%E3%83%B3) |
 | 6 | 技術は西の賢者が伝えて発展 | `1 サイトのみ` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) |
 
@@ -333,7 +334,7 @@ spoiler: 設定のネタバレを含む
 | 番号 | 内容 | 印 | 出典 |
 | --- | --- | --- | --- |
 | 1 | アメストリスは軍事国家で、国軍の最高責任者は大総統キング・ブラッドレイ | `公式` | [[src-001]](https://www.hagaren.jp/fa/about/introduction.html) [[src-002]](https://www.hagaren.jp/fa/characters/index01.html) |
-| 2 | 国土はほぼ円形で、中央と東西南北の 5 地域に分かれる | `1 サイトのみ` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) |
+| 2 | 国土はほぼ円形で、中央と東西南北の 5 地域に分かれる | `2 サイトで一致` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-044]](https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6) |
 | 3 | クセルクセスは東の大砂漠にあった古代の王国で、ヴァン・ホーエンハイムの出身地 | `1 サイトのみ` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) |
 
 #### 世界観 図 2-3
@@ -345,11 +346,12 @@ spoiler: 設定のネタバレを含む
 | 1 | 国家資格で、年に一度の査定があり、二つ名を持つ。エドワードは史上最年少の 12 歳で取得 | `公式` | [[src-001]](https://www.hagaren.jp/fa/about/introduction.html) [[src-002]](https://www.hagaren.jp/fa/characters/index01.html) [[src-003]](https://www.hagaren.jp/fa/about/story.html) |
 | 2 | 軍の階級で少佐に相当 | `2 サイトで一致` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-045]](https://wiki3.jp/aniwotadata/name/%E5%9B%BD%E5%AE%B6%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) |
 | 3 | 銀時計は国家錬金術師の証 | `公式` | [[src-004]](https://www.hagaren.jp/fa/about/story01.html) [[src-045]](https://wiki3.jp/aniwotadata/name/%E5%9B%BD%E5%AE%B6%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) [[src-074]](https://renote.net/articles/13966) 公式あらすじ 第 11 話: [src-004] |
-| 4 | 持てる権利: 銀時計の提示で研究費を引き出す、年に数千万センズの研究費、特殊な文献の閲覧、施設の優先利用、軍人として働く者の報告の免除 | `1 サイトのみ` | [[src-045]](https://wiki3.jp/aniwotadata/name/%E5%9B%BD%E5%AE%B6%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) |
-| 5 | 負う義務: 年に一度の査定と成果不振での資格喪失、三大制限、招集されれば人間兵器として戦地へ | `1 サイトのみ` | [[src-045]](https://wiki3.jp/aniwotadata/name/%E5%9B%BD%E5%AE%B6%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) |
+| 4 | 持てる権利: 年に数千万センズの研究費、特殊な文献の閲覧、施設の優先利用 | `3 サイトで一致` | [[src-045]](https://wiki3.jp/aniwotadata/name/%E5%9B%BD%E5%AE%B6%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-044]](https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6) 研究費は [src-045] [src-040] の 2 サイト |
+| 5 | 負う義務: 年に一度の査定と成果不振での資格喪失、三大制限、招集されれば人間兵器として戦地へ | `3 サイトで一致` | [[src-045]](https://wiki3.jp/aniwotadata/name/%E5%9B%BD%E5%AE%B6%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-044]](https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6) 査定は [src-045] [src-040] の 2 サイト |
 | 6 | 制度の裏の目的は人柱の候補の確保 | `2 サイトで一致` | [[src-045]](https://wiki3.jp/aniwotadata/name/%E5%9B%BD%E5%AE%B6%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) [[src-053]](https://daddyjim.com/ja/fullmetal-alchemist/character/Alchemist) |
 | 7 | 人柱は 5 人 | `公式` | [[src-081]](https://www.hagaren.jp/fa/about/story05.html) [[src-075]](https://renote.net/articles/13936) 公式あらすじ 第 60 話: [src-081] |
 | 8 | 人柱とは人体錬成で扉に到達した者 | `1 サイトのみ` | [[src-075]](https://renote.net/articles/13936) |
+| 9 | 銀時計を見せて研究費を引き出す。軍人として働く者は報告が免除 | `1 サイトのみ` | [[src-045]](https://wiki3.jp/aniwotadata/name/%E5%9B%BD%E5%AE%B6%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) |
 
 #### 世界観 図 2-4
 
@@ -357,7 +359,7 @@ spoiler: 設定のネタバレを含む
 
 | 番号 | 内容 | 印 | 出典 |
 | --- | --- | --- | --- |
-|  | 筆記、精神鑑定、実技か研究の提出、面接の 4 段階 (一部は 2003 年版の描写に基づく) [src-045]、筆記、精神鑑定、実技の 3 つ [src-053] | `説が割れている` | [[src-045]](https://wiki3.jp/aniwotadata/name/%E5%9B%BD%E5%AE%B6%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) [[src-053]](https://daddyjim.com/ja/fullmetal-alchemist/character/Alchemist) |
+|  | 筆記、精神鑑定、実技か研究の提出、面接の 4 段階 (筆記と実技の場面は 2003 年版で描かれた、と同じ資料が書く) [src-045]、筆記、精神鑑定、実技の 3 つ [src-053] [src-040] | `説が割れている` | [[src-045]](https://wiki3.jp/aniwotadata/name/%E5%9B%BD%E5%AE%B6%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) [[src-053]](https://daddyjim.com/ja/fullmetal-alchemist/character/Alchemist) [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) |
 
 #### 世界観 図 2-5
 
@@ -386,10 +388,12 @@ spoiler: 設定のネタバレを含む
 | 1 | 国土錬成陣はアメストリス国民全てを巻き込む | `公式` | [[src-005]](https://www.hagaren.jp/fa/about/story02.html) 公式あらすじ 第 24 話: [src-005] |
 | 6 | 目的は国内の全員を犠牲にして巨大な賢者の石を作ること | `4 サイトで一致` | [[src-043]](https://en.wikipedia.org/wiki/Edward_Elric) [[src-044]](https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6) [[src-056]](https://animeoshi.com/anime/fullmetal-alchemist-brotherhood/episode/35) [[src-068]](https://publis-shs.univ-rouen.fr/ceredi/2126-1.pdf) 2009 年版 第 35 話: [src-056] |
 | 2 | 国内の虐殺の地点を結ぶと陣が浮かび、紛争や領土拡大はそのために起こされた | `3 サイトで一致` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-044]](https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6) [[src-052]](https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-35-2009-Anime) 2009 年版 第 35 話: [src-052] |
-| 3 | スロウスが国中に掘った地下道が陣の線になる。ブリッグズの地下もその一部 | `公式` | [[src-002]](https://www.hagaren.jp/fa/characters/index01.html) |
+| 3 | 国土錬成陣の発動に使う地下道を、スロウスが国中に掘っている | `公式` | [[src-002]](https://www.hagaren.jp/fa/characters/index01.html) |
 | 5 | 発動には日食が要り、その日が約束の日になる | `2 サイトで一致` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-068]](https://publis-shs.univ-rouen.fr/ceredi/2126-1.pdf) |
 | 4 | 国の外縁の 10 都市を軸に設計された、と書く記事がある | `1 サイトのみ` | [[src-072]](https://fictionhorizon.com/most-important-fullmetal-alchemist-symbols-meanings/) |
-| 7 | お父様が石のために国そのものを作った | `1 サイトのみ` | [[src-052]](https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-35-2009-Anime) |
+| 7 | お父様が石のために国そのものを作った | `2 サイトで一致` | [[src-052]](https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-35-2009-Anime) [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-009]](https://en.wikipedia.org/wiki/Fullmetal_Alchemist) Wikipedia は言語が違っても 1 と数えています |
+| 8 | 地下道は陣の線になる | `1 サイトのみ` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) |
+| 9 | ブリッグズの地下のトンネルもその一部 | `2 サイトで一致` | [[src-056]](https://animeoshi.com/anime/fullmetal-alchemist-brotherhood/episode/35) [[src-052]](https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-35-2009-Anime) 2009 年版 第 35 話: [src-056] |
 |  | 陣の形: 円とする解説ページの同じページのよくある質問は五角形 [src-052]、第五研究所の二重五角形に似る [src-072] | `説が割れている` | [[src-052]](https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-35-2009-Anime) [[src-072]](https://fictionhorizon.com/most-important-fullmetal-alchemist-symbols-meanings/) |
 
 #### 世界観 図 2-7
@@ -411,7 +415,7 @@ spoiler: 設定のネタバレを含む
 
 | 番号 | 内容 | 印 | 出典 |
 | --- | --- | --- | --- |
-|  | クセルクセスの時期: 400 年前に滅びた [src-068]、1506 年に滅びた (年表 1 件だけの記載。作中の 1914 年から約 408 年前で 400 年前とほぼ同じ) [src-073]、約 500 年前にあった国 [src-078] | `説が割れている` | [[src-068]](https://publis-shs.univ-rouen.fr/ceredi/2126-1.pdf) [[src-073]](https://www.tiki-toki.com/timeline/entry/515716/Fullmetal-Alchemist-Manga2009-Anime-Timeline/) [[src-078]](https://ciatr.jp/topics/169821) |
+|  | クセルクセスの時期: 400 年前に滅びた [src-068]、1506 年に滅びた (年表 1 件だけの記載。作中の 1914 年 [src-051] から約 408 年前で 400 年前とほぼ同じ) [src-073]、約 500 年前にあった国 [src-078] | `説が割れている` | [[src-068]](https://publis-shs.univ-rouen.fr/ceredi/2126-1.pdf) [[src-073]](https://www.tiki-toki.com/timeline/entry/515716/Fullmetal-Alchemist-Manga2009-Anime-Timeline/) [[src-078]](https://ciatr.jp/topics/169821) [[src-051]](https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-40-2009-Anime) |
 |  | お父様が生まれた時期: 約 8 世紀前 [src-042]、1480 年 (年表 1 件だけの記載) [src-073] | `説が割れている` | [[src-042]](https://en.wikipedia.org/wiki/List_of_Fullmetal_Alchemist_characters) [[src-073]](https://www.tiki-toki.com/timeline/entry/515716/Fullmetal-Alchemist-Manga2009-Anime-Timeline/) |
 |  | 建国の年: 1558 年ごろ [src-040]、1550 年 [src-073]。別の資料は 1558 年をリヴィエールの事件の年とする [src-052] | `説が割れている` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-073]](https://www.tiki-toki.com/timeline/entry/515716/Fullmetal-Alchemist-Manga2009-Anime-Timeline/) [[src-052]](https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-35-2009-Anime) |
 
@@ -442,8 +446,9 @@ spoiler: 設定のネタバレを含む
 | 4 | 材料の一覧が精確でも失敗する | `1 サイトのみ` | [[src-031]](https://jgeekstudies.org/2026/05/12/on-the-relation-between-full-metal-alchemists-equivalent-exchange-and-the-scientific-conservation-laws/) |
 | 5 | 魂の対価が分からないまま、兄弟は血を数滴入れただけだった (原作を論じた論文) | `1 サイトのみ` | [[src-068]](https://publis-shs.univ-rouen.fr/ceredi/2126-1.pdf) |
 | 6 | 結果として生まれるのは半端な怪物 | `1 サイトのみ` | [[src-061]](https://www.thefandomentals.com/fullmetal-alchemist-humanity) |
-| 7 | イズミは子の蘇生に失敗して内臓の一部を失った | `1 サイトのみ` | [[src-046]](https://wiki3.jp/aniwotadata/name/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) |
+| 7 | イズミは子の蘇生に失敗して内臓の一部を失った | `公式` | [[src-002]](https://www.hagaren.jp/fa/characters/index01.html) [[src-046]](https://wiki3.jp/aniwotadata/name/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) |
 | 8 | 行った国家錬金術師は資格を奪われる | `1 サイトのみ` | [[src-044]](https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6) |
+| 9 | 代償は術者の身体に及ぶ | `2 サイトで一致` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-074]](https://renote.net/articles/13966) |
 
 #### 世界観 図 3-4
 
@@ -453,7 +458,7 @@ spoiler: 設定のネタバレを含む
 | --- | --- | --- | --- |
 | 1 | お父様が自分から切り離した面を賢者の石の欠片に移した存在で、七つの大罪の名を持つ | `2 サイトで一致` | [[src-042]](https://en.wikipedia.org/wiki/List_of_Fullmetal_Alchemist_characters) [[src-078]](https://ciatr.jp/topics/169821) |
 | 2 | 多くはお父様の肉の身体に入り、ラースと 2 代目の強欲は人間の身体を使う | `1 サイトのみ` | [[src-042]](https://en.wikipedia.org/wiki/List_of_Fullmetal_Alchemist_characters) |
-| 3 | ラースは魂が 1 つで人間を土台にしているので年を取る | `1 サイトのみ` | [[src-078]](https://ciatr.jp/topics/169821) |
+| 3 | ラースは魂が 1 つで人間を土台にしているので年を取る | `2 サイトで一致` | [[src-002]](https://www.hagaren.jp/fa/characters/index01.html) [[src-078]](https://ciatr.jp/topics/169821) 元は人間で年を取ることは [src-002]、魂が 1 つは [src-078] だけ |
 | 4 | 石の力で、倒れても復活する | `公式` | [[src-001]](https://www.hagaren.jp/fa/about/introduction.html) [[src-002]](https://www.hagaren.jp/fa/characters/index01.html) [[src-003]](https://www.hagaren.jp/fa/about/story.html) [[src-004]](https://www.hagaren.jp/fa/about/story01.html) |
 | 5 | 復活は中の魂が尽きるまでで、尽きれば死ぬ | `2 サイトで一致` | [[src-065]](https://www.animesparks.blog/blog/fullmetal-alchemist-philosophers-stone-explained-human-souls) [[src-078]](https://ciatr.jp/topics/169821) |
 | 6 | ウロボロスの印を持つのはホムンクルスだけ | `1 サイトのみ` | [[src-071]](https://www.cbr.com/fullmetal-alchemist-brotherhood-symbols-explained/) 2009 年版 第 1 話: [src-071] |
@@ -474,8 +479,8 @@ spoiler: 設定のネタバレを含む
 | 6 | 激痛を伴う手術と、維持の費用 | `2 サイトで一致` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-046]](https://wiki3.jp/aniwotadata/name/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) |
 | 7 | 訓練は最低 3 年とされ、エドワードは 1 年で身につけた。成長に合わせて作り直す | `1 サイトのみ` | [[src-046]](https://wiki3.jp/aniwotadata/name/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) |
 | 8 | ファンの投稿をまとめた記事に、幻肢痛と高温の土地での皮膚の火傷という記述がある | `1 サイトのみ` | [[src-070]](https://comicbook.com/anime/news/fullmetal-alchemist-edward-elric-disabled-anime) |
-| 9 | 義肢の需要はイシュヴァールの戦争で急に高まった | `1 サイトのみ` | [[src-046]](https://wiki3.jp/aniwotadata/name/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) |
-| 10 | 機械鎧技師たちの聖地がラッシュバレー | `公式` | [[src-004]](https://www.hagaren.jp/fa/about/story01.html) [[src-009]](https://en.wikipedia.org/wiki/Fullmetal_Alchemist) [[src-044]](https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6) [[src-080]](https://anigamers.com/2009/06/fma-brotherhood-diaries-episode-11.html) 公式あらすじ 第 11 話: [src-004]。2009 年版 第 11 話: [src-080] |
+| 9 | 義肢の需要はイシュヴァールの戦争で急に高まった | `2 サイトで一致` | [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-046]](https://wiki3.jp/aniwotadata/name/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB) |
+| 10 | 機械鎧技師たちの聖地がラッシュバレー | `公式` | [[src-004]](https://www.hagaren.jp/fa/about/story01.html) [[src-009]](https://en.wikipedia.org/wiki/Fullmetal_Alchemist) [[src-040]](https://ja.wikipedia.org/wiki/鋼の錬金術師) [[src-044]](https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6) [[src-080]](https://anigamers.com/2009/06/fma-brotherhood-diaries-episode-11.html) 公式あらすじ 第 11 話: [src-004]。2009 年版 第 11 話: [src-080] |
 | 11 | 作者は、重い義肢なら相応の筋肉が要り、エドワードの年齢に合わないと気にしていた | `1 サイトのみ` | [[src-043]](https://en.wikipedia.org/wiki/Edward_Elric) |
 
 ### 能力

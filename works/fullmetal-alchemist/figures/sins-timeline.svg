@@ -1,14 +1,14 @@
-<svg data-sources="src-201 src-202 src-203 src-204 src-205 src-206 src-207 src-208 src-210 src-211 src-212" xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 1132" width="640" height="1132" role="img" aria-labelledby="sins-timeline-title sins-timeline-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<svg data-sources="src-201 src-202 src-203 src-204 src-205 src-206 src-207 src-208 src-210 src-211 src-212" xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 1264" width="640" height="1264" role="img" aria-labelledby="sins-timeline-title sins-timeline-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
 <title id="sins-timeline-title">七つの大罪の年表</title>
-<desc id="sins-timeline-desc">4 世紀のエウァグリオスの八つの想念から現代のカテキズムまで 9 項目を縦の年表で示す。右端の数字は一覧の数で、8 から 7 へ変わる。ボスの年代と作者、グレゴリウスの年の示し方は説が分かれるので破線の枠で示す。</desc>
+<desc id="sins-timeline-desc">4 世紀のエウァグリオスの八つの想念から現代のカテキズムまで 9 項目を縦の年表で示す。右端の数字は一覧の数で、8 から 7 へ変わる。ボスの年代と作者、グレゴリウスの年の示し方、起源の説明は説が分かれるので破線の枠で示す。</desc>
 <defs><pattern id="sins-timeline-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
-<rect width="640" height="1132" fill="#f1f5f8"/>
-<rect width="640" height="1132" fill="url(#sins-timeline-grid)"/>
+<rect width="640" height="1264" fill="#f1f5f8"/>
+<rect width="640" height="1264" fill="url(#sins-timeline-grid)"/>
 <rect x="0" y="0" width="640" height="56" fill="#10131a"/>
 <polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
 <polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
 <text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">八つの想念から七つの大罪へ</text>
-<line x1="34.0" y1="72.0" x2="34.0" y2="1052.0" stroke="#10131a" stroke-width="5" stroke-linecap="butt"/>
+<line x1="34.0" y1="72.0" x2="34.0" y2="1162.0" stroke="#10131a" stroke-width="5" stroke-linecap="butt"/>
 <rect x="60" y="74" width="516" height="98" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
 <text x="74" y="98" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">4 世紀</text>
 <text x="74" y="122" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">エウァグリオス</text>
@@ -53,7 +53,7 @@
 <text x="74" y="538" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">1321 頃</text>
 <text x="74" y="562" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">ダンテ『神曲』煉獄篇</text>
 <text x="74" y="584.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">山の七段を高慢から色欲へ登る。七つを</text>
-<text x="74" y="604.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">歪んだ愛として整理する</text>
+<text x="74" y="604.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">愛の乱れとして整理する</text>
 <circle cx="34.0" cy="558.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
 <text x="34" y="564" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">5</text>
 <line x1="48.0" y1="558.0" x2="60.0" y2="558.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
@@ -99,12 +99,20 @@
 <line x1="48.0" y1="998.0" x2="60.0" y2="998.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
 <circle cx="604.0" cy="998.0" r="22" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
 <text x="604" y="1007" font-size="26" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
-<line x1="14.0" y1="1088.0" x2="626.0" y2="1088.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
-<circle cx="30.0" cy="1109.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
-<text x="44" y="1115" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
-<circle cx="204.0" cy="1109.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
-<text x="218" y="1115" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
-<rect x="338" y="1101" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
-<text x="372" y="1115" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
-<rect x="1.5" y="1.5" width="637" height="1129" fill="none" stroke="#10131a" stroke-width="3"/>
+<rect x="60" y="1064" width="516" height="120" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3" stroke-dasharray="7,4"/>
+<text x="74" y="1090" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">起源の説明</text>
+<text x="74" y="1114.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">4 世紀の八つの想念を起源とする事典と、</text>
+<text x="74" y="1134.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">テルトゥリアヌスに遡り、エウァグリオスは</text>
+<text x="74" y="1154.8" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">九を八に減らしたとする事典がある</text>
+<circle cx="34.0" cy="1108.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="34" y="1114" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">10</text>
+<line x1="48.0" y1="1108.0" x2="60.0" y2="1108.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<line x1="14.0" y1="1220.0" x2="626.0" y2="1220.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="1241.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="1247" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="1241.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="1247" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="1233" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="1247" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="1261" fill="none" stroke="#10131a" stroke-width="3"/>
 </svg>

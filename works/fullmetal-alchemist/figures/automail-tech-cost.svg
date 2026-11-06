@@ -74,8 +74,8 @@
 <rect x="30" y="612" width="262" height="104" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
 <text x="161.0" y="659.07" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">イシュヴァールの戦争で</text>
 <text x="161.0" y="681.1700000000001" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">義肢の需要が急に高まる</text>
-<circle cx="48.0" cy="630.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
-<text x="48" y="636" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">9</text>
+<circle cx="48.0" cy="630.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="48" y="636" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">9</text>
 <path d="M296.0 664.0 L328.0 664.0" fill="none" stroke="#d92d20" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
 <polygon points="344.0,664.0 328.0,675.5 328.0,652.5" fill="#d92d20" stroke="#d92d20" stroke-width="1.5" stroke-linejoin="round"/>
 <rect x="348" y="612" width="262" height="104" rx="4" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>

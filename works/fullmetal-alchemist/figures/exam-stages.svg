@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 430" width="640" height="430" role="img" aria-labelledby="exam-stages-title exam-stages-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
 <title id="exam-stages-title">試験の段階の 2 つの書き方</title>
-<desc id="exam-stages-desc">国家錬金術師の試験について、4 段階とする書き方と 3 つとする書き方を破線の枠で並べた図。4 段階の一部は 2003 年版の描写に基づくことも記す</desc>
+<desc id="exam-stages-desc">国家錬金術師の試験について、4 段階とする書き方と 3 つとする書き方を破線の枠で並べた図。筆記と実技の場面は 2003 年版で描かれた、と 4 段階の資料が書くことも記す</desc>
 <defs><pattern id="exam-stages-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
 <rect width="640" height="430" fill="#f1f5f8"/>
 <rect width="640" height="430" fill="url(#exam-stages-grid)"/>
@@ -23,10 +23,10 @@
 <polygon points="462.4,142.0 469.0,142.0 476.7,153.0 469.0,164.0 462.4,164.0 470.1,153.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
 <rect x="476" y="122" width="134" height="62" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
 <text x="543.0" y="159.12" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">面接</text>
-<text x="32" y="210" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">一部は 2003 年版の描写に基づく</text>
+<text x="32" y="210" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">筆記と実技の場面は 2003 年版で描かれた、と同じ資料が書く</text>
 <rect x="16" y="238" width="608" height="124" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5" stroke-dasharray="10,6"/>
 <text x="32" y="270" font-size="21" font-weight="800" text-anchor="start" fill="#10131a">3 つとする</text>
-<text x="608" y="270" font-size="16" font-weight="500" text-anchor="end" fill="#46515c">[src-053]</text>
+<text x="608" y="270" font-size="16" font-weight="500" text-anchor="end" fill="#46515c">[src-053] [src-040]</text>
 <rect x="32" y="284" width="134" height="62" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
 <text x="99.0" y="321.12" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">筆記</text>
 <polygon points="166.4,304.0 173.0,304.0 180.7,315.0 173.0,326.0 166.4,326.0 174.1,315.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>

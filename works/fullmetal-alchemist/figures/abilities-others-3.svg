@@ -83,7 +83,7 @@
 <text x="206" y="495" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">立場</text>
 <circle cx="186.0" cy="489.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
 <text x="186" y="495" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
-<text x="258" y="495" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">等価交換の原則に反した錬金術</text>
+<text x="258" y="495" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">等価交換に従わない術を使う</text>
 <line x1="174.0" y1="506.0" x2="616.0" y2="506.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
 <text x="206" y="529" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">得意</text>
 <circle cx="186.0" cy="523.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>

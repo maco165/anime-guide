@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 880" width="640" height="880" role="img" aria-labelledby="xerxes-vs-nation-title xerxes-vs-nation-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
 <title id="xerxes-vs-nation-title">クセルクセスの陣と国土錬成陣</title>
-<desc id="xerxes-vs-nation-desc">クセルクセスの陣と国土錬成陣を、誰が造るか、陣の正体、発動の日、魂の行き先の 4 点で左右に比べる図。下にホーエンハイムの中の魂の数を棒で示す。計画が実現するかどうかは示さない</desc>
+<desc id="xerxes-vs-nation-desc">クセルクセスの陣と国土錬成陣を、誰が造るか、陣の正体、発動の日、魂の行き先の 4 点で左右に比べる図。下にホーエンハイムの中の魂の数を棒で示す</desc>
 <defs><pattern id="xerxes-vs-nation-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
 <rect width="640" height="880" fill="#f1f5f8"/>
 <rect width="640" height="880" fill="url(#xerxes-vs-nation-grid)"/>
