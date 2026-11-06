@@ -1,0 +1,93 @@
+<svg data-sources="src-201 src-203 src-207 src-209 src-217" xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 668" width="640" height="668" role="img" aria-labelledby="sins-name-table-title sins-name-table-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="sins-name-table-title">七つの大罪のラテン語名と英語名</title>
+<desc id="sins-name-table-desc">日本語、ラテン語、英語、エウァグリオスのギリシア語、作中の名の 5 列で 10 行の対応表を示す。虚栄と悲嘆には作中の名がない。作中の名は英語名を片仮名にしたものになる。</desc>
+<defs><pattern id="sins-name-table-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="668" fill="#f1f5f8"/>
+<rect width="640" height="668" fill="url(#sins-name-table-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">ラテン語名と英語名、作中の名</text>
+<rect x="16" y="70" width="608" height="32" rx="0" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="24" y="93" font-size="17" font-weight="800" text-anchor="start" fill="#ffffff">日本語</text>
+<text x="82" y="93" font-size="17" font-weight="800" text-anchor="start" fill="#ffffff">ラテン語</text>
+<text x="188" y="93" font-size="17" font-weight="800" text-anchor="start" fill="#ffffff">英語</text>
+<text x="332" y="93" font-size="17" font-weight="800" text-anchor="start" fill="#ffffff">ギリシア語</text>
+<text x="510" y="93" font-size="17" font-weight="800" text-anchor="start" fill="#ffffff">作中の名</text>
+<rect x="16" y="102" width="608" height="38" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="24" y="128" font-size="18" font-weight="800" text-anchor="start" fill="#10131a">高慢</text>
+<text x="82" y="128" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">superbia</text>
+<text x="188" y="128" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">pride</text>
+<text x="332" y="128" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">hyperephania</text>
+<text x="510" y="128" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">プライド</text>
+<rect x="16" y="140" width="608" height="38" rx="0" fill="#fdf0ee" stroke="#10131a" stroke-width="1.5"/>
+<text x="24" y="166" font-size="18" font-weight="800" text-anchor="start" fill="#10131a">虚栄</text>
+<text x="82" y="166" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">vanagloria</text>
+<text x="188" y="166" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">vainglory</text>
+<text x="332" y="166" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">kenodoxia</text>
+<text x="510" y="166" font-size="17" font-weight="800" text-anchor="start" fill="#10131a">—</text>
+<rect x="16" y="178" width="608" height="38" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="24" y="204" font-size="18" font-weight="800" text-anchor="start" fill="#10131a">嫉妬</text>
+<text x="82" y="204" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">invidia</text>
+<text x="188" y="204" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">envy</text>
+<text x="332" y="204" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">—</text>
+<text x="510" y="204" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">エンヴィー</text>
+<rect x="16" y="216" width="608" height="38" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="24" y="242" font-size="18" font-weight="800" text-anchor="start" fill="#10131a">憤怒</text>
+<text x="82" y="242" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">ira</text>
+<text x="188" y="242" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">wrath</text>
+<text x="332" y="242" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">orge</text>
+<text x="510" y="242" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">ラース</text>
+<rect x="16" y="254" width="608" height="38" rx="0" fill="#fdf0ee" stroke="#10131a" stroke-width="1.5"/>
+<text x="24" y="280" font-size="18" font-weight="800" text-anchor="start" fill="#10131a">悲嘆</text>
+<text x="82" y="280" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">tristitia</text>
+<text x="188" y="280" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">sorrow / sadness</text>
+<text x="332" y="280" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">lype</text>
+<text x="510" y="280" font-size="17" font-weight="800" text-anchor="start" fill="#10131a">—</text>
+<rect x="16" y="292" width="608" height="38" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="24" y="318" font-size="18" font-weight="800" text-anchor="start" fill="#10131a">怠惰</text>
+<text x="82" y="318" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">acedia</text>
+<text x="188" y="318" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">sloth</text>
+<text x="332" y="318" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">akedia</text>
+<text x="510" y="318" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">スロウス</text>
+<rect x="16" y="330" width="608" height="38" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="24" y="356" font-size="18" font-weight="800" text-anchor="start" fill="#10131a">怠惰</text>
+<text x="82" y="356" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">pigritia</text>
+<text x="188" y="356" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">sloth</text>
+<text x="332" y="356" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">—</text>
+<text x="510" y="356" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">スロウス</text>
+<rect x="16" y="368" width="608" height="38" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="24" y="394" font-size="18" font-weight="800" text-anchor="start" fill="#10131a">強欲</text>
+<text x="82" y="394" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">avaritia</text>
+<text x="188" y="394" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">greed / avarice</text>
+<text x="332" y="394" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">philargyria</text>
+<text x="510" y="394" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">グリード</text>
+<rect x="16" y="406" width="608" height="38" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="24" y="432" font-size="18" font-weight="800" text-anchor="start" fill="#10131a">暴食</text>
+<text x="82" y="432" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">gula</text>
+<text x="188" y="432" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">gluttony</text>
+<text x="332" y="432" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">gastrimargia</text>
+<text x="510" y="432" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">グラトニー</text>
+<rect x="16" y="444" width="608" height="38" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="24" y="470" font-size="18" font-weight="800" text-anchor="start" fill="#10131a">色欲</text>
+<text x="82" y="470" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">luxuria</text>
+<text x="188" y="470" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">lust</text>
+<text x="332" y="470" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">porneia (淫行)</text>
+<text x="510" y="470" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">ラスト</text>
+<circle cx="32.0" cy="504.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="32" y="510" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">1</text>
+<text x="54" y="510.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">同じ superbia が資料で「高慢」とも「傲慢」とも訳される。作中は傲慢</text>
+<text x="54" y="532.95" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">カッシアヌスの fornicatio をグレゴリウスが luxuria に置き換えた</text>
+<circle cx="32.0" cy="562.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="32" y="568" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">2</text>
+<text x="54" y="568.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">acedia は元は修道士の霊的な倦怠。sloth へ移った時期は特定できて</text>
+<text x="54" y="590.95" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">いない。pigritia はカテキズムの日本語解説が並べる語</text>
+<line x1="14.0" y1="624.0" x2="626.0" y2="624.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="645.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="651" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="645.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="651" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="637" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="651" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="665" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

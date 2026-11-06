@@ -1,0 +1,573 @@
+# 鋼の錬金術師「ホムンクルスと七つの大罪」のページの出典の台帳です。統合までの間 sources.yml と分けて置きます。
+# 本文は事実を筆者の言葉で書き、出典の文章を転載していないので、permission は不要としています。
+# rights_holder は権利者を確定できなかったものを「不明」と書きます。
+# 各項目の上のコメントは、その出典を使った図です。sources.yml にある URL はそちらの id を使い、ここには書きません。
+sources:
+  # name-flow, name-table, timeline
+  - id: src-201
+    url: https://en.wikipedia.org/wiki/Seven_deadly_sins
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, timeline
+  - id: src-202
+    url: https://en.wikipedia.org/wiki/Logismoi
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, name-table, timeline
+  - id: src-203
+    url: https://ja.wikipedia.org/wiki/七つの大罪
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, timeline
+  - id: src-204
+    url: https://www.newadvent.org/summa/2084.htm
+    kind: 原典の英訳 (New Advent, トマス『神学大全』)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, timeline
+  - id: src-205
+    url: https://www.newadvent.org/fathers/350705.htm
+    kind: 原典の英訳 (New Advent, カッシアヌス『共住修道制綱要』)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, timeline
+  - id: src-206
+    url: https://www.lectionarycentral.com/GregoryMoralia/Book31.html
+    kind: 原典の英訳 (Lectionary Central, グレゴリウス『ヨブ記講解』)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, name-table, timeline
+  - id: src-207
+    url: https://www.vatican.va/archive/ENG0015/__P6D.HTM
+    kind: 教会の文書 (バチカン, カトリック教会のカテキズム)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, timeline
+  - id: src-208
+    url: https://www.jesus4u.co.uk/study-sheets/evagrius-seven-deadly-sins-origins/history-of-sin
+    kind: 解説記事 (jesus4u)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, name-table
+  - id: src-209
+    url: https://en.wikipedia.org/wiki/Acedia
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, timeline
+  - id: src-210
+    url: https://en.wikipedia.org/wiki/Purgatorio
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # timeline
+  - id: src-211
+    url: https://en.wikipedia.org/wiki/The_Parson%27s_Tale
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # timeline
+  - id: src-212
+    url: https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_and_the_Four_Last_Things
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # combination, lore, recipe
+  - id: src-213
+    url: https://en.wikipedia.org/wiki/Homunculus
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # combination, lore, recipe
+  - id: src-214
+    url: https://ja.wikipedia.org/wiki/ホムンクルス
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # recipe
+  - id: src-215
+    url: https://hyle.org/journal/issues/12-1/rev_schummer1.htm
+    kind: 論考
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # lore
+  - id: src-216
+    url: https://www.litcharts.com/lit/faust/characters/homunculus
+    kind: 作品解説 (LitCharts)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # father, fma-map, name-table
+  - id: src-217
+    url: https://ja.wikipedia.org/wiki/鋼の錬金術師の主要な登場人物
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # fma-map
+  - id: src-218
+    url: https://gamebiz.jp/news/342177
+    kind: ニュース記事 (gamebiz, ゲーム『鋼の錬金術師 MOBILE』の公式情報)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # fma-map
+  - id: src-219
+    url: https://tatara-pt.com/book/comic/fullmetal-alchemist-homunculus/
+    kind: 解説記事 (tatara-pt)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # combination, father, fma-map
+  - id: src-220
+    url: https://www.slashfilm.com/1799815/fullmetal-alchemist-seven-deadly-sins-meaning-explained/
+    kind: 論考記事 (SlashFilm)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # father
+  - id: src-221
+    url: https://www.cbr.com/fullmetal-alchemist-homunculus-explained/
+    kind: 解説記事 (CBR)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-222
+    url: https://ci-en.net/creator/1403/article/78090
+    kind: 個人ブログ (Ci-en)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-a, medium, usage
+  - id: src-223
+    url: https://ja.wikipedia.org/wiki/七つの大罪_(漫画)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-a, medium, usage
+  - id: src-224
+    url: https://ja.wikipedia.org/wiki/Sin_七つの大罪
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-b, medium, usage
+  - id: src-225
+    url: https://ja.wikipedia.org/wiki/七つの大罪_(ホビージャパン)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-226
+    url: https://en.wikipedia.org/wiki/Seven_(1995_film)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-227
+    url: https://en.wikipedia.org/wiki/Shazam!_(film)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-228
+    url: https://ja.wikipedia.org/wiki/Re:ゼロから始める異世界生活
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-229
+    url: https://ja.wikipedia.org/wiki/うみねこのなく頃に
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, usage
+  - id: src-230
+    url: https://en.wikipedia.org/wiki/Umineko_When_They_Cry
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-b, medium, usage
+  - id: src-231
+    url: https://ja.wikipedia.org/wiki/ペルソナ5
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, usage
+  - id: src-232
+    url: https://en.wikipedia.org/wiki/Dead_Rising_3
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-a, medium, usage
+  - id: src-233
+    url: https://ja.wikipedia.org/wiki/SERVAMP-サーヴァンプ-
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-a, medium, usage
+  - id: src-234
+    url: https://ja.wikipedia.org/wiki/機巧童子ULTIMO
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-235
+    url: https://ja.wikipedia.org/wiki/トリニティセブン_7人の魔書使い
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-236
+    url: https://ja.wikipedia.org/wiki/ブラックマトリクス
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-237
+    url: https://www.siliconera.com/review-monark-ps5-switch-pc/
+    kind: レビュー記事 (Siliconera)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, usage
+  - id: src-238
+    url: https://ja.wikipedia.org/wiki/モナーク/Monark
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-b, medium, usage
+  - id: src-239
+    url: https://ja.wikipedia.org/wiki/ザンキゼロ
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-b, medium, usage
+  - id: src-240
+    url: https://ja.wikipedia.org/wiki/蒼き雷霆_ガンヴォルト
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-241
+    url: https://ja.wikipedia.org/wiki/真・女神転生if...
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-242
+    url: https://ja.wikipedia.org/wiki/9S
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-243
+    url: https://ja.wikipedia.org/wiki/悪ノ大罪シリーズ
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, usage
+  - id: src-244
+    url: https://ja.wikipedia.org/wiki/デモンブライド
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-245
+    url: https://en.wikipedia.org/wiki/Darksiders_III
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, usage
+  - id: src-246
+    url: https://en.wikipedia.org/wiki/The_Binding_of_Isaac_(video_game)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-247
+    url: https://bindingofisaacrebirth.wiki.gg/wiki/Mini-boss
+    kind: ファンウィキ (wiki.gg)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-248
+    url: https://en.wikipedia.org/wiki/Doctor_Faustus_(play)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-249
+    url: https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(ballet)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-250
+    url: https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(1952_film)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-251
+    url: https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(1962_film)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-252
+    url: https://en.wikipedia.org/wiki/Devil_May_Cry_3:_Dante%27s_Awakening
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, usage
+  - id: src-253
+    url: https://en.wikipedia.org/wiki/Reborn!
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-254
+    url: https://ja.wikipedia.org/wiki/天使禁猟区
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-b, medium, usage
+  - id: src-255
+    url: https://ja.wikipedia.org/wiki/ドキドキ!プリキュア
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, usage
+  - id: src-256
+    url: https://ja.wikipedia.org/wiki/境界線上のホライゾン
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-257
+    url: https://en.wikipedia.org/wiki/Limbus_Company
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-258
+    url: https://en.wikipedia.org/wiki/The_Keys_to_the_Kingdom
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-259
+    url: https://ja.wikipedia.org/wiki/SWORD_BREAKER
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-b, medium, usage
+  - id: src-260
+    url: https://ja.wikipedia.org/wiki/でぃ・えっち・えぃ
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-261
+    url: https://ja.wikipedia.org/wiki/エクゾスカル_零
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-262
+    url: https://ja.wikipedia.org/wiki/真・女神転生デビルサマナー
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-263
+    url: https://ja.wikipedia.org/wiki/BLACK_LIST_(Acid_Black_Cherryのアルバム)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-264
+    url: https://ja.wikipedia.org/wiki/Dramatic_Seven
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-265
+    url: https://en.wikipedia.org/wiki/List_of_Soul_Eater_chapters
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-266
+    url: https://supernaturalwiki.com/Pride
+    kind: ファンウィキ (Super-wiki)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-267
+    url: https://ja.wikipedia.org/wiki/神羅万象チョコ_大魔王と八つの柱駒
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-268
+    url: https://ja.wikipedia.org/wiki/ジョーカーゲーム_脱出
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-269
+    url: https://ja.wikipedia.org/wiki/警視庁考察一課
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-270
+    url: https://ja.wikipedia.org/wiki/暗闇の果てで君を待つ
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-271
+    url: https://ja.wikipedia.org/wiki/ピースボート_-Piece_Vote-
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
