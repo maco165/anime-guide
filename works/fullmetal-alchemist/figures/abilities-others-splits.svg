@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 608" width="640" height="608" role="img" aria-labelledby="abilities-others-splits-title abilities-others-splits-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="abilities-others-splits-title">国家資格の記述がない使い手で資料が割れている点</title>
+<desc id="abilities-others-splits-desc">スカーの陣の系統、メイの武器の呼び名、エンヴィーの変身の扱い、ベルトルトの背中の陣と呼び名を、破線の枠で並べる。</desc>
+<defs><pattern id="abilities-others-splits-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="608" fill="#f1f5f8"/>
+<rect width="640" height="608" fill="url(#abilities-others-splits-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">使い手: 資料が割れている点</text>
+<circle cx="32.0" cy="88.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="32" y="94" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">1</text>
+<text x="54" y="95" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">スカーの陣の系統</text>
+<rect x="16" y="108" width="300" height="34" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="166" y="131.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">錬丹術に属する</text>
+<rect x="324" y="108" width="300" height="34" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="474" y="131.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">錬金術と錬丹術の融合</text>
+<circle cx="32.0" cy="176.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="32" y="182" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">2</text>
+<text x="54" y="183" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">メイの武器の呼び名</text>
+<rect x="16" y="196" width="197" height="34" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="115" y="219.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">鏢</text>
+<rect x="221" y="196" width="197" height="34" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="320" y="219.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">投げ刃、投げびし</text>
+<rect x="427" y="196" width="197" height="34" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="525" y="219.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">クナイ</text>
+<circle cx="32.0" cy="264.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="32" y="270" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">3</text>
+<text x="54" y="271" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">エンヴィーの変身の扱い</text>
+<rect x="16" y="284" width="300" height="34" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="166" y="307.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">特殊能力、固有能力</text>
+<rect x="324" y="284" width="300" height="34" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="474" y="307.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">錬金術の一種として書く</text>
+<circle cx="32.0" cy="352.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="32" y="358" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">4</text>
+<text x="54" y="359" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">ベルトルトの背中の陣</text>
+<rect x="16" y="372" width="300" height="56" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="166" y="395.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">構築図を暗号にして</text>
+<text x="166" y="417.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">彫ったと書く</text>
+<rect x="324" y="372" width="300" height="56" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="474" y="395.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">暗号に触れず</text>
+<text x="474" y="417.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">研究を刺青で残したと書く</text>
+<circle cx="32.0" cy="462.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="32" y="468" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">5</text>
+<text x="54" y="469" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">ベルトルトの呼び名</text>
+<rect x="16" y="482" width="197" height="56" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="115" y="505.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">ロイの師匠。</text>
+<text x="115" y="527.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">名前を書かない</text>
+<rect x="221" y="482" width="197" height="56" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="320" y="516.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">Berthold</text>
+<rect x="427" y="482" width="197" height="56" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="525" y="516.0" font-size="17" font-weight="500" text-anchor="middle" fill="#10131a">バルトルド</text>
+<line x1="14.0" y1="564.0" x2="626.0" y2="564.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="30" y="577" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="64" y="591" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">破線の枠は説が割れている内容です</text>
+<rect x="1.5" y="1.5" width="637" height="605" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

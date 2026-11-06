@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 656" width="640" height="656" role="img" aria-labelledby="abilities-others-3-title abilities-others-3-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="abilities-others-3-title">国家資格の記述がない使い手 3: お父様、ベルトルト、コーネロ</title>
+<desc id="abilities-others-3-desc">お父様、ベルトルト、コーネロの立場、得意な術、錬成の方法、制限を人物ごとのカードで示す。</desc>
+<defs><pattern id="abilities-others-3-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="656" fill="#f1f5f8"/>
+<rect width="640" height="656" fill="url(#abilities-others-3-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">国家資格の記述がない使い手 3/3</text>
+<rect x="16" y="72" width="608" height="182" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="72" width="148" height="182" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<text x="90.0" y="100" font-size="16" font-weight="700" text-anchor="middle" fill="#46515c">ホムンクルスの親</text>
+<text x="90.0" y="127" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">お父様</text>
+<circle cx="90.0" cy="202.8" r="6.800000000000001" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="90.0" y1="209.6" x2="90.0" y2="227.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="227.3" x2="81.8" y2="246.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="227.3" x2="98.2" y2="246.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="213.7" x2="79.8" y2="227.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="213.7" x2="100.2" y2="227.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<text x="206" y="101" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">立場</text>
+<circle cx="186.0" cy="95.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="101" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="258" y="101" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">すべてのホムンクルスの生みの親</text>
+<line x1="174.0" y1="112.0" x2="616.0" y2="112.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="135" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">得意</text>
+<circle cx="186.0" cy="129.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="135" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
+<text x="258" y="135" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">国内の錬金術を封じる</text>
+<line x1="174.0" y1="146.0" x2="616.0" y2="146.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="169" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">方法</text>
+<circle cx="186.0" cy="163.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="169" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">3</text>
+<text x="258" y="169" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">動作も対価も要らない</text>
+<line x1="174.0" y1="180.0" x2="616.0" y2="180.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="203" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">制限</text>
+<circle cx="186.0" cy="197.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="203" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
+<text x="258" y="203" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">錬丹術は封じられない</text>
+<circle cx="186.0" cy="231.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="237" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">4</text>
+<text x="258" y="237" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">賢者の石も封じられないとする資料も</text>
+<rect x="16" y="264" width="608" height="192" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="264" width="148" height="192" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<text x="90.0" y="292" font-size="16" font-weight="700" text-anchor="middle" fill="#46515c">ロイの師匠</text>
+<text x="90.0" y="319" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">ベルトルト・</text>
+<text x="90.0" y="341" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">ホークアイ</text>
+<circle cx="90.0" cy="404.8" r="6.800000000000001" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="90.0" y1="411.6" x2="90.0" y2="429.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="429.3" x2="81.8" y2="448.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="429.3" x2="98.2" y2="448.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="415.7" x2="79.8" y2="429.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="415.7" x2="100.2" y2="429.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<text x="206" y="293" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">立場</text>
+<circle cx="186.0" cy="287.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="293" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="258" y="293" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">焔の錬金術を完成させ、秘伝を</text>
+<text x="258" y="315" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">娘に託した。呼び名は図 2-4</text>
+<line x1="174.0" y1="326.0" x2="616.0" y2="326.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="349" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">方法</text>
+<text x="258" y="349" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">発動の記述は見つからず</text>
+<line x1="174.0" y1="360.0" x2="616.0" y2="360.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="383" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">記録</text>
+<circle cx="186.0" cy="377.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="383" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">5</text>
+<text x="258" y="383" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">研究を娘の背中に刺青で残した</text>
+<line x1="174.0" y1="394.0" x2="616.0" y2="394.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="417" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">資格</text>
+<circle cx="186.0" cy="411.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="417" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">6</text>
+<text x="258" y="417" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">国家資格を選ばなかった</text>
+<text x="258" y="439" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">とする資料も</text>
+<rect x="16" y="466" width="608" height="132" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="466" width="148" height="132" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<text x="90.0" y="494" font-size="16" font-weight="700" text-anchor="middle" fill="#46515c">レト教の教主</text>
+<text x="90.0" y="521" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">コーネロ</text>
+<circle cx="90.0" cy="546.8" r="6.800000000000001" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="90.0" y1="553.6" x2="90.0" y2="571.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="571.3" x2="81.8" y2="590.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="571.3" x2="98.2" y2="590.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="557.7" x2="79.8" y2="571.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="557.7" x2="100.2" y2="571.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<text x="206" y="495" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">立場</text>
+<circle cx="186.0" cy="489.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="495" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<text x="258" y="495" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">等価交換の原則に反した錬金術</text>
+<line x1="174.0" y1="506.0" x2="616.0" y2="506.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="529" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">得意</text>
+<circle cx="186.0" cy="523.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="529" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">8</text>
+<text x="258" y="529" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">不完全な賢者の石で奇跡を装う。</text>
+<text x="258" y="551" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">本人は未熟</text>
+<line x1="14.0" y1="612.0" x2="626.0" y2="612.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="633.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="639" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="633.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="639" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="625" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="639" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="653" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

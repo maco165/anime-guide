@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 902" width="640" height="902" role="img" aria-labelledby="abilities-circles-2-title abilities-circles-2-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="abilities-circles-2-title">錬成陣の種類: 身体に刻む陣</title>
+<desc id="abilities-circles-2-desc">作中の図案は描かず、形の部品を文字で、置き場所を人の記号で示す: 掌の陣 (左右で対)、掌と指の陣、掌の陣、腕の刺青の陣、背中の刺青の陣。</desc>
+<defs><pattern id="abilities-circles-2-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="902" fill="#f1f5f8"/>
+<rect width="640" height="902" fill="url(#abilities-circles-2-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">陣の種類: 身体に刻む陣</text>
+<rect x="16" y="70" width="608" height="162" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="70" width="84" height="162" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<circle cx="58.0" cy="128.4" r="8.4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="58.0" y1="136.8" x2="58.0" y2="158.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="158.6" x2="47.9" y2="182.2" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="158.6" x2="68.1" y2="182.2" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="141.8" x2="45.4" y2="158.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="141.8" x2="70.6" y2="158.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="70.6" cy="158.6" r="6" fill="#1f62d6" stroke="#10131a" stroke-width="2"/>
+<circle cx="45.4" cy="158.6" r="6" fill="#1f62d6" stroke="#10131a" stroke-width="2"/>
+<text x="112" y="96" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">掌の陣 (左右で対)</text>
+<text x="290.06" y="96" font-size="16" font-weight="600" text-anchor="start" fill="#46515c">キンブリー</text>
+<rect x="112" y="106" width="32" height="25" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="128.0" y="124" font-size="16" font-weight="600" text-anchor="middle" fill="#10131a">円</text>
+<rect x="150" y="106" width="48" height="25" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="174.0" y="124" font-size="16" font-weight="600" text-anchor="middle" fill="#10131a">三角</text>
+<rect x="204" y="106" width="48" height="25" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="228.0" y="124" font-size="16" font-weight="600" text-anchor="middle" fill="#10131a">太陽</text>
+<rect x="258" y="106" width="32" height="25" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="274.0" y="124" font-size="16" font-weight="600" text-anchor="middle" fill="#10131a">月</text>
+<circle cx="126.0" cy="152.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="126" y="158" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="148" y="158" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">右は下向きの三角と太陽、左は</text>
+<text x="148" y="180" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">上向きの三角と月</text>
+<circle cx="126.0" cy="206.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="126" y="212" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">2</text>
+<text x="148" y="212" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">合わせると三角が重なるとする記事も</text>
+<rect x="16" y="240" width="608" height="130" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="240" width="84" height="130" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<circle cx="58.0" cy="282.4" r="8.4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="58.0" y1="290.8" x2="58.0" y2="312.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="312.6" x2="47.9" y2="336.2" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="312.6" x2="68.1" y2="336.2" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="295.8" x2="45.4" y2="312.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="295.8" x2="70.6" y2="312.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="70.6" cy="312.6" r="6" fill="#1f62d6" stroke="#10131a" stroke-width="2"/>
+<circle cx="45.4" cy="312.6" r="6" fill="#1f62d6" stroke="#10131a" stroke-width="2"/>
+<text x="112" y="266" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">掌と指の陣</text>
+<text x="219.0" y="266" font-size="16" font-weight="600" text-anchor="start" fill="#46515c">コマンチ</text>
+<rect x="112" y="276" width="112" height="25" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="168.0" y="294" font-size="16" font-weight="600" text-anchor="middle" fill="#10131a">形の記述なし</text>
+<circle cx="126.0" cy="322.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="126" y="328" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">3</text>
+<text x="148" y="328" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">両手に入れる点は一致。細かい位置は</text>
+<text x="148" y="350" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">図 1-4</text>
+<rect x="16" y="378" width="608" height="130" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="378" width="84" height="130" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<circle cx="58.0" cy="420.4" r="8.4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="58.0" y1="428.8" x2="58.0" y2="450.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="450.6" x2="47.9" y2="474.2" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="450.6" x2="68.1" y2="474.2" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="433.8" x2="45.4" y2="450.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="433.8" x2="70.6" y2="450.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="70.6" cy="450.6" r="6" fill="#1f62d6" stroke="#10131a" stroke-width="2"/>
+<text x="112" y="404" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">掌の陣</text>
+<text x="181.0" y="404" font-size="16" font-weight="600" text-anchor="start" fill="#46515c">マルコー、アイザック</text>
+<rect x="112" y="414" width="112" height="25" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="168.0" y="432" font-size="16" font-weight="600" text-anchor="middle" fill="#10131a">形の記述なし</text>
+<circle cx="126.0" cy="460.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="126" y="466" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">4</text>
+<text x="148" y="466" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">右の掌に隠す、籠手と掌に入れる</text>
+<text x="148" y="488" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">とする資料も</text>
+<rect x="16" y="516" width="608" height="194" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="516" width="84" height="194" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<circle cx="58.0" cy="590.4" r="8.4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="58.0" y1="598.8" x2="58.0" y2="620.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="620.6" x2="47.9" y2="644.2" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="620.6" x2="68.1" y2="644.2" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="603.8" x2="45.4" y2="620.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="603.8" x2="70.6" y2="620.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="603.8" x2="45.4" y2="620.6" stroke="#d92d20" stroke-width="7" stroke-linecap="round"/>
+<line x1="58.0" y1="603.8" x2="70.6" y2="620.6" stroke="#1f62d6" stroke-width="7" stroke-linecap="round"/>
+<text x="112" y="542" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">腕の刺青の陣</text>
+<text x="238.0" y="542" font-size="16" font-weight="600" text-anchor="start" fill="#46515c">スカー、スカーの兄</text>
+<rect x="112" y="552" width="80" height="25" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="152.0" y="570" font-size="16" font-weight="600" text-anchor="middle" fill="#10131a">赤が分解</text>
+<rect x="198" y="552" width="96" height="25" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="246.0" y="570" font-size="16" font-weight="600" text-anchor="middle" fill="#10131a">青が再構築</text>
+<circle cx="126.0" cy="598.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="126" y="604" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">5</text>
+<text x="148" y="604" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">右腕全体に分解の陣</text>
+<circle cx="126.0" cy="630.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="126" y="636" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">6</text>
+<text x="148" y="636" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">左腕に再構築の陣</text>
+<circle cx="126.0" cy="662.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="126" y="668" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">7</text>
+<text x="148" y="668" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">肩の輪状の傷から手首まで</text>
+<text x="148" y="690" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">とする資料も</text>
+<rect x="16" y="718" width="608" height="130" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="718" width="84" height="130" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<circle cx="58.0" cy="760.4" r="8.4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="58.0" y1="768.8" x2="58.0" y2="790.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="790.6" x2="47.9" y2="814.2" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="790.6" x2="68.1" y2="814.2" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="773.8" x2="45.4" y2="790.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="58.0" y1="773.8" x2="70.6" y2="790.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="58.0" cy="782.2" r="7" fill="#1f62d6" stroke="#10131a" stroke-width="2"/>
+<text x="112" y="744" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">背中の刺青の陣</text>
+<text x="257.0" y="744" font-size="16" font-weight="600" text-anchor="start" fill="#46515c">ベルトルト (娘が担う)</text>
+<rect x="112" y="754" width="112" height="25" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="168.0" y="772" font-size="16" font-weight="600" text-anchor="middle" fill="#10131a">形の記述なし</text>
+<circle cx="126.0" cy="800.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="126" y="806" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">8</text>
+<text x="148" y="806" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">焔の研究を背中に残す。暗号の有無は</text>
+<text x="148" y="828" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">図 2-4</text>
+<line x1="14.0" y1="858.0" x2="626.0" y2="858.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="879.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="885" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="879.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="885" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="871" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="885" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="899" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>
