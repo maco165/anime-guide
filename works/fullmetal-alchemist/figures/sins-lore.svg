@@ -1,0 +1,84 @@
+<svg data-sources="src-016 src-213 src-214 src-216" xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 988" width="640" height="988" role="img" aria-labelledby="sins-lore-title sins-lore-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="sins-lore-title">現実のホムンクルス伝承の年表</title>
+<desc id="sins-lore-desc">3 世紀のゾシモスの幻視から 20 世紀以降の小説と映画まで 8 項目を縦の年表で示す。『物の本性について』の著者は説が分かれるので破線の枠で示す。</desc>
+<defs><pattern id="sins-lore-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="988" fill="#f1f5f8"/>
+<rect width="640" height="988" fill="url(#sins-lore-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">現実のホムンクルス伝承</text>
+<line x1="34.0" y1="70.0" x2="34.0" y2="922.0" stroke="#10131a" stroke-width="5" stroke-linecap="butt"/>
+<rect x="60" y="72" width="564" height="96" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="74" y="96" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">3 世紀</text>
+<text x="74" y="119" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">ゾシモスの幻視</text>
+<text x="74" y="141.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">小人の幻を語る。語も人工生命の創造も</text>
+<text x="74" y="161.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">出てこないが、ユングは原型と見た</text>
+<circle cx="34.0" cy="116.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="34" y="122" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">1</text>
+<line x1="48.0" y1="116.0" x2="60.0" y2="116.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="60" y="180" width="564" height="96" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="74" y="204" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">3〜8 世紀か</text>
+<text x="74" y="227" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">偽プラトン『牝牛の書』</text>
+<text x="74" y="249.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">人造の小人の最初の技術的な記述とされる。</text>
+<text x="74" y="269.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">アラビア語が元で、年代ははっきりしない</text>
+<circle cx="34.0" cy="224.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="34" y="230" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">2</text>
+<line x1="48.0" y1="224.0" x2="60.0" y2="224.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="60" y="288" width="564" height="96" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="74" y="312" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">イスラムの錬金術</text>
+<text x="74" y="335" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">ジャービル文書の takwin</text>
+<text x="74" y="357.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">鉱物から預言者まで、生命を人工的に</text>
+<text x="74" y="377.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">造ることを語る</text>
+<circle cx="34.0" cy="332.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="34" y="338" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">3</text>
+<line x1="48.0" y1="332.0" x2="60.0" y2="332.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="60" y="396" width="564" height="96" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="74" y="420" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">1529-32 頃</text>
+<text x="74" y="443" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">パラケルスス名義『De homunculis』</text>
+<text x="74" y="465.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">この語で名指しした最初の著作の</text>
+<text x="74" y="485.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">一つとされる</text>
+<circle cx="34.0" cy="440.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="34" y="446" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">4</text>
+<line x1="48.0" y1="440.0" x2="60.0" y2="440.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="60" y="504" width="564" height="96" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3" stroke-dasharray="7,4"/>
+<text x="74" y="528" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">1537</text>
+<text x="74" y="551" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">『物の本性について』</text>
+<text x="74" y="573.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">製法を書く。著者は偽パラケルススとする</text>
+<text x="74" y="593.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説があり、真正性に争いがある</text>
+<circle cx="34.0" cy="548.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="34" y="554" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">5</text>
+<line x1="48.0" y1="548.0" x2="60.0" y2="548.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="60" y="612" width="564" height="96" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="74" y="636" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">1643</text>
+<text x="74" y="659" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">ブラウン『医師の信仰』</text>
+<text x="74" y="681.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">文学での最も早い言及の一つ。</text>
+<text x="74" y="701.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">パラケルススの処方に懐疑的に触れる</text>
+<circle cx="34.0" cy="656.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="34" y="662" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">6</text>
+<line x1="48.0" y1="656.0" x2="60.0" y2="656.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="60" y="720" width="564" height="96" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="74" y="744" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">1832</text>
+<text x="74" y="767" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">ゲーテ『ファウスト』第二部</text>
+<text x="74" y="789.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">ワーグナーが作った瓶の中の光る小人。</text>
+<text x="74" y="809.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">肉体を求め、肉体を脱したい主人公と対照</text>
+<circle cx="34.0" cy="764.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="34" y="770" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<line x1="48.0" y1="764.0" x2="60.0" y2="764.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="60" y="828" width="564" height="96" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="74" y="852" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">20 世紀〜</text>
+<text x="74" y="875" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">モーム『魔術師』ほか</text>
+<text x="74" y="897.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1908 の小説のほか、映画『Homunculus』1916、</text>
+<text x="74" y="917.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">『哀れなるものたち』2023 などに続く</text>
+<circle cx="34.0" cy="872.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="34" y="878" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">8</text>
+<line x1="48.0" y1="872.0" x2="60.0" y2="872.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<line x1="14.0" y1="944.0" x2="626.0" y2="944.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="965.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="971" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="965.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="971" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="957" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="971" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="985" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

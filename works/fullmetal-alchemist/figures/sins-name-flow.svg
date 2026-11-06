@@ -1,0 +1,162 @@
+<svg data-sources="src-201 src-202 src-203 src-204 src-205 src-206 src-207 src-208 src-209 src-210" xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 960" width="640" height="960" role="img" aria-labelledby="sins-name-flow-title sins-name-flow-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="sins-name-flow-title">罪の名の変遷</title>
+<desc id="sins-name-flow-desc">縦に 9 つの罪の名、横に 6 つの資料を置いた行列。8 つの一覧が 7 つへ変わり、高慢が別格になり、嫉妬が加わり、悲嘆と怠惰が入れ替わり、虚栄が消える。下に虚栄の統合と悲嘆と怠惰の扱いについて資料の食い違いを破線の枠で並べる。</desc>
+<defs><pattern id="sins-name-flow-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="960" fill="#f1f5f8"/>
+<rect width="640" height="960" fill="url(#sins-name-flow-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">8 つから 7 つへ: 消えた名と加わった名</text>
+<text x="148.0" y="84.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">エウァ</text>
+<text x="148.0" y="102.7" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">グリオス</text>
+<text x="148.0" y="130" font-size="17" font-weight="500" text-anchor="middle" fill="#46515c">4 世紀</text>
+<text x="236.0" y="84.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">カッシ</text>
+<text x="236.0" y="102.7" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">アヌス</text>
+<text x="236.0" y="130" font-size="17" font-weight="500" text-anchor="middle" fill="#46515c">5 世紀</text>
+<text x="324.0" y="84.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">グレゴ</text>
+<text x="324.0" y="102.7" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">リウス</text>
+<text x="324.0" y="130" font-size="17" font-weight="500" text-anchor="middle" fill="#46515c">6 世紀</text>
+<text x="412.0" y="96.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">トマス</text>
+<text x="412.0" y="130" font-size="17" font-weight="500" text-anchor="middle" fill="#46515c">13 世紀</text>
+<text x="500.0" y="96.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">ダンテ</text>
+<text x="500.0" y="130" font-size="17" font-weight="500" text-anchor="middle" fill="#46515c">14 世紀</text>
+<text x="588.0" y="84.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">カテキ</text>
+<text x="588.0" y="102.7" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">ズム</text>
+<text x="588.0" y="130" font-size="17" font-weight="500" text-anchor="middle" fill="#46515c">現代</text>
+<rect x="16" y="150.0" width="608" height="42" rx="0" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="30" y="178.0" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">高慢</text>
+<line x1="148.0" y1="171.0" x2="236.0" y2="171.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="236.0" y1="171.0" x2="324.0" y2="171.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="324.0" y1="171.0" x2="412.0" y2="171.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="412.0" y1="171.0" x2="500.0" y2="171.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="500.0" y1="171.0" x2="588.0" y2="171.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<circle cx="148.0" cy="171.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="236.0" cy="171.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<polygon points="324.0,154.0 341.0,171.0 324.0,188.0 307.0,171.0" fill="#f5b700" stroke="#10131a" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="324.0" y="177.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">上</text>
+<polygon points="412.0,154.0 429.0,171.0 412.0,188.0 395.0,171.0" fill="#f5b700" stroke="#10131a" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="412.0" y="177.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">上</text>
+<circle cx="500.0" cy="171.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="588.0" cy="171.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<text x="30" y="220.0" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">虚栄</text>
+<line x1="148.0" y1="213.0" x2="236.0" y2="213.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="236.0" y1="213.0" x2="324.0" y2="213.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="324.0" y1="213.0" x2="412.0" y2="213.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<circle cx="148.0" cy="213.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="236.0" cy="213.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="324.0" cy="213.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="412.0" cy="213.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<line x1="491.0" y1="213.0" x2="509.0" y2="213.0" stroke="#46515c" stroke-width="2.5" stroke-linecap="butt"/>
+<line x1="579.0" y1="213.0" x2="597.0" y2="213.0" stroke="#46515c" stroke-width="2.5" stroke-linecap="butt"/>
+<rect x="16" y="234.0" width="608" height="42" rx="0" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="30" y="262.0" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">嫉妬</text>
+<line x1="324.0" y1="255.0" x2="412.0" y2="255.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="412.0" y1="255.0" x2="500.0" y2="255.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="500.0" y1="255.0" x2="588.0" y2="255.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="139.0" y1="255.0" x2="157.0" y2="255.0" stroke="#46515c" stroke-width="2.5" stroke-linecap="butt"/>
+<line x1="227.0" y1="255.0" x2="245.0" y2="255.0" stroke="#46515c" stroke-width="2.5" stroke-linecap="butt"/>
+<circle cx="324.0" cy="255.0" r="15" fill="#d92d20" stroke="#10131a" stroke-width="2.5"/>
+<text x="324.0" y="261.0" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">新</text>
+<circle cx="412.0" cy="255.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="500.0" cy="255.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="588.0" cy="255.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<text x="30" y="304.0" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">憤怒</text>
+<line x1="148.0" y1="297.0" x2="236.0" y2="297.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="236.0" y1="297.0" x2="324.0" y2="297.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="324.0" y1="297.0" x2="412.0" y2="297.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="412.0" y1="297.0" x2="500.0" y2="297.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="500.0" y1="297.0" x2="588.0" y2="297.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<circle cx="148.0" cy="297.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="236.0" cy="297.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="324.0" cy="297.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="412.0" cy="297.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="500.0" cy="297.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="588.0" cy="297.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<rect x="16" y="318.0" width="608" height="42" rx="0" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="30" y="346.0" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">悲嘆</text>
+<line x1="148.0" y1="339.0" x2="236.0" y2="339.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="236.0" y1="339.0" x2="324.0" y2="339.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<circle cx="148.0" cy="339.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="236.0" cy="339.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="324.0" cy="339.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<line x1="403.0" y1="339.0" x2="421.0" y2="339.0" stroke="#46515c" stroke-width="2.5" stroke-linecap="butt"/>
+<line x1="491.0" y1="339.0" x2="509.0" y2="339.0" stroke="#46515c" stroke-width="2.5" stroke-linecap="butt"/>
+<line x1="579.0" y1="339.0" x2="597.0" y2="339.0" stroke="#46515c" stroke-width="2.5" stroke-linecap="butt"/>
+<text x="30" y="388.0" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">怠惰</text>
+<line x1="148.0" y1="381.0" x2="236.0" y2="381.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="412.0" y1="381.0" x2="500.0" y2="381.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="500.0" y1="381.0" x2="588.0" y2="381.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<circle cx="148.0" cy="381.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="236.0" cy="381.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<line x1="315.0" y1="381.0" x2="333.0" y2="381.0" stroke="#46515c" stroke-width="2.5" stroke-linecap="butt"/>
+<circle cx="412.0" cy="381.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="500.0" cy="381.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="588.0" cy="381.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<rect x="16" y="402.0" width="608" height="42" rx="0" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="30" y="430.0" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">強欲</text>
+<line x1="148.0" y1="423.0" x2="236.0" y2="423.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="236.0" y1="423.0" x2="324.0" y2="423.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="324.0" y1="423.0" x2="412.0" y2="423.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="412.0" y1="423.0" x2="500.0" y2="423.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="500.0" y1="423.0" x2="588.0" y2="423.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<circle cx="148.0" cy="423.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="236.0" cy="423.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="324.0" cy="423.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="412.0" cy="423.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="500.0" cy="423.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="588.0" cy="423.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<text x="30" y="472.0" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">暴食</text>
+<line x1="148.0" y1="465.0" x2="236.0" y2="465.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="236.0" y1="465.0" x2="324.0" y2="465.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="324.0" y1="465.0" x2="412.0" y2="465.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="412.0" y1="465.0" x2="500.0" y2="465.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="500.0" y1="465.0" x2="588.0" y2="465.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<circle cx="148.0" cy="465.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="236.0" cy="465.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="324.0" cy="465.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="412.0" cy="465.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="500.0" cy="465.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="588.0" cy="465.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<rect x="16" y="486.0" width="608" height="42" rx="0" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="30" y="514.0" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">色欲</text>
+<line x1="148.0" y1="507.0" x2="236.0" y2="507.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="236.0" y1="507.0" x2="324.0" y2="507.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="324.0" y1="507.0" x2="412.0" y2="507.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="412.0" y1="507.0" x2="500.0" y2="507.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<line x1="500.0" y1="507.0" x2="588.0" y2="507.0" stroke="#b4c1cc" stroke-width="6" stroke-linecap="butt"/>
+<circle cx="148.0" cy="507.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="236.0" cy="507.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="324.0" cy="507.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="412.0" cy="507.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="500.0" cy="507.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="588.0" cy="507.0" r="12" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="30.0" cy="547.0" r="9" fill="#1f62d6" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="552" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">一覧にある</text>
+<polygon points="148.0,535.0 160.0,547.0 148.0,559.0 136.0,547.0" fill="#f5b700" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<text x="168" y="552" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">一覧の上に別格</text>
+<circle cx="306.0" cy="547.0" r="10" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<text x="322" y="552" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">新しく加わる</text>
+<line x1="440.0" y1="547.0" x2="458.0" y2="547.0" stroke="#46515c" stroke-width="2.5" stroke-linecap="butt"/>
+<text x="466" y="552" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">一覧にない</text>
+<rect x="16" y="590" width="608" height="150" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3" stroke-dasharray="7,4"/>
+<circle cx="38.0" cy="614.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="620" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="60" y="620" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">虚栄はいつ高慢へまとめられたか</text>
+<text x="32" y="650.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">グレゴリウスの本文: 七つの中に虚栄がある (行列はこれに従う)</text>
+<text x="32" y="672.95" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">事典の一節: グレゴリウスがまとめた</text>
+<text x="32" y="695.9" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">事典の別の節: ベラルミーノがまとめた</text>
+<text x="32" y="724" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">ダンテの段に虚栄は既になく、高慢が入っている</text>
+<rect x="16" y="754" width="608" height="150" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3" stroke-dasharray="7,4"/>
+<circle cx="38.0" cy="778.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="784" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
+<text x="60" y="784" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">悲嘆と怠惰をどうしたか</text>
+<text x="32" y="814.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">グレゴリウスの本文: melancholy (悲嘆) が七つの中にある</text>
+<text x="32" y="836.95" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">事典の一節: 怠惰を外し、悲嘆をその根と教えた</text>
+<text x="32" y="859.9" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">別の事典の一節: 2 つを合わせて怠惰にした</text>
+<text x="32" y="888" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">トマスは怠惰を戻し悲嘆を外す。カテキズムも sloth or acedia</text>
+<line x1="14.0" y1="916.0" x2="626.0" y2="916.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="30" y="929" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="64" y="943" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">破線の枠は説が割れている内容です</text>
+<rect x="1.5" y="1.5" width="637" height="957" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

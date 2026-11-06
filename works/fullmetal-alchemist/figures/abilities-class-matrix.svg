@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 706" width="640" height="706" role="img" aria-labelledby="abilities-class-matrix-title abilities-class-matrix-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="abilities-class-matrix-title">術の分類と人物の行列 (このページの分類)</title>
+<desc id="abilities-class-matrix-desc">炭素、酸素と炎、爆発、金属と鉱物、水と氷、生体、医療、分解と再構築、遠隔を列に、人物を行にした行列。公式の分類はなく、このページが作った分類。</desc>
+<defs><pattern id="abilities-class-matrix-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="706" fill="#f1f5f8"/>
+<rect width="640" height="706" fill="url(#abilities-class-matrix-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">術の分類: このページが作った分類</text>
+<text x="191.0" y="118" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">炭素</text>
+<text x="241.0" y="98" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">酸素</text>
+<text x="241.0" y="118" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">炎</text>
+<text x="291.0" y="118" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">爆発</text>
+<text x="341.0" y="98" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">金属</text>
+<text x="341.0" y="118" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">鉱物</text>
+<text x="391.0" y="98" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">水</text>
+<text x="391.0" y="118" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">氷</text>
+<text x="441.0" y="118" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">生体</text>
+<text x="491.0" y="118" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">医療</text>
+<text x="541.0" y="98" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">分解</text>
+<text x="541.0" y="118" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">再構築</text>
+<text x="591.0" y="118" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">遠隔</text>
+<rect x="16" y="126" width="600" height="448" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+<line x1="166.0" y1="126.0" x2="166.0" y2="574.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<line x1="216.0" y1="126.0" x2="216.0" y2="574.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<line x1="266.0" y1="126.0" x2="266.0" y2="574.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<line x1="316.0" y1="126.0" x2="316.0" y2="574.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<line x1="366.0" y1="126.0" x2="366.0" y2="574.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<line x1="416.0" y1="126.0" x2="416.0" y2="574.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<line x1="466.0" y1="126.0" x2="466.0" y2="574.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<line x1="516.0" y1="126.0" x2="516.0" y2="574.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<line x1="566.0" y1="126.0" x2="566.0" y2="574.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<line x1="616.0" y1="126.0" x2="616.0" y2="574.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="146.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">エドワード</text>
+<circle cx="191.0" cy="140.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="341.0" cy="140.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<circle cx="541.0" cy="140.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<line x1="16.0" y1="154.0" x2="616.0" y2="154.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="174.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">マスタング</text>
+<circle cx="241.0" cy="168.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<line x1="16.0" y1="182.0" x2="616.0" y2="182.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="202.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">アームストロング</text>
+<circle cx="341.0" cy="196.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<line x1="16.0" y1="210.0" x2="616.0" y2="210.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="230.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">キンブリー</text>
+<circle cx="291.0" cy="224.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<rect x="578.0" y="216.0" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<line x1="16.0" y1="238.0" x2="616.0" y2="238.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="258.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">タッカー</text>
+<circle cx="441.0" cy="252.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<line x1="16.0" y1="266.0" x2="616.0" y2="266.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="286.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">マルコー</text>
+<circle cx="441.0" cy="280.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="491.0" cy="280.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<line x1="16.0" y1="294.0" x2="616.0" y2="294.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="314.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">グラン</text>
+<circle cx="341.0" cy="308.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<line x1="16.0" y1="322.0" x2="616.0" y2="322.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="342.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">コマンチ</text>
+<circle cx="341.0" cy="336.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<line x1="16.0" y1="350.0" x2="616.0" y2="350.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="370.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">アイザック</text>
+<circle cx="391.0" cy="364.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<line x1="16.0" y1="378.0" x2="616.0" y2="378.0" stroke="#10131a" stroke-width="2.5" stroke-linecap="round"/>
+<text x="24" y="398.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">イズミ</text>
+<circle cx="341.0" cy="392.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<line x1="16.0" y1="406.0" x2="616.0" y2="406.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="426.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">ホーエンハイム</text>
+<circle cx="591.0" cy="420.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<line x1="16.0" y1="434.0" x2="616.0" y2="434.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="454.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">スカー</text>
+<circle cx="541.0" cy="448.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<line x1="16.0" y1="462.0" x2="616.0" y2="462.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="482.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">スカーの兄</text>
+<circle cx="541.0" cy="476.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<line x1="16.0" y1="490.0" x2="616.0" y2="490.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="510.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">メイ</text>
+<circle cx="491.0" cy="504.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<circle cx="591.0" cy="504.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<line x1="16.0" y1="518.0" x2="616.0" y2="518.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="538.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">ベルトルト</text>
+<circle cx="241.0" cy="532.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<line x1="16.0" y1="546.0" x2="616.0" y2="546.0" stroke="#b9c5ce" stroke-width="1" stroke-linecap="round"/>
+<text x="24" y="566.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">グリード</text>
+<circle cx="191.0" cy="560.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="24" y="600" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">公式の分類は見つからず、資料の記述をこのページが分けました</text>
+<text x="24" y="624" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">空欄は記述が見つからないという意味です。</text>
+<text x="24" y="648" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">アル、お父様、コーネロはこの分類に入る記述がありません</text>
+<line x1="14.0" y1="662.0" x2="626.0" y2="662.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="683.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="689" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="683.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="689" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="675" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="689" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="703" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

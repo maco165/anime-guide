@@ -20,7 +20,17 @@ Pull Request で直すときは、変更した記述に出典の id を付けて
 人物 A は地域 A に住んでいます。[src-001]
 ```
 
-図は説明の文に、表は行に id を付けます。ページで使った id は、先頭の YAML の `sources` にも並べます。出典の無い記述は載せません。
+図は下に短い行を置き、印と主な出典の id を 3 つまで書きます。残りは「ほか」とし、`[ほか](references.md#世界観-図-1-5)` のように参照ページの図の節へリンクします。図ごとの全件は `figure-sources.yml` か、SVG の `data-sources` に書きます。表は行に id を付けます。ページで使った id は、先頭の YAML の `sources` にも並べます。出典の無い記述は載せません。
+
+参照ページの `references.md` は、全ての出典、使っているページと図の番号、読めなかった元 (`unreachable.yml`) をまとめた生成物です。直接書き換えず、次のコマンドで作り直し、検査します。
+
+```bash
+python3 scripts/build_references.py works/<slug>
+python3 scripts/build_references.py works/<slug> --check
+python3 scripts/check_sources.py works/<slug>
+```
+
+`check_sources.py` は、ページと図の id が台帳にあること、未使用の id が無いこと (`拒否` は除く)、id と URL が重複しないこと、`permission` が下の表の値であることを確かめます。
 
 `sources.yml` には、出典ごとに次の欄を書きます。見本は [templates/sources.yml](templates/sources.yml) にあります。
 
@@ -48,6 +58,8 @@ Pull Request で直すときは、変更した記述に出典の id を付けて
 
 考察と見立ては、出典の id と印を付ければ書けます。行頭の印は、考察なら `【考察】`、見立てなら `【見立て】` です。
 
+他の人の考察は、感想の転載とは別のものとして、「という見方がある」と出典の id を付けて短く紹介して構いません。
+
 コラムの項目には、公式の説明か、通説か、推測かを `区分:` の行で明記します。
 
 ## ネタバレの扱い
@@ -57,6 +69,10 @@ Pull Request で直すときは、変更した記述に出典の id を付けて
 そのことをページの先頭で知らせます。先頭の YAML には `spoiler: 設定のネタバレを含む` と書きます。
 
 同じ YAML の `version` には、対象の版を書きます。GitHub では、この YAML がページの先頭に表で表示されます。
+
+## AI でまとめたことの明記
+
+AI でまとめたページの先頭には、そのことを書きます。雛形の見出しの下にある文を残してください。
 
 ## 削除の申し出
 

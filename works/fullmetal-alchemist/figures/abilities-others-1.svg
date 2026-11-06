@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 700" width="640" height="700" role="img" aria-labelledby="abilities-others-1-title abilities-others-1-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="abilities-others-1-title">国家資格の記述がない使い手 1: アルフォンス、イズミ、ホーエンハイム</title>
+<desc id="abilities-others-1-desc">アルフォンス、イズミ、ホーエンハイムの立場、得意な術、錬成の方法、制限を人物ごとのカードで示す。</desc>
+<defs><pattern id="abilities-others-1-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="700" fill="#f1f5f8"/>
+<rect width="640" height="700" fill="url(#abilities-others-1-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">国家資格の記述がない使い手 1/3</text>
+<rect x="16" y="72" width="608" height="192" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="72" width="148" height="192" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<text x="90.0" y="100" font-size="16" font-weight="700" text-anchor="middle" fill="#46515c">エドの弟</text>
+<text x="90.0" y="127" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">アルフォンス・</text>
+<text x="90.0" y="149" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">エルリック</text>
+<circle cx="90.0" cy="212.8" r="6.800000000000001" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="90.0" y1="219.6" x2="90.0" y2="237.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="237.3" x2="81.8" y2="256.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="237.3" x2="98.2" y2="256.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="223.7" x2="79.8" y2="237.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="223.7" x2="100.2" y2="237.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<text x="206" y="101" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">立場</text>
+<circle cx="186.0" cy="95.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="101" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="258" y="101" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">魂を鎧に定着させて動く。</text>
+<text x="258" y="123" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">疲れや痛みを感じない</text>
+<line x1="174.0" y1="134.0" x2="616.0" y2="134.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="157" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">得意</text>
+<circle cx="186.0" cy="151.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="157" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">2</text>
+<text x="258" y="157" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">防御と相手を封じる錬成</text>
+<line x1="174.0" y1="168.0" x2="616.0" y2="168.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="191" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">方法</text>
+<circle cx="186.0" cy="185.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="191" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">3</text>
+<text x="258" y="191" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">陣を描く。扉の記憶を思い出した</text>
+<text x="258" y="213" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">あとは手を合わせる</text>
+<line x1="174.0" y1="224.0" x2="616.0" y2="224.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="247" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">制限</text>
+<circle cx="186.0" cy="241.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="247" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">4</text>
+<text x="258" y="247" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">鎧の血印が壊れると消える</text>
+<rect x="16" y="274" width="608" height="154" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="274" width="148" height="154" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<text x="90.0" y="302" font-size="16" font-weight="700" text-anchor="middle" fill="#46515c">兄弟の師匠</text>
+<text x="90.0" y="329" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">イズミ・</text>
+<text x="90.0" y="351" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">カーティス</text>
+<circle cx="90.0" cy="376.8" r="6.800000000000001" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="90.0" y1="383.6" x2="90.0" y2="401.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="401.3" x2="81.8" y2="420.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="401.3" x2="98.2" y2="420.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="387.7" x2="79.8" y2="401.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="387.7" x2="100.2" y2="401.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<text x="206" y="303" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">立場</text>
+<circle cx="186.0" cy="297.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="303" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="258" y="303" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">エドとアルの錬金術の師匠</text>
+<line x1="174.0" y1="314.0" x2="616.0" y2="314.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="337" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">得意</text>
+<circle cx="186.0" cy="331.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="337" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">5</text>
+<text x="258" y="337" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">金属の槍や棘とする資料も</text>
+<line x1="174.0" y1="348.0" x2="616.0" y2="348.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="371" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">方法</text>
+<circle cx="186.0" cy="365.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="371" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">6</text>
+<text x="258" y="371" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">陣なしで手を合わせる</text>
+<line x1="174.0" y1="382.0" x2="616.0" y2="382.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="405" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">制限</text>
+<circle cx="186.0" cy="399.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="405" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="258" y="405" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">人体錬成で臓器を失い虚弱</text>
+<rect x="16" y="438" width="608" height="204" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="438" width="148" height="204" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<text x="90.0" y="466" font-size="16" font-weight="700" text-anchor="middle" fill="#46515c">兄弟の父</text>
+<text x="90.0" y="493" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">ヴァン・</text>
+<text x="90.0" y="515" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">ホーエンハイム</text>
+<circle cx="90.0" cy="590.8" r="6.800000000000001" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="90.0" y1="597.6" x2="90.0" y2="615.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="615.3" x2="81.8" y2="634.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="615.3" x2="98.2" y2="634.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="601.7" x2="79.8" y2="615.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="601.7" x2="100.2" y2="615.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<text x="206" y="467" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">立場</text>
+<circle cx="186.0" cy="461.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="467" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="258" y="467" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">錬金術の腕も知識も群を抜く</text>
+<line x1="174.0" y1="478.0" x2="616.0" y2="478.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="501" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">身体</text>
+<circle cx="186.0" cy="495.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="501" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<text x="258" y="501" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">人の形をした賢者の石</text>
+<line x1="174.0" y1="512.0" x2="616.0" y2="512.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="535" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">得意</text>
+<circle cx="186.0" cy="529.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="535" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">8</text>
+<text x="258" y="535" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">離れた複数の地点で同時に錬成</text>
+<text x="258" y="557" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">するとする資料も</text>
+<line x1="174.0" y1="568.0" x2="616.0" y2="568.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="591" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">方法</text>
+<circle cx="186.0" cy="585.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="591" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">9</text>
+<text x="258" y="591" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">手合わせも動作も要らない</text>
+<line x1="174.0" y1="602.0" x2="616.0" y2="602.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="625" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">制限</text>
+<text x="258" y="625" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">記述は見つからず</text>
+<line x1="14.0" y1="656.0" x2="626.0" y2="656.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="677.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="683" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="677.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="683" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="669" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="683" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="697" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

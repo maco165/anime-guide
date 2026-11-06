@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 668" width="640" height="668" role="img" aria-labelledby="power-flow-section-title power-flow-section-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="power-flow-section-title">力の流れの断面図</title>
+<desc id="power-flow-section-desc">地殻変動のエネルギーが地下の賢者の石を通って錬成陣と術者へ届く様子を地層の断面で示し、比較として大地や生物を流れる龍脈と、封じが届かないことを示す。封じられた魂の力を使っているとする資料があることも記す。</desc>
+<defs><pattern id="power-flow-section-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="668" fill="#f1f5f8"/>
+<rect width="640" height="668" fill="url(#power-flow-section-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">力はどこから来るか: 地層の断面</text>
+<rect x="3" y="158" width="634" height="66" fill="#ced8e0"/>
+<rect x="3" y="224" width="634" height="74" fill="#b4c1cc"/>
+<rect x="3" y="298" width="634" height="112" fill="#98a8b5"/>
+<rect x="3" y="410" width="634" height="150" fill="#7d8e9c"/>
+<path d="M3 224 q40 -8 80 0 t80 0 t80 0 t80 0 t80 0 t80 0 t80 0 t74 0" fill="none" stroke="#10131a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3 298 q40 -8 80 0 t80 0 t80 0 t80 0 t80 0 t80 0 t80 0 t74 0" fill="none" stroke="#10131a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3 410 q40 -8 80 0 t80 0 t80 0 t80 0 t80 0 t80 0 t80 0 t74 0" fill="none" stroke="#10131a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="3.0" y1="158.0" x2="637.0" y2="158.0" stroke="#10131a" stroke-width="5" stroke-linecap="butt"/>
+<path d="M96.0 494.0 L96.0 356.0" fill="none" stroke="#1f62d6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="96.0,334.0 111.8,356.0 80.2,356.0" fill="#1f62d6" stroke="#1f62d6" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M212.0 494.0 L212.0 356.0" fill="none" stroke="#1f62d6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="212.0,334.0 227.8,356.0 196.2,356.0" fill="#1f62d6" stroke="#1f62d6" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M328.0 494.0 L328.0 356.0" fill="none" stroke="#1f62d6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="328.0,334.0 343.8,356.0 312.2,356.0" fill="#1f62d6" stroke="#1f62d6" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="62" y="496" width="300" height="40" rx="4" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="212.0" y="523.92" font-size="22" font-weight="800" text-anchor="middle" fill="#ffffff">地殻変動のエネルギー</text>
+<polygon points="40.0,270.0 384.0,270.0 402.0,294.0 384.0,328.0 40.0,328.0 22.0,294.0" fill="#d92d20" stroke="#10131a" stroke-width="4" stroke-linejoin="round"/>
+<text x="212" y="308" font-size="22" font-weight="800" text-anchor="middle" fill="#ffffff">国の地下の賢者の石</text>
+<line x1="60.0" y1="328.0" x2="54.0" y2="340.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="60.0" y1="270.0" x2="54.0" y2="258.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="90.0" y1="328.0" x2="84.0" y2="340.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="90.0" y1="270.0" x2="84.0" y2="258.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="120.0" y1="328.0" x2="114.0" y2="340.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="120.0" y1="270.0" x2="114.0" y2="258.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="304.0" y1="328.0" x2="298.0" y2="340.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="304.0" y1="270.0" x2="298.0" y2="258.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="334.0" y1="328.0" x2="328.0" y2="340.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="334.0" y1="270.0" x2="328.0" y2="258.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="364.0" y1="328.0" x2="358.0" y2="340.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="364.0" y1="270.0" x2="358.0" y2="258.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<path d="M176.0 268.0 L176.0 202.0" fill="none" stroke="#d92d20" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="176.0,180.0 191.8,202.0 160.2,202.0" fill="#d92d20" stroke="#d92d20" stroke-width="1.5" stroke-linejoin="round"/>
+<ellipse cx="160" cy="158" rx="78" ry="16" fill="#ffffff" stroke="#10131a" stroke-width="4"/>
+<ellipse cx="160" cy="158" rx="54" ry="9" fill="none" stroke="#1f62d6" stroke-width="3"/>
+<circle cx="160.0" cy="83.2" r="9.200000000000001" fill="#ffffff" stroke="#10131a" stroke-width="5"/>
+<line x1="160.0" y1="92.4" x2="160.0" y2="116.3" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<line x1="160.0" y1="116.3" x2="149.0" y2="142.1" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<line x1="160.0" y1="116.3" x2="171.0" y2="142.1" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<line x1="160.0" y1="97.9" x2="145.3" y2="86.9" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<line x1="160.0" y1="97.9" x2="174.7" y2="86.9" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<line x1="118.6" y1="110.7" x2="104.9" y2="108.3" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="120.9" y1="102.7" x2="112.8" y2="99.5" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="124.7" y1="95.2" x2="113.0" y2="87.6" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="129.9" y1="88.7" x2="123.7" y2="82.6" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="136.3" y1="83.3" x2="128.5" y2="71.7" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="143.7" y1="79.3" x2="140.3" y2="71.3" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="151.7" y1="76.8" x2="148.9" y2="63.1" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="160.0" y1="76.0" x2="160.0" y2="67.3" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="168.3" y1="76.8" x2="171.1" y2="63.1" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="176.3" y1="79.3" x2="179.7" y2="71.3" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="183.7" y1="83.3" x2="191.5" y2="71.7" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="190.1" y1="88.7" x2="196.3" y2="82.6" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="195.3" y1="95.2" x2="207.0" y2="87.6" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="199.1" y1="102.7" x2="207.2" y2="99.5" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<text x="16" y="98" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">術者</text>
+<line x1="58.0" y1="92.0" x2="128.0" y2="92.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<text x="16" y="146" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">錬成陣</text>
+<line x1="78.0" y1="148.0" x2="98.0" y2="148.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="38.0" cy="516.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="522" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<circle cx="40.0" cy="246.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="40" y="252" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
+<circle cx="380.0" cy="72.2" r="8.2" fill="#ffffff" stroke="#10131a" stroke-width="5"/>
+<line x1="380.0" y1="80.4" x2="380.0" y2="101.7" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<line x1="380.0" y1="101.7" x2="370.2" y2="124.7" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<line x1="380.0" y1="101.7" x2="389.8" y2="124.7" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<line x1="380.0" y1="85.3" x2="367.7" y2="101.7" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<line x1="380.0" y1="85.3" x2="392.3" y2="101.7" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<circle cx="380.0" cy="91.9" r="4.92" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<text x="380" y="150" font-size="18" font-weight="800" text-anchor="middle" fill="#10131a">お父様</text>
+<path d="M380.0 166.0 L380.0 248.0" fill="none" stroke="#d92d20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,5"/>
+<polygon points="380.0,260.0 371.4,248.0 388.6,248.0" fill="#d92d20" stroke="#d92d20" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="260" y="166" width="110" height="28" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+<text x="315.0" y="186.12" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">意思で封じる</text>
+<rect x="204" y="198" width="166" height="58" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="222.0" cy="227.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="222" y="233" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">3</text>
+<text x="238" y="214.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">石を国中のパイプ</text>
+<text x="238" y="231.6" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">に流して封じる、</text>
+<text x="238" y="249.2" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">と書く資料もある</text>
+<rect x="428" y="59" width="209" height="501" fill="#ffffff" opacity="0.28"/>
+<line x1="428.0" y1="56.0" x2="428.0" y2="560.0" stroke="#10131a" stroke-width="4" stroke-linecap="butt" stroke-dasharray="12,7"/>
+<line x1="3.0" y1="560.0" x2="637.0" y2="560.0" stroke="#10131a" stroke-width="3.5" stroke-linecap="butt"/>
+<rect x="16" y="570" width="608" height="52" rx="4" fill="#fff7d6" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="596.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="602" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">5</text>
+<text x="60" y="591" font-size="18" font-weight="800" text-anchor="start" fill="#10131a">錬金術師は知らずに封じられた魂の力を使っている、</text>
+<text x="60" y="614" font-size="18" font-weight="800" text-anchor="start" fill="#10131a">と書く資料もある</text>
+<path d="M434 308 q22 -26 44 0 t44 0 t44 0 t44 0" fill="none" stroke="#0b8a5f" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="446" y="84" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">シン国 (比較)</text>
+<line x1="590.0" y1="158.0" x2="590.0" y2="130.0" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<circle cx="590.0" cy="116.0" r="16" fill="#0b8a5f" stroke="#10131a" stroke-width="3.5"/>
+<circle cx="482.0" cy="106.0" r="8.0" fill="#ffffff" stroke="#10131a" stroke-width="4.5"/>
+<line x1="482.0" y1="114.0" x2="482.0" y2="134.8" stroke="#10131a" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="482.0" y1="134.8" x2="472.4" y2="157.2" stroke="#10131a" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="482.0" y1="134.8" x2="491.6" y2="157.2" stroke="#10131a" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="482.0" y1="118.8" x2="469.2" y2="109.2" stroke="#10131a" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="482.0" y1="118.8" x2="494.8" y2="109.2" stroke="#10131a" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M482.0 292.0 L482.0 181.0" fill="none" stroke="#0b8a5f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="482.0,166.0 492.8,181.0 471.2,181.0" fill="#0b8a5f" stroke="#0b8a5f" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M590.0 292.0 L590.0 181.0" fill="none" stroke="#0b8a5f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="590.0,166.0 600.8,181.0 579.2,181.0" fill="#0b8a5f" stroke="#0b8a5f" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="442" y="332" width="180" height="62" rx="4" fill="#0b8a5f" stroke="#10131a" stroke-width="3"/>
+<text x="532.0" y="357.2" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">大地や生物を</text>
+<text x="532.0" y="383.2" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">流れる気 (龍脈)</text>
+<circle cx="442.0" cy="332.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="442" y="338" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">4</text>
+<line x1="404.0" y1="294.0" x2="420.0" y2="294.0" stroke="#d92d20" stroke-width="4" stroke-linecap="round" stroke-dasharray="8,5"/>
+<line x1="420.0" y1="276.0" x2="420.0" y2="312.0" stroke="#d92d20" stroke-width="7" stroke-linecap="round"/>
+<rect x="442" y="404" width="180" height="62" rx="4" fill="#ffffff" stroke="#d92d20" stroke-width="3.5"/>
+<text x="532.0" y="429.2" font-size="20" font-weight="800" text-anchor="middle" fill="#10131a">封じは錬丹術に</text>
+<text x="532.0" y="455.2" font-size="20" font-weight="800" text-anchor="middle" fill="#10131a">届かない</text>
+<rect x="442" y="474" width="180" height="56" rx="4" fill="#f1f5f8" stroke="#10131a" stroke-width="2"/>
+<text x="532.0" y="497.07" font-size="17" font-weight="500" text-anchor="middle" fill="#46515c">位置と縮尺は</text>
+<text x="532.0" y="519.17" font-size="17" font-weight="500" text-anchor="middle" fill="#46515c">説明用の模式です</text>
+<line x1="14.0" y1="624.0" x2="626.0" y2="624.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="645.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="651" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="645.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="651" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="637" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="651" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="665" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

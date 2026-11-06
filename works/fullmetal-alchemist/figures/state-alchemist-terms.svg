@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 790" width="640" height="790" role="img" aria-labelledby="state-alchemist-terms-title state-alchemist-terms-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="state-alchemist-terms-title">国家錬金術師の権利と義務</title>
+<desc id="state-alchemist-terms-desc">国家錬金術師の制度を、持てる権利と負う義務の 2 列に分けた図。上に資格の基本、下に制度の裏の目的と 5 人の人柱を記号で示す</desc>
+<defs><pattern id="state-alchemist-terms-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="790" fill="#f1f5f8"/>
+<rect width="640" height="790" fill="url(#state-alchemist-terms-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">国家錬金術師の権利と義務</text>
+<rect x="16" y="72" width="300" height="132" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="96.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="102" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="60" y="112.6" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">国家資格</text>
+<text x="60" y="133.4" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">年に一度の査定がある</text>
+<text x="60" y="154.2" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">「鋼」のような二つ名を持つ</text>
+<text x="60" y="175.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">エドワードは史上最年少の 12 歳</text>
+<rect x="326" y="72" width="298" height="58" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="348.0" cy="101.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="348" y="107.0" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
+<text x="370" y="107.8" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">軍の階級で少佐に相当</text>
+<rect x="326" y="140" width="298" height="64" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="348.0" cy="164.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="348" y="170" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">3</text>
+<text x="370" y="167.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">銀時計は</text>
+<text x="370" y="189.2" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">国家錬金術師の証</text>
+<circle cx="590.0" cy="172.0" r="20" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="590.0" y1="172.0" x2="590.0" y2="158.0" stroke="#10131a" stroke-width="3" stroke-linecap="round"/>
+<line x1="590.0" y1="172.0" x2="600.0" y2="178.0" stroke="#10131a" stroke-width="3" stroke-linecap="round"/>
+<rect x="586" y="146" width="8" height="6" rx="0" fill="#10131a" stroke="#10131a" stroke-width="1"/>
+<rect x="16" y="216" width="298" height="46" rx="4" fill="#1f62d6" stroke="#10131a" stroke-width="3.5"/>
+<text x="68" y="248" font-size="23" font-weight="800" text-anchor="start" fill="#ffffff">持てる権利</text>
+<circle cx="42.0" cy="239.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="42" y="245" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">4</text>
+<rect x="326" y="216" width="298" height="46" rx="4" fill="#d92d20" stroke="#10131a" stroke-width="3.5"/>
+<text x="378" y="248" font-size="23" font-weight="800" text-anchor="start" fill="#ffffff">負う義務</text>
+<circle cx="352.0" cy="239.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="352" y="245" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">5</text>
+<rect x="16" y="270" width="298" height="54" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+<text x="165.0" y="303.12" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">年に数千万センズの研究費</text>
+<rect x="16" y="330" width="298" height="54" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+<text x="165.0" y="363.12" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">特殊な文献の閲覧</text>
+<rect x="16" y="390" width="298" height="54" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+<text x="165.0" y="423.12" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">施設の優先利用</text>
+<rect x="16" y="450" width="298" height="54" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="477.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="483.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">9</text>
+<text x="60" y="482.8" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">銀時計を見せて研究費を引き出す</text>
+<rect x="16" y="510" width="298" height="54" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="537.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="543.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">9</text>
+<text x="60" y="542.8" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">軍人として働く者は報告が免除</text>
+<rect x="326" y="270" width="298" height="92" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+<text x="475.0" y="311.07" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">年に一度の査定。成果が</text>
+<text x="475.0" y="333.17" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">振るわなければ資格を失う</text>
+<rect x="326" y="370" width="298" height="92" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+<text x="475.0" y="411.07" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">三大制限: 人を作るな、</text>
+<text x="475.0" y="433.17" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">金を作るな、軍に忠誠を誓え</text>
+<rect x="326" y="470" width="298" height="92" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+<text x="475.0" y="511.07" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">招集があれば人間兵器として</text>
+<text x="475.0" y="533.17" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">戦地へ (「軍の狗」と揶揄)</text>
+<rect x="16" y="576" width="608" height="158" rx="4" fill="#fdeceb" stroke="#10131a" stroke-width="3.5"/>
+<circle cx="38.0" cy="604.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="610" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">6</text>
+<text x="60" y="611" font-size="21" font-weight="800" text-anchor="start" fill="#10131a">制度の裏の目的: 人柱の候補の確保</text>
+<circle cx="38.0" cy="652.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="658" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<text x="60" y="659" font-size="21" font-weight="800" text-anchor="start" fill="#10131a">人柱は 5 人</text>
+<circle cx="232.0" cy="629.8" r="5.8" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="232.0" y1="635.6" x2="232.0" y2="650.7" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="232.0" y1="650.7" x2="225.0" y2="666.9" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="232.0" y1="650.7" x2="239.0" y2="666.9" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="232.0" y1="639.1" x2="223.3" y2="650.7" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="232.0" y1="639.1" x2="240.7" y2="650.7" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="276.0" cy="629.8" r="5.8" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="276.0" y1="635.6" x2="276.0" y2="650.7" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="276.0" y1="650.7" x2="269.0" y2="666.9" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="276.0" y1="650.7" x2="283.0" y2="666.9" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="276.0" y1="639.1" x2="267.3" y2="650.7" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="276.0" y1="639.1" x2="284.7" y2="650.7" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="320.0" cy="629.8" r="5.8" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="320.0" y1="635.6" x2="320.0" y2="650.7" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="320.0" y1="650.7" x2="313.0" y2="666.9" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="320.0" y1="650.7" x2="327.0" y2="666.9" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="320.0" y1="639.1" x2="311.3" y2="650.7" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="320.0" y1="639.1" x2="328.7" y2="650.7" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="364.0" cy="629.8" r="5.8" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="364.0" y1="635.6" x2="364.0" y2="650.7" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="364.0" y1="650.7" x2="357.0" y2="666.9" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="364.0" y1="650.7" x2="371.0" y2="666.9" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="364.0" y1="639.1" x2="355.3" y2="650.7" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="364.0" y1="639.1" x2="372.7" y2="650.7" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="408.0" cy="629.8" r="5.8" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="408.0" y1="635.6" x2="408.0" y2="650.7" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="408.0" y1="650.7" x2="401.0" y2="666.9" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="408.0" y1="650.7" x2="415.0" y2="666.9" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="408.0" y1="639.1" x2="399.3" y2="650.7" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="408.0" y1="639.1" x2="416.7" y2="650.7" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="38.0" cy="702.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="708" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">8</text>
+<text x="60" y="709" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">人柱とは、人体錬成で扉に到達した者</text>
+<line x1="14.0" y1="746.0" x2="626.0" y2="746.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="767.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="773" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="767.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="773" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="759" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="773" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="787" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

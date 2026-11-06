@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 892" width="640" height="892" role="img" aria-labelledby="nation-circle-mechanism-title nation-circle-mechanism-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="nation-circle-mechanism-title">国土錬成陣の仕組み</title>
+<desc id="nation-circle-mechanism-desc">無地の円の上に点を置いた記号で、虐殺の地点と国中の地下道で陣を作ることを示し、日食の日に発動して国内の全員を材料に巨大な賢者の石を作る計画までを流れで示す図。作中の陣の図案ではない。下に陣の形の書き方の違いを破線の枠で示す</desc>
+<defs><pattern id="nation-circle-mechanism-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="892" fill="#f1f5f8"/>
+<rect width="640" height="892" fill="url(#nation-circle-mechanism-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">国土錬成陣: 地下道と虐殺の地点で陣を作る</text>
+<rect x="16" y="72" width="324" height="328" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="178.0" cy="214.0" r="116" fill="#e4edfb" stroke="#10131a" stroke-width="7"/>
+<circle cx="178.0" cy="214.0" r="104" fill="none" stroke="#1f62d6" stroke-width="3" stroke-dasharray="9,7"/>
+<circle cx="290.0" cy="244.0" r="11" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<circle cx="232.5" cy="316.4" r="11" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<circle cx="123.5" cy="316.4" r="11" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<circle cx="63.4" cy="232.1" r="11" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<circle cx="76.5" cy="157.8" r="11" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<circle cx="149.9" cy="101.4" r="11" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<circle cx="269.4" cy="142.6" r="11" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<text x="178" y="208" font-size="20" font-weight="800" text-anchor="middle" fill="#10131a">アメストリス</text>
+<text x="178" y="236" font-size="17" font-weight="500" text-anchor="middle" fill="#46515c">(記号)</text>
+<circle cx="36.0" cy="356.0" r="9" fill="#d92d20" stroke="#10131a" stroke-width="2.5"/>
+<text x="52" y="362" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">虐殺の地点</text>
+<line x1="160.0" y1="356.0" x2="196.0" y2="356.0" stroke="#1f62d6" stroke-width="3" stroke-linecap="round" stroke-dasharray="9,7"/>
+<text x="204" y="362" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">国中の地下道</text>
+<text x="30" y="388" font-size="16" font-weight="500" text-anchor="start" fill="#46515c">無地の円は記号で、陣の図案ではない</text>
+<rect x="350" y="72" width="274" height="62" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="372.0" cy="103.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="372" y="109.0" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="394" y="109.5" font-size="18" font-weight="800" text-anchor="start" fill="#10131a">国民全てを巻き込む</text>
+<rect x="350" y="142" width="274" height="92" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="372.0" cy="166.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="372" y="172" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
+<text x="394" y="172.0" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">虐殺の地点を結ぶと陣が</text>
+<text x="394" y="194.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">浮かぶ。紛争や領土拡大</text>
+<text x="394" y="216.2" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">はそのために起こされた</text>
+<rect x="350" y="242" width="274" height="92" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="372.0" cy="266.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="372" y="272" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">3</text>
+<text x="394" y="272.0" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">国土錬成陣の発動に使う</text>
+<text x="394" y="294.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">地下道を、スロウスが</text>
+<text x="394" y="316.2" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">国中に掘っている</text>
+<rect x="350" y="342" width="274" height="58" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="372.0" cy="366.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="372" y="372" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">4</text>
+<text x="394" y="366.4" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">外縁の 10 都市を軸に設計</text>
+<text x="394" y="387.2" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">と書く記事がある</text>
+<rect x="16" y="408" width="324" height="58" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="437.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="443.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">8</text>
+<text x="60" y="443.5" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">地下道は陣の線になる</text>
+<rect x="350" y="408" width="274" height="58" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="372.0" cy="432.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="372" y="438" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">9</text>
+<text x="394" y="432.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">ブリッグズの地下のトンネル</text>
+<text x="394" y="454.2" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">もその一部</text>
+<text x="16" y="490" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">計画の流れ</text>
+<rect x="16" y="502" width="140" height="92" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="86" y="540.0" font-size="18" font-weight="800" text-anchor="middle" fill="#10131a">地下道と地点</text>
+<text x="86" y="563.4" font-size="18" font-weight="800" text-anchor="middle" fill="#10131a">がそろう</text>
+<rect x="172" y="502" width="140" height="92" rx="4" fill="#fff7d6" stroke="#10131a" stroke-width="3"/>
+<circle cx="190.0" cy="520.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="190" y="526" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">5</text>
+<text x="250" y="530.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">日食の日</text>
+<text x="250" y="552.1" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">に発動</text>
+<text x="242" y="582" font-size="16" font-weight="700" text-anchor="middle" fill="#10131a">(約束の日)</text>
+<rect x="328" y="502" width="140" height="92" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="398" y="540.0" font-size="18" font-weight="800" text-anchor="middle" fill="#10131a">国内の全員</text>
+<text x="398" y="563.4" font-size="18" font-weight="800" text-anchor="middle" fill="#10131a">が犠牲に</text>
+<rect x="484" y="502" width="140" height="92" rx="4" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<circle cx="502.0" cy="520.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="502" y="526" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">6</text>
+<text x="562" y="538.0" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">巨大な</text>
+<text x="562" y="561.4" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">賢者の石</text>
+<polygon points="156.8,536.0 164.0,536.0 172.4,548.0 164.0,560.0 156.8,560.0 165.2,548.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="312.8,536.0 320.0,536.0 328.4,548.0 320.0,560.0 312.8,560.0 321.2,548.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="468.8,536.0 476.0,536.0 484.4,548.0 476.0,560.0 468.8,560.0 477.2,548.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<rect x="16" y="608" width="608" height="58" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="637.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="643.0" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<text x="60" y="643.8" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">お父様が石のために国そのものを作った</text>
+<circle cx="590.0" cy="617.8" r="6.800000000000001" fill="#ffffff" stroke="#10131a" stroke-width="4"/>
+<line x1="590.0" y1="624.6" x2="590.0" y2="642.3" stroke="#10131a" stroke-width="4" stroke-linecap="round"/>
+<line x1="590.0" y1="642.3" x2="581.8" y2="661.3" stroke="#10131a" stroke-width="4" stroke-linecap="round"/>
+<line x1="590.0" y1="642.3" x2="598.2" y2="661.3" stroke="#10131a" stroke-width="4" stroke-linecap="round"/>
+<line x1="590.0" y1="628.7" x2="579.8" y2="642.3" stroke="#10131a" stroke-width="4" stroke-linecap="round"/>
+<line x1="590.0" y1="628.7" x2="600.2" y2="642.3" stroke="#10131a" stroke-width="4" stroke-linecap="round"/>
+<circle cx="590.0" cy="634.1" r="4.08" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<text x="16" y="696" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">陣の形は書き方が分かれる</text>
+<rect x="16" y="708" width="298" height="124" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5" stroke-dasharray="10,6"/>
+<text x="30" y="738.0" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">円とする解説ページの</text>
+<text x="30" y="761.4" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">同じページのよくある</text>
+<text x="30" y="784.8" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">質問は五角形と書く</text>
+<text x="300" y="820" font-size="16" font-weight="500" text-anchor="end" fill="#46515c">[src-052]</text>
+<rect x="326" y="708" width="298" height="124" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5" stroke-dasharray="10,6"/>
+<text x="340" y="738.0" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">第五研究所の二重五角形に</text>
+<text x="340" y="761.4" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">似るとする</text>
+<text x="610" y="820" font-size="16" font-weight="500" text-anchor="end" fill="#46515c">[src-072]</text>
+<line x1="14.0" y1="848.0" x2="626.0" y2="848.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="869.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="875" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="869.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="875" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="861" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="875" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="889" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

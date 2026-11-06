@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 1022" width="640" height="1022" role="img" aria-labelledby="abilities-state-3-title abilities-state-3-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="abilities-state-3-title">国家錬金術師の図鑑 3: グラン、コマンチ、アイザック</title>
+<desc id="abilities-state-3-desc">グラン、コマンチ、アイザックの二つ名、得意な術、錬成の方法、制限や身体の事情、階級を人物ごとのカードで示す。</desc>
+<defs><pattern id="abilities-state-3-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="1022" fill="#f1f5f8"/>
+<rect width="640" height="1022" fill="url(#abilities-state-3-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">国家錬金術師の図鑑 3/3</text>
+<rect x="16" y="72" width="608" height="238" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="72" width="148" height="238" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<text x="90.0" y="114" font-size="32" font-weight="800" text-anchor="middle" fill="#1f62d6">鉄血</text>
+<text x="90.0" y="141" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">バスク・</text>
+<text x="90.0" y="163" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">グラン</text>
+<circle cx="90.0" cy="258.8" r="6.800000000000001" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="90.0" y1="265.6" x2="90.0" y2="283.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="283.3" x2="81.8" y2="302.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="283.3" x2="98.2" y2="302.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="269.7" x2="79.8" y2="283.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="269.7" x2="100.2" y2="283.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<text x="206" y="101" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">二つ名</text>
+<circle cx="186.0" cy="95.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="101" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="258" y="101" font-size="17" font-weight="600" text-anchor="start" fill="#10131a">「鉄血」</text>
+<line x1="174.0" y1="112.0" x2="616.0" y2="112.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="135" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">得意</text>
+<circle cx="186.0" cy="129.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="135" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
+<text x="258" y="135" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">銃砲や鉄球を一度に大量に作る</text>
+<line x1="174.0" y1="146.0" x2="616.0" y2="146.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="169" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">方法</text>
+<circle cx="186.0" cy="163.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="169" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">3</text>
+<text x="258" y="169" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">陣入りの籠手と腕輪で両拳を打つ。</text>
+<text x="258" y="191" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">鉄甲と呼ぶ資料も</text>
+<line x1="174.0" y1="202.0" x2="616.0" y2="202.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="225" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">制限</text>
+<text x="258" y="225" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">記述は見つからず</text>
+<line x1="174.0" y1="236.0" x2="616.0" y2="236.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="259" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">階級</text>
+<circle cx="186.0" cy="253.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="259" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="258" y="259" font-size="17" font-weight="600" text-anchor="start" fill="#10131a">准将</text>
+<line x1="174.0" y1="270.0" x2="616.0" y2="270.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="293" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">版</text>
+<circle cx="186.0" cy="287.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="293" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">4</text>
+<text x="258" y="293" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">2009 年版 第 4 話に登場</text>
+<rect x="16" y="320" width="608" height="306" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="320" width="148" height="306" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<text x="90.0" y="362" font-size="32" font-weight="800" text-anchor="middle" fill="#1f62d6">銀</text>
+<text x="90.0" y="389" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">ジョリオ・</text>
+<text x="90.0" y="411" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">コマンチ</text>
+<circle cx="90.0" cy="574.8" r="6.800000000000001" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="90.0" y1="581.6" x2="90.0" y2="599.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="599.3" x2="81.8" y2="618.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="599.3" x2="98.2" y2="618.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="585.7" x2="79.8" y2="599.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="585.7" x2="100.2" y2="599.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<text x="206" y="349" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">二つ名</text>
+<circle cx="186.0" cy="343.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="349" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">5</text>
+<text x="258" y="349" font-size="17" font-weight="600" text-anchor="start" fill="#10131a">「銀」。読みは「しろがね」</text>
+<line x1="174.0" y1="360.0" x2="616.0" y2="360.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="383" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">得意</text>
+<circle cx="186.0" cy="377.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="383" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="258" y="383" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">周りの鉱物からさまざまな刃物</text>
+<circle cx="186.0" cy="411.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="417" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">6</text>
+<text x="258" y="417" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">鎖の付いた刃も作る</text>
+<line x1="174.0" y1="428.0" x2="616.0" y2="428.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="451" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">方法</text>
+<circle cx="186.0" cy="445.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="451" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
+<text x="258" y="451" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">手の陣で発動。位置は図 1-4</text>
+<line x1="174.0" y1="462.0" x2="616.0" y2="462.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="485" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">身体</text>
+<circle cx="186.0" cy="479.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="485" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="258" y="485" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">左足が義足</text>
+<line x1="174.0" y1="496.0" x2="616.0" y2="496.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="519" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">制限</text>
+<circle cx="186.0" cy="513.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="519" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">7</text>
+<text x="258" y="519" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">固形物が要り水中で不利</text>
+<text x="258" y="541" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">とする資料も</text>
+<line x1="174.0" y1="552.0" x2="616.0" y2="552.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="575" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">階級</text>
+<circle cx="186.0" cy="569.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="575" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">7</text>
+<text x="258" y="575" font-size="17" font-weight="600" text-anchor="start" fill="#10131a">少佐とする資料も</text>
+<line x1="174.0" y1="586.0" x2="616.0" y2="586.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="609" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">版</text>
+<circle cx="186.0" cy="603.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="609" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">8</text>
+<text x="258" y="609" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">2009 年版 第 15 話に登場</text>
+<rect x="16" y="636" width="608" height="328" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="636" width="148" height="328" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<text x="90.0" y="678" font-size="32" font-weight="800" text-anchor="middle" fill="#1f62d6">氷結</text>
+<text x="90.0" y="705" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">アイザック・</text>
+<text x="90.0" y="727" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">マクドゥーガル</text>
+<rect x="24.0" y="740" width="132" height="26" rx="3" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<text x="90.0" y="759" font-size="16" font-weight="800" text-anchor="middle" fill="#ffffff">アニメ独自</text>
+<circle cx="90.0" cy="912.8" r="6.800000000000001" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="90.0" y1="919.6" x2="90.0" y2="937.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="937.3" x2="81.8" y2="956.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="937.3" x2="98.2" y2="956.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="923.7" x2="79.8" y2="937.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="90.0" y1="923.7" x2="100.2" y2="937.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<text x="206" y="665" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">二つ名</text>
+<circle cx="186.0" cy="659.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="665" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">9</text>
+<text x="258" y="665" font-size="17" font-weight="600" text-anchor="start" fill="#10131a">「氷結」。元 国家錬金術師</text>
+<line x1="174.0" y1="676.0" x2="616.0" y2="676.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="699" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">版</text>
+<circle cx="186.0" cy="693.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="699" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">10</text>
+<text x="258" y="699" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">2009 年版の独自の人物</text>
+<line x1="174.0" y1="710.0" x2="616.0" y2="710.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="733" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">得意</text>
+<circle cx="186.0" cy="727.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="733" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">11</text>
+<text x="258" y="733" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">水を凍らせ壁や武器にする。</text>
+<text x="258" y="755" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">自分の血も武器にする</text>
+<circle cx="186.0" cy="783.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="789" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">12</text>
+<text x="258" y="789" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">触れて体内の水を凍結や沸騰させる</text>
+<text x="258" y="811" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">とする資料も</text>
+<line x1="174.0" y1="822.0" x2="616.0" y2="822.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="845" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">方法</text>
+<circle cx="186.0" cy="839.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="845" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">13</text>
+<text x="258" y="845" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">市街に陣を連ねて描く</text>
+<circle cx="186.0" cy="873.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="879" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">12</text>
+<text x="258" y="879" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">籠手と掌の刺青とする資料も</text>
+<line x1="174.0" y1="890.0" x2="616.0" y2="890.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="913" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">制限</text>
+<circle cx="186.0" cy="907.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="913" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">12</text>
+<text x="258" y="913" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">機械鎧には効かないとする資料も</text>
+<line x1="174.0" y1="924.0" x2="616.0" y2="924.0" stroke="#dde5eb" stroke-width="1.5" stroke-linecap="round"/>
+<text x="206" y="947" font-size="16" font-weight="800" text-anchor="start" fill="#46515c">階級</text>
+<circle cx="186.0" cy="941.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="186" y="947" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">12</text>
+<text x="258" y="947" font-size="17" font-weight="600" text-anchor="start" fill="#10131a">元少佐とする資料も</text>
+<line x1="14.0" y1="978.0" x2="626.0" y2="978.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="999.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="1005" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="999.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="1005" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="991" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="1005" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="1019" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

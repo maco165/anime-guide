@@ -1,0 +1,248 @@
+<svg data-sources="src-222 src-223 src-224 src-225 src-226 src-227 src-228 src-229 src-230 src-231 src-232 src-233 src-234 src-235 src-236 src-237 src-238 src-239 src-240 src-241 src-242 src-243 src-244 src-245 src-246 src-247 src-248 src-249 src-250 src-251 src-252 src-253 src-254 src-255 src-256 src-257 src-258 src-259 src-260 src-261 src-262 src-263 src-264 src-265 src-266 src-267 src-268 src-269 src-270 src-271" xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 1174" width="640" height="1174" role="img" aria-labelledby="sins-usage-title sins-usage-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="sins-usage-title">七つの大罪を使う作品の使い方の分類</title>
+<desc id="sins-usage-desc">資料で確認した 47 作品を、敵の組織や敵役、キャラの称号や役割、構成や章立て、能力や属性や小道具、世界設定や言及、楽曲の概念の 6 つに分けて年順に並べる。個人ブログやファンウィキだけが根拠の作品に白丸を付ける。網羅ではない。</desc>
+<defs><pattern id="sins-usage-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="1174" fill="#f1f5f8"/>
+<rect width="640" height="1174" fill="url(#sins-usage-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">使い方で分けた 47 作品</text>
+<g data-class="E" data-count="14">
+<rect x="16" y="70" width="608" height="239" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="70" width="608" height="34" rx="4" fill="#10131a" stroke="#10131a" stroke-width="3"/>
+<text x="30" y="94" font-size="19" font-weight="800" text-anchor="start" fill="#ffffff">敵の組織・敵役</text>
+<text x="610" y="94" font-size="19" font-weight="800" text-anchor="end" fill="#f5b700">14 件</text>
+<g data-work="『SWORD BREAKER』">
+<text x="28" y="130" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2002</text>
+<text x="72" y="130" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">SWORD BREAKER</text>
+</g>
+<g data-work="『9S』">
+<text x="28" y="157" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2003</text>
+<text x="72" y="157" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">9S</text>
+</g>
+<g data-work="『王国の鍵』(The Keys to the Kingdom)">
+<text x="28" y="184" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2003</text>
+<text x="72" y="184" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">王国の鍵</text>
+</g>
+<g data-work="『家庭教師ヒットマンREBORN!』">
+<text x="28" y="211" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2004</text>
+<text x="72" y="211" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">REBORN!</text>
+<circle cx="156.4" cy="205.0" r="6" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+</g>
+<g data-work="『スーパーナチュラル』(TV ドラマ)">
+<text x="28" y="238" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2007</text>
+<text x="72" y="238" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">スーパーナチュラル</text>
+<circle cx="237.0" cy="232.0" r="6" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+</g>
+<g data-work="『機巧童子ULTIMO』">
+<text x="28" y="265" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2009</text>
+<text x="72" y="265" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">機巧童子ULTIMO</text>
+</g>
+<g data-work="『The Binding of Isaac』">
+<text x="28" y="292" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2011</text>
+<text x="72" y="292" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">Binding of Isaac</text>
+<circle cx="220.3" cy="286.0" r="6" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+</g>
+<g data-work="『Re:ゼロから始める異世界生活』">
+<text x="326" y="130" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2012</text>
+<text x="370" y="130" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">Re:ゼロ</text>
+</g>
+<g data-work="『デッドライジング3』">
+<text x="326" y="157" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2013</text>
+<text x="370" y="157" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">デッドライジング3</text>
+<circle cx="527.4" cy="151.0" r="6" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+</g>
+<g data-work="『ドキドキ!プリキュア』">
+<text x="326" y="184" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2013</text>
+<text x="370" y="184" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">ドキドキ!プリキュア</text>
+</g>
+<g data-work="『蒼き雷霆 ガンヴォルト』">
+<text x="326" y="211" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2014</text>
+<text x="370" y="211" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">蒼き雷霆 ガンヴォルト</text>
+</g>
+<g data-work="『ペルソナ5』">
+<text x="326" y="238" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2016</text>
+<text x="370" y="238" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">ペルソナ5</text>
+</g>
+<g data-work="『Darksiders III』">
+<text x="326" y="265" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2018</text>
+<text x="370" y="265" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">Darksiders III</text>
+</g>
+<g data-work="『シャザム!』">
+<text x="326" y="292" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2019</text>
+<text x="370" y="292" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">シャザム!</text>
+</g>
+</g>
+<g data-class="T" data-count="12">
+<rect x="16" y="319" width="608" height="212" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="319" width="608" height="34" rx="4" fill="#10131a" stroke="#10131a" stroke-width="3"/>
+<text x="30" y="343" font-size="19" font-weight="800" text-anchor="start" fill="#ffffff">キャラの称号・役割</text>
+<text x="610" y="343" font-size="19" font-weight="800" text-anchor="end" fill="#f5b700">12 件</text>
+<g data-work="『天使禁猟区』">
+<text x="28" y="379" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">1994</text>
+<text x="72" y="379" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">天使禁猟区</text>
+</g>
+<g data-work="『でぃ・えっち・えぃ』">
+<text x="28" y="406" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2005</text>
+<text x="72" y="406" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">でぃ・えっち・えぃ</text>
+</g>
+<g data-work="『デモンブライド』">
+<text x="28" y="433" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2009</text>
+<text x="72" y="433" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">デモンブライド</text>
+<circle cx="203.0" cy="427.0" r="6" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+</g>
+<g data-work="『暗闇の果てで君を待つ』">
+<text x="28" y="460" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2009</text>
+<text x="72" y="460" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">暗闇の果てで君を待つ</text>
+</g>
+<g data-work="『エクゾスカル 零』">
+<text x="28" y="487" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2010</text>
+<text x="72" y="487" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">エクゾスカル 零</text>
+</g>
+<g data-work="『SERVAMP-サーヴァンプ-』">
+<text x="28" y="514" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2011</text>
+<text x="72" y="514" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">SERVAMP</text>
+</g>
+<g data-work="『七つの大罪』(ホビージャパン)">
+<text x="326" y="379" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2011</text>
+<text x="370" y="379" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">七つの大罪 (ホビージャパン)</text>
+</g>
+<g data-work="『七つの大罪』(鈴木央)">
+<text x="326" y="406" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2012</text>
+<text x="370" y="406" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">七つの大罪 (鈴木央)</text>
+</g>
+<g data-work="『神羅万象チョコ 大魔王と八つの柱駒』">
+<text x="326" y="433" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2012</text>
+<text x="370" y="433" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">神羅万象チョコ</text>
+</g>
+<g data-work="『sin 七つの大罪』">
+<text x="326" y="460" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2017</text>
+<text x="370" y="460" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">sin 七つの大罪</text>
+</g>
+<g data-work="『ザンキゼロ』">
+<text x="326" y="487" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2018</text>
+<text x="370" y="487" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">ザンキゼロ</text>
+</g>
+<g data-work="『JUDGE』">
+<text x="326" y="514" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">年不明</text>
+<text x="386" y="514" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">JUDGE</text>
+<circle cx="454.1" cy="508.0" r="6" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+</g>
+</g>
+<g data-class="S" data-count="9">
+<rect x="16" y="541" width="608" height="185" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="541" width="608" height="34" rx="4" fill="#10131a" stroke="#10131a" stroke-width="3"/>
+<text x="30" y="565" font-size="19" font-weight="800" text-anchor="start" fill="#ffffff">構成・章立て</text>
+<text x="610" y="565" font-size="19" font-weight="800" text-anchor="end" fill="#f5b700">9 件</text>
+<g data-work="『フォースタス博士』">
+<text x="28" y="601" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">1592</text>
+<text x="72" y="601" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">フォースタス博士</text>
+</g>
+<g data-work="『七つの大罪』(ヴァイル、ブレヒト)">
+<text x="28" y="628" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">1933</text>
+<text x="72" y="628" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">七つの大罪 (バレエ)</text>
+</g>
+<g data-work="『七つの大罪』(1952 仏伊映画)">
+<text x="28" y="655" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">1952</text>
+<text x="72" y="655" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">七つの大罪 (映画)</text>
+</g>
+<g data-work="『新・七つの大罪』(1962 仏映画)">
+<text x="28" y="682" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">1962</text>
+<text x="72" y="682" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">新・七つの大罪</text>
+</g>
+<g data-work="『セブン』">
+<text x="28" y="709" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">1995</text>
+<text x="72" y="709" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">セブン</text>
+</g>
+<g data-work="『ソウルイーター』">
+<text x="326" y="601" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2004</text>
+<text x="370" y="601" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">ソウルイーター</text>
+</g>
+<g data-work="悪ノ大罪シリーズ">
+<text x="326" y="628" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2008</text>
+<text x="370" y="628" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">悪ノ大罪シリーズ</text>
+</g>
+<g data-work="『ピースボート -Piece Vote-』">
+<text x="326" y="655" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2011</text>
+<text x="370" y="655" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">ピースボート</text>
+</g>
+<g data-work="『警視庁考察一課』">
+<text x="326" y="682" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2022</text>
+<text x="370" y="682" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">警視庁考察一課</text>
+</g>
+</g>
+<g data-class="P" data-count="6">
+<rect x="16" y="736" width="608" height="131" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="736" width="608" height="34" rx="4" fill="#10131a" stroke="#10131a" stroke-width="3"/>
+<text x="30" y="760" font-size="19" font-weight="800" text-anchor="start" fill="#ffffff">能力・属性・小道具</text>
+<text x="610" y="760" font-size="19" font-weight="800" text-anchor="end" fill="#f5b700">6 件</text>
+<g data-work="『うみねこのなく頃に』">
+<text x="28" y="796" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2007</text>
+<text x="72" y="796" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">うみねこのなく頃に</text>
+</g>
+<g data-work="『境界線上のホライゾン』">
+<text x="28" y="823" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2008</text>
+<text x="72" y="823" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">境界線上のホライゾン</text>
+<circle cx="254.0" cy="817.0" r="6" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+</g>
+<g data-work="『トリニティセブン』">
+<text x="28" y="850" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2010</text>
+<text x="72" y="850" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">トリニティセブン</text>
+</g>
+<g data-work="『ジョーカーゲーム 脱出』">
+<text x="326" y="796" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2013</text>
+<text x="370" y="796" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">ジョーカーゲーム 脱出</text>
+</g>
+<g data-work="『モナーク/Monark』">
+<text x="326" y="823" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2021</text>
+<text x="370" y="823" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">モナーク</text>
+</g>
+<g data-work="『Limbus Company』">
+<text x="326" y="850" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2023</text>
+<text x="370" y="850" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">Limbus Company</text>
+</g>
+</g>
+<g data-class="W" data-count="4">
+<rect x="16" y="877" width="608" height="104" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="877" width="608" height="34" rx="4" fill="#10131a" stroke="#10131a" stroke-width="3"/>
+<text x="30" y="901" font-size="19" font-weight="800" text-anchor="start" fill="#ffffff">世界設定・言及</text>
+<text x="610" y="901" font-size="19" font-weight="800" text-anchor="end" fill="#f5b700">4 件</text>
+<g data-work="『真・女神転生if...』">
+<text x="28" y="937" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">1994</text>
+<text x="72" y="937" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">真・女神転生if...</text>
+</g>
+<g data-work="『真・女神転生デビルサマナー』テレビドラマ版">
+<text x="28" y="964" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">1997</text>
+<text x="72" y="964" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">デビルサマナー (TV)</text>
+</g>
+<g data-work="『BLACK/MATRIX』">
+<text x="326" y="937" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">1998</text>
+<text x="370" y="937" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">BLACK/MATRIX</text>
+</g>
+<g data-work="『デビルメイクライ3』">
+<text x="326" y="964" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2005</text>
+<text x="370" y="964" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">デビルメイクライ3</text>
+</g>
+</g>
+<g data-class="C" data-count="2">
+<rect x="16" y="991" width="608" height="77" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="991" width="608" height="34" rx="4" fill="#10131a" stroke="#10131a" stroke-width="3"/>
+<text x="30" y="1015" font-size="19" font-weight="800" text-anchor="start" fill="#ffffff">楽曲の概念</text>
+<text x="610" y="1015" font-size="19" font-weight="800" text-anchor="end" fill="#f5b700">2 件</text>
+<g data-work="『BLACK LIST』(Acid Black Cherry)">
+<text x="28" y="1051" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2008</text>
+<text x="72" y="1051" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">BLACK LIST</text>
+</g>
+<g data-work="『Dramatic Seven』(超特急)">
+<text x="326" y="1051" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">2016</text>
+<text x="370" y="1051" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">Dramatic Seven</text>
+</g>
+</g>
+<line x1="14.0" y1="1080.0" x2="626.0" y2="1080.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="1102.0" r="6" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+<text x="44" y="1108" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">白丸: 個人ブログやファンウィキだけが根拠</text>
+<text x="24" y="1136.0" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">印の無い作品も、多くは事典の作品ページ 1 件で確かめた範囲で、</text>
+<text x="24" y="1158.1" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">公式には確かめていない。網羅ではなく、分類は筆者が主な 1 つに決めた</text>
+<rect x="1.5" y="1.5" width="637" height="1171" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

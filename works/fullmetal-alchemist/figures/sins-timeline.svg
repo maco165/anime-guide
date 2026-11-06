@@ -1,0 +1,118 @@
+<svg data-sources="src-201 src-202 src-203 src-204 src-205 src-206 src-207 src-208 src-210 src-211 src-212" xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 1264" width="640" height="1264" role="img" aria-labelledby="sins-timeline-title sins-timeline-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="sins-timeline-title">七つの大罪の年表</title>
+<desc id="sins-timeline-desc">4 世紀のエウァグリオスの八つの想念から現代のカテキズムまで 9 項目を縦の年表で示す。右端の数字は一覧の数で、8 から 7 へ変わる。ボスの年代と作者、グレゴリウスの年の示し方、起源の説明は説が分かれるので破線の枠で示す。</desc>
+<defs><pattern id="sins-timeline-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="1264" fill="#f1f5f8"/>
+<rect width="640" height="1264" fill="url(#sins-timeline-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">八つの想念から七つの大罪へ</text>
+<line x1="34.0" y1="72.0" x2="34.0" y2="1162.0" stroke="#10131a" stroke-width="5" stroke-linecap="butt"/>
+<rect x="60" y="74" width="516" height="98" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="74" y="98" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">4 世紀</text>
+<text x="74" y="122" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">エウァグリオス</text>
+<text x="74" y="144.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">悪しき想念を八つに数え、誘惑を見分ける</text>
+<text x="74" y="164.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">道具にした。375 頃とするのは 1 資料だけ</text>
+<circle cx="34.0" cy="118.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="34" y="124" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<line x1="48.0" y1="118.0" x2="60.0" y2="118.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="604.0" cy="118.0" r="22" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<text x="604" y="127" font-size="26" font-weight="800" text-anchor="middle" fill="#ffffff">8</text>
+<rect x="60" y="184" width="516" height="98" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="74" y="208" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">420〜430 頃</text>
+<text x="74" y="232" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">カッシアヌス</text>
+<text x="74" y="254.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">八つをラテン語圏へ伝えた。怒りを悲しみ</text>
+<text x="74" y="274.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">の前へ移し、順序が一部変わる</text>
+<circle cx="34.0" cy="228.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="34" y="234" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
+<line x1="48.0" y1="228.0" x2="60.0" y2="228.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="604.0" cy="228.0" r="22" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<text x="604" y="237" font-size="26" font-weight="800" text-anchor="middle" fill="#ffffff">8</text>
+<rect x="60" y="294" width="516" height="98" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3" stroke-dasharray="7,4"/>
+<text x="74" y="318" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">590 / 在位 590-604</text>
+<text x="74" y="342" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">グレゴリウス 1 世</text>
+<text x="74" y="364.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">七つに改めて嫉妬を加え、高慢を別格の</text>
+<text x="74" y="384.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">根に置く。年の示し方は資料で違う</text>
+<circle cx="34.0" cy="338.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="34" y="344" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">3</text>
+<line x1="48.0" y1="338.0" x2="60.0" y2="338.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="604.0" cy="338.0" r="22" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="604" y="347" font-size="26" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<rect x="60" y="404" width="516" height="98" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="74" y="428" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">13 世紀</text>
+<text x="74" y="452" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">トマス・アクィナス『神学大全』</text>
+<text x="74" y="474.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">他の罪を生む「頭」の意味で capital と</text>
+<text x="74" y="494.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説明した</text>
+<circle cx="34.0" cy="448.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="34" y="454" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">4</text>
+<line x1="48.0" y1="448.0" x2="60.0" y2="448.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="604.0" cy="448.0" r="22" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="604" y="457" font-size="26" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<rect x="60" y="514" width="516" height="98" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="74" y="538" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">1321 頃</text>
+<text x="74" y="562" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">ダンテ『神曲』煉獄篇</text>
+<text x="74" y="584.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">山の七段を高慢から色欲へ登る。七つを</text>
+<text x="74" y="604.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">愛の乱れとして整理する</text>
+<circle cx="34.0" cy="558.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="34" y="564" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">5</text>
+<line x1="48.0" y1="558.0" x2="60.0" y2="558.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="604.0" cy="558.0" r="22" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="604" y="567" font-size="26" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<rect x="60" y="624" width="516" height="98" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="74" y="648" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">14 世紀</text>
+<text x="74" y="672" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">チョーサー「教区司祭の話」</text>
+<text x="74" y="694.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">物語でなく悔悛と七つの罪の論説。</text>
+<text x="74" y="714.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">正確な年は確かめていない</text>
+<circle cx="34.0" cy="668.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="34" y="674" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">6</text>
+<line x1="48.0" y1="668.0" x2="60.0" y2="668.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="604.0" cy="668.0" r="22" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="604" y="677" font-size="26" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<rect x="60" y="734" width="516" height="98" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3" stroke-dasharray="7,4"/>
+<text x="74" y="758" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">1485 頃 / 1505-10</text>
+<text x="74" y="782" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">ボス (または追随者)『七つの大罪と四終』</text>
+<text x="74" y="804.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">円の中に七つを日常の場面で描く。年代も</text>
+<text x="74" y="824.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">作者も説が分かれ、プラド美術館は真作の立場</text>
+<circle cx="34.0" cy="778.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="34" y="784" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<line x1="48.0" y1="778.0" x2="60.0" y2="778.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="604.0" cy="778.0" r="22" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="604" y="787" font-size="26" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<rect x="60" y="844" width="516" height="98" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="74" y="868" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">16〜17 世紀</text>
+<text x="74" y="892" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">ロベルト・ベラルミーノ</text>
+<text x="74" y="914.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">虚栄を高慢へまとめ、ここで現代の一覧に</text>
+<text x="74" y="934.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">なったとする資料がある</text>
+<circle cx="34.0" cy="888.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="34" y="894" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">8</text>
+<line x1="48.0" y1="888.0" x2="60.0" y2="888.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="604.0" cy="888.0" r="22" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="604" y="897" font-size="26" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<rect x="60" y="954" width="516" height="98" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="74" y="978" font-size="17" font-weight="800" text-anchor="start" fill="#d92d20">現代</text>
+<text x="74" y="1002" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">カトリック教会のカテキズム 1866</text>
+<text x="74" y="1024.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">七つを挙げ、カッシアヌスとグレゴリウスに</text>
+<text x="74" y="1044.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">続く伝統と位置づける</text>
+<circle cx="34.0" cy="998.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="34" y="1004" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">9</text>
+<line x1="48.0" y1="998.0" x2="60.0" y2="998.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="604.0" cy="998.0" r="22" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="604" y="1007" font-size="26" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<rect x="60" y="1064" width="516" height="120" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3" stroke-dasharray="7,4"/>
+<text x="74" y="1090" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">起源の説明</text>
+<text x="74" y="1114.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">4 世紀の八つの想念を起源とする事典と、</text>
+<text x="74" y="1134.4" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">テルトゥリアヌスに遡り、エウァグリオスは</text>
+<text x="74" y="1154.8" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">九を八に減らしたとする事典がある</text>
+<circle cx="34.0" cy="1108.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="34" y="1114" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">10</text>
+<line x1="48.0" y1="1108.0" x2="60.0" y2="1108.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<line x1="14.0" y1="1220.0" x2="626.0" y2="1220.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="1241.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="1247" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="1241.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="1247" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="1233" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="1247" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="1261" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

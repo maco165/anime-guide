@@ -1,0 +1,1329 @@
+# 鋼の錬金術師 FULLMETAL ALCHEMIST の出典の台帳です。
+# 本文は事実を筆者の言葉で書き、出典の文章を転載していないので、permission は不要としています。
+# rights_holder は権利者を確定できなかったものを「不明」と書きます。
+# id の上のコメントは、ホムンクルスと七つの大罪のページでその出典を使った図です。
+sources:
+  - id: src-001
+    url: https://www.hagaren.jp/fa/about/introduction.html
+    kind: 公式サイト (作品紹介)
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-002
+    url: https://www.hagaren.jp/fa/characters/index01.html
+    kind: 公式サイト (キャラクター)
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-003
+    url: https://www.hagaren.jp/fa/about/story.html
+    kind: 公式サイト (話数あらすじ)
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-004
+    url: https://www.hagaren.jp/fa/about/story01.html
+    kind: 公式サイト (話数あらすじ)
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-005
+    url: https://www.hagaren.jp/fa/about/story02.html
+    kind: 公式サイト (話数あらすじ)
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-006
+    url: https://www.hagaren.jp/fa/about/story03.html
+    kind: 公式サイト (話数あらすじ)
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-007
+    url: https://www.hagaren.jp/fa/about/story04.html
+    kind: 公式サイト (話数あらすじ)
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-008
+    url: https://fullmetalalchemistusa.com/character/
+    kind: 英語版の公式サイト (キャラクター)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-009
+    url: https://en.wikipedia.org/wiki/Fullmetal_Alchemist
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-010
+    url: https://www.sciencehistory.org/stories/magazine/the-secrets-of-alchemy/
+    kind: 研究機関の記事 (Science History Institute)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-011
+    url: https://en.wikipedia.org/wiki/Alchemy
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-012
+    url: https://en.wikipedia.org/wiki/Waidan
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-013
+    url: https://en.wikipedia.org/wiki/Neidan
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-014
+    url: https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/jabir-ibn-hayy
+    kind: 事典 (encyclopedia.com)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-015
+    url: https://www.lindahall.org/paracelsus/
+    kind: 図書館の記事 (Linda Hall Library)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-016
+    url: https://shc.stanford.edu/arcade/publications/rofl/issues/volume-1-issue-2/artificial-men-alchemy-transubstantiation-and
+    kind: 大学の論文誌 (Stanford)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-017
+    url: https://worldneurologyonline.com/article/the-homunculus-from-paracelsus-to-penfield/
+    kind: 専門誌の記事 (World Neurology)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-018
+    url: https://collection.sciencemuseumgroup.org.uk/people/ap24980/flamel-nicolas
+    kind: 博物館の資料 (Science Museum Group)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-019
+    url: https://en.wikipedia.org/wiki/Alkahest
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-020
+    url: https://webapp1.dlib.indiana.edu/newton/project/grant.do
+    kind: 大学のプロジェクト (Indiana University)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-021
+    url: https://philipball.co.uk/wp-content/uploads/2015/05/newtons_alchemy_final.pdf
+    kind: 科学記者の記事 (Philip Ball)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-022
+    url: https://sciencehistory.org/stories/magazine/dr-butler-and-the-quest-for-the-philosophers-stone
+    kind: 研究機関の記事 (Science History Institute)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-023
+    url: https://lemdo.uvic.ca/emee/AlchemyAndChemistry.html
+    kind: 大学の資料 (University of Victoria)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-024
+    url: https://www.sciencehistory.org/alchemy
+    kind: 研究機関の解説 (Science History Institute)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-025
+    url: https://pitjournal.unc.edu/2023/01/15/lead-to-gold-sorcery-to-science-alchemy-and-the-foundations-of-modern-chemistry/
+    kind: 大学の学部生誌 (University of North Carolina)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-026
+    url: https://hyle.org/journal/issues/10-2/rev_karpenko.htm
+    kind: 学術誌の書評 (HYLE)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-027
+    url: https://hagarenmovie.tumblr.com/post/167232938220/translation-special-interview-with-hiromu/amp
+    kind: 作者インタビューのファン英訳
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-028
+    url: https://clewilan.tumblr.com/post/44966298003
+    kind: 作者インタビューのファン重訳
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-029
+    url: https://www.cinematoday.jp/page/A0005783
+    kind: 作者インタビュー記事 (シネマトゥデイ)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-030
+    url: https://www.looper.com/179096/the-untold-truth-of-fullmetal-alchemist/
+    kind: 解説記事 (Looper)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-031
+    url: https://jgeekstudies.org/2026/05/12/on-the-relation-between-full-metal-alchemists-equivalent-exchange-and-the-scientific-conservation-laws/
+    kind: 論考 (Journal of Geek Studies)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-032
+    url: https://dic.nicovideo.jp/a/%E7%AD%89%E4%BE%A1%E4%BA%A4%E6%8F%9B
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-033
+    url: https://kotobank.jp/word/質量保存の法則
+    kind: 事典 (コトバンク)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-034
+    url: https://breezewiki.discard.no/fma/wiki/Van_Hohenheim
+    kind: ファン wiki (Van Hohenheim の項の閲覧用ミラー)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-035
+    url: https://fma.fandom.com/wiki/Volume_19
+    kind: ファン wiki
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-036
+    url: https://www.deviantart.com/evilgidgit/art/Name-Origins-Fullmetal-Alchemist-1258823408
+    kind: ファンの整理
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-037
+    url: https://fma.fandom.com/wiki/Roy_Mustang
+    kind: ファン wiki
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-038
+    url: https://en.namu.wiki/w/%EA%B0%95%EC%B2%A0%EC%9D%98%20%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC
+    kind: 利用者が編集する事典 (namu.wiki)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-039
+    url: https://blog.rebresearch.com/edward-elrichs-snake-flamel/
+    kind: 個人ブログ
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-040
+    url: https://ja.wikipedia.org/wiki/鋼の錬金術師
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-041
+    url: https://ja.wikipedia.org/wiki/鋼の錬金術師_FULLMETAL_ALCHEMIST
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-042
+    url: https://en.wikipedia.org/wiki/List_of_Fullmetal_Alchemist_characters
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-043
+    url: https://en.wikipedia.org/wiki/Edward_Elric
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-044
+    url: https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6
+    kind: 事典 (マンガペディア)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-045
+    url: https://wiki3.jp/aniwotadata/name/%E5%9B%BD%E5%AE%B6%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB
+    kind: 利用者が編集する wiki (アニヲタ wiki)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-046
+    url: https://wiki3.jp/aniwotadata/name/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB
+    kind: 利用者が編集する wiki (アニヲタ wiki)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-047
+    url: https://dic.nicovideo.jp/a/%E8%B3%A2%E8%80%85%E3%81%AE%E7%9F%B3
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-048
+    url: https://dic.nicovideo.jp/a/%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%9B%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%A0
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-049
+    url: https://dic.nicovideo.jp/a/%E3%83%A1%E3%82%A4%E3%83%BB%E3%83%81%E3%83%A3%E3%83%B3
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-050
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Ishval-Civil-War
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-051
+    url: https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-40-2009-Anime
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-052
+    url: https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-35-2009-Anime
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-053
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Alchemist
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-054
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Father
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-055
+    url: https://animeoshi.com/anime/fullmetal-alchemist-brotherhood/episode/30
+    kind: 話数の解説サイト (AnimeOshi)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-056
+    url: https://animeoshi.com/anime/fullmetal-alchemist-brotherhood/episode/35
+    kind: 話数の解説サイト (AnimeOshi)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-057
+    url: https://animeoshi.com/anime/fullmetal-alchemist-brotherhood/episode/40
+    kind: 話数の解説サイト (AnimeOshi)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-058
+    url: https://anigamers.com/2009/12/fma-brotherhood-diaries-episode-35.html
+    kind: ブログ (Anigamers)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-060
+    url: https://looper.com/364093/the-real-meaning-of-the-truth-in-fullmetal-alchemist-brotherhood
+    kind: 解説記事 (Looper)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-061
+    url: https://www.thefandomentals.com/fullmetal-alchemist-humanity
+    kind: 論考 (The Fandomentals)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-062
+    url: https://galacticamedia.com/index.php/gmd/article/view/697
+    kind: 論文 (Galactica Media)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-063
+    url: https://note.com/tsure_risa/n/n074a7346014e?hl=en
+    kind: 個人の記事 (note)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-064
+    url: https://nazbutnotcoy.substack.com/p/what-is-the-value-of-a-human-soul
+    kind: 個人の記事 (Substack)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-065
+    url: https://www.animesparks.blog/blog/fullmetal-alchemist-philosophers-stone-explained-human-souls
+    kind: 解説サイト (Anime Sparks。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-066
+    url: https://hypercritic.org/?p=5388
+    kind: 評論 (Hypercritic)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-067
+    url: https://www.costituzionalismo.it/wp-content/uploads/1-2025-3.-Infante.pdf
+    kind: 論考 (costituzionalismo.it)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-068
+    url: https://publis-shs.univ-rouen.fr/ceredi/2126-1.pdf
+    kind: 論文 (ルーアン大学のサイト)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-069
+    url: https://www.betaseries.com/en/article/47613-fullmetal-alchemist-scar-and-the-ishvalan-civil-war-explained/amp
+    kind: 解説記事 (BetaSeries)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-070
+    url: https://comicbook.com/anime/news/fullmetal-alchemist-edward-elric-disabled-anime
+    kind: 記事 (ComicBook)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-071
+    url: https://www.cbr.com/fullmetal-alchemist-brotherhood-symbols-explained/
+    kind: 解説記事 (CBR)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-072
+    url: https://fictionhorizon.com/most-important-fullmetal-alchemist-symbols-meanings/
+    kind: 解説記事 (Fiction Horizon)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-073
+    url: https://www.tiki-toki.com/timeline/entry/515716/Fullmetal-Alchemist-Manga2009-Anime-Timeline/
+    kind: 利用者が作った年表 (Tiki-Toki)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-074
+    url: https://renote.net/articles/13966
+    kind: まとめ記事 (RENOTE)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-075
+    url: https://renote.net/articles/13936
+    kind: まとめ記事 (RENOTE)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-076
+    url: https://renote.net/articles/78723
+    kind: まとめ記事 (RENOTE)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-077
+    url: https://ciatr.jp/topics/308259
+    kind: まとめ記事 (ciatr)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-078
+    url: https://ciatr.jp/topics/169821
+    kind: まとめ記事 (ciatr)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-080
+    url: https://anigamers.com/2009/06/fma-brotherhood-diaries-episode-11.html
+    kind: ブログ (Anigamers)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-081
+    url: https://www.hagaren.jp/fa/about/story05.html
+    kind: 公式サイト (話数あらすじ)
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-101
+    url: https://ja.wikipedia.org/wiki/鋼の錬金術師の登場人物一覧
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # father, fma-map, name-table
+  - id: src-102
+    url: https://ja.wikipedia.org/wiki/鋼の錬金術師の主要な登場人物
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-103
+    url: https://dic.nicovideo.jp/a/エドワード・エルリック
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-104
+    url: https://dic.nicovideo.jp/a/ロイ・マスタング
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-105
+    url: https://dic.nicovideo.jp/a/アレックス・ルイ・アームストロング
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-106
+    url: https://dic.nicovideo.jp/a/ゾルフ・J・キンブリー
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-107
+    url: https://dic.nicovideo.jp/a/ショウ・タッカー
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-108
+    url: https://dic.nicovideo.jp/a/アルフォンス・エルリック
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-109
+    url: https://renote.net/articles/17750
+    kind: まとめ記事 (RENOTE)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-110
+    url: https://renote.net/articles/10068
+    kind: まとめ記事 (RENOTE)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-111
+    url: https://renote.net/articles/323977
+    kind: まとめ記事 (RENOTE)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-112
+    url: https://ciatr.jp/topics/180463
+    kind: まとめ記事 (ciatr)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-113
+    url: https://www.cbr.com/fullmetal-alchemist-most-powerful-alchemy-ranked/
+    kind: 解説記事 (CBR)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-114
+    url: https://www.cbr.com/fullmetal-alchemist-strongest-state-alchemists-ranked-by-strength/
+    kind: 解説記事 (CBR)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-115
+    url: https://www.slashfilm.com/947775/how-fullmetal-alchemist-brotherhood-created-an-original-villain-for-its-first-episode
+    kind: 解説記事 (SlashFilm)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-116
+    url: https://myanimelist.net/character/10956/Tim_Marcoh
+    kind: データベース (MyAnimeList)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-117
+    url: https://www.legiaodosherois.com.br/2022/circulos-transmutacao-fullmetal-alchemist.html
+    kind: 解説記事 (Legião dos Heróis)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-118
+    url: https://anigamers.com/2009/05/fma-brotherhood-diaries-episode-4.html/
+    kind: ブログ (Anigamers)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-119
+    url: https://anigamers.com/2009/07/fma-brotherhood-diaries-episode-15.html
+    kind: ブログ (Anigamers)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-120
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Giolio-Comanche
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-121
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Tim-Marcoh
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-122
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Basque-Grand
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-123
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Berthold-Hawkeye
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-124
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/May-Chang
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-125
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Izumi-Curtis
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-126
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Scar
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-127
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Solf-J-Kimblee
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-128
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Shou-Tucker
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-129
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Isaac-McDougal
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-130
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Van-Hohenheim
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, name-table, timeline
+  - id: src-201
+    url: https://en.wikipedia.org/wiki/Seven_deadly_sins
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, timeline
+  - id: src-202
+    url: https://en.wikipedia.org/wiki/Logismoi
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, name-table, timeline
+  - id: src-203
+    url: https://ja.wikipedia.org/wiki/七つの大罪
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, timeline
+  - id: src-204
+    url: https://www.newadvent.org/summa/2084.htm
+    kind: 原典の英訳 (New Advent, トマス『神学大全』)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, timeline
+  - id: src-205
+    url: https://www.newadvent.org/fathers/350705.htm
+    kind: 原典の英訳 (New Advent, カッシアヌス『共住修道制綱要』)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, timeline
+  - id: src-206
+    url: https://www.lectionarycentral.com/GregoryMoralia/Book31.html
+    kind: 原典の英訳 (Lectionary Central, グレゴリウス『ヨブ記講解』)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, name-table, timeline
+  - id: src-207
+    url: https://www.vatican.va/archive/ENG0015/__P6D.HTM
+    kind: 教会の文書 (バチカン, カトリック教会のカテキズム)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, timeline
+  - id: src-208
+    url: https://www.jesus4u.co.uk/study-sheets/evagrius-seven-deadly-sins-origins/history-of-sin
+    kind: 解説記事 (jesus4u)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, name-table
+  - id: src-209
+    url: https://en.wikipedia.org/wiki/Acedia
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # name-flow, timeline
+  - id: src-210
+    url: https://en.wikipedia.org/wiki/Purgatorio
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # timeline
+  - id: src-211
+    url: https://en.wikipedia.org/wiki/The_Parson%27s_Tale
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # timeline
+  - id: src-212
+    url: https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_and_the_Four_Last_Things
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # combination, lore, recipe
+  - id: src-213
+    url: https://en.wikipedia.org/wiki/Homunculus
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # combination, lore, recipe
+  - id: src-214
+    url: https://ja.wikipedia.org/wiki/ホムンクルス
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # recipe
+  - id: src-215
+    url: https://hyle.org/journal/issues/12-1/rev_schummer1.htm
+    kind: 論考
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # lore
+  - id: src-216
+    url: https://www.litcharts.com/lit/faust/characters/homunculus
+    kind: 作品解説 (LitCharts)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # fma-map
+  - id: src-218
+    url: https://gamebiz.jp/news/342177
+    kind: ニュース記事 (gamebiz, ゲーム『鋼の錬金術師 MOBILE』の公式情報)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # fma-map
+  - id: src-219
+    url: https://tatara-pt.com/book/comic/fullmetal-alchemist-homunculus/
+    kind: 解説記事 (tatara-pt)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # combination, father, fma-map
+  - id: src-220
+    url: https://www.slashfilm.com/1799815/fullmetal-alchemist-seven-deadly-sins-meaning-explained/
+    kind: 論考記事 (SlashFilm)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # father
+  - id: src-221
+    url: https://www.cbr.com/fullmetal-alchemist-homunculus-explained/
+    kind: 解説記事 (CBR)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-222
+    url: https://ci-en.net/creator/1403/article/78090
+    kind: 個人ブログ (Ci-en)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-a, medium, usage
+  - id: src-223
+    url: https://ja.wikipedia.org/wiki/七つの大罪_(漫画)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-a, medium, usage
+  - id: src-224
+    url: https://ja.wikipedia.org/wiki/Sin_七つの大罪
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-b, medium, usage
+  - id: src-225
+    url: https://ja.wikipedia.org/wiki/七つの大罪_(ホビージャパン)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-226
+    url: https://en.wikipedia.org/wiki/Seven_(1995_film)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-227
+    url: https://en.wikipedia.org/wiki/Shazam!_(film)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-228
+    url: https://ja.wikipedia.org/wiki/Re:ゼロから始める異世界生活
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-229
+    url: https://ja.wikipedia.org/wiki/うみねこのなく頃に
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, usage
+  - id: src-230
+    url: https://en.wikipedia.org/wiki/Umineko_When_They_Cry
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-b, medium, usage
+  - id: src-231
+    url: https://ja.wikipedia.org/wiki/ペルソナ5
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, usage
+  - id: src-232
+    url: https://en.wikipedia.org/wiki/Dead_Rising_3
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-a, medium, usage
+  - id: src-233
+    url: https://ja.wikipedia.org/wiki/SERVAMP-サーヴァンプ-
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-a, medium, usage
+  - id: src-234
+    url: https://ja.wikipedia.org/wiki/機巧童子ULTIMO
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-235
+    url: https://ja.wikipedia.org/wiki/トリニティセブン_7人の魔書使い
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-236
+    url: https://ja.wikipedia.org/wiki/ブラックマトリクス
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-237
+    url: https://www.siliconera.com/review-monark-ps5-switch-pc/
+    kind: レビュー記事 (Siliconera)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, usage
+  - id: src-238
+    url: https://ja.wikipedia.org/wiki/モナーク/Monark
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-b, medium, usage
+  - id: src-239
+    url: https://ja.wikipedia.org/wiki/ザンキゼロ
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-b, medium, usage
+  - id: src-240
+    url: https://ja.wikipedia.org/wiki/蒼き雷霆_ガンヴォルト
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-241
+    url: https://ja.wikipedia.org/wiki/真・女神転生if...
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-242
+    url: https://ja.wikipedia.org/wiki/9S
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-243
+    url: https://ja.wikipedia.org/wiki/悪ノ大罪シリーズ
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, usage
+  - id: src-244
+    url: https://ja.wikipedia.org/wiki/デモンブライド
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-245
+    url: https://en.wikipedia.org/wiki/Darksiders_III
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, usage
+  - id: src-246
+    url: https://en.wikipedia.org/wiki/The_Binding_of_Isaac_(video_game)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-247
+    url: https://bindingofisaacrebirth.wiki.gg/wiki/Mini-boss
+    kind: ファンウィキ (wiki.gg)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-248
+    url: https://en.wikipedia.org/wiki/Doctor_Faustus_(play)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-249
+    url: https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(ballet)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-250
+    url: https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(1952_film)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-251
+    url: https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(1962_film)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-252
+    url: https://en.wikipedia.org/wiki/Devil_May_Cry_3:_Dante%27s_Awakening
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, usage
+  - id: src-253
+    url: https://en.wikipedia.org/wiki/Reborn!
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-254
+    url: https://ja.wikipedia.org/wiki/天使禁猟区
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-b, medium, usage
+  - id: src-255
+    url: https://ja.wikipedia.org/wiki/ドキドキ!プリキュア
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, usage
+  - id: src-256
+    url: https://ja.wikipedia.org/wiki/境界線上のホライゾン
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-257
+    url: https://en.wikipedia.org/wiki/Limbus_Company
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-258
+    url: https://en.wikipedia.org/wiki/The_Keys_to_the_Kingdom
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-259
+    url: https://ja.wikipedia.org/wiki/SWORD_BREAKER
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, matrix-b, medium, usage
+  - id: src-260
+    url: https://ja.wikipedia.org/wiki/でぃ・えっち・えぃ
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-261
+    url: https://ja.wikipedia.org/wiki/エクゾスカル_零
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-262
+    url: https://ja.wikipedia.org/wiki/真・女神転生デビルサマナー
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-263
+    url: https://ja.wikipedia.org/wiki/BLACK_LIST_(Acid_Black_Cherryのアルバム)
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-264
+    url: https://ja.wikipedia.org/wiki/Dramatic_Seven
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-265
+    url: https://en.wikipedia.org/wiki/List_of_Soul_Eater_chapters
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-266
+    url: https://supernaturalwiki.com/Pride
+    kind: ファンウィキ (Super-wiki)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-267
+    url: https://ja.wikipedia.org/wiki/神羅万象チョコ_大魔王と八つの柱駒
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-268
+    url: https://ja.wikipedia.org/wiki/ジョーカーゲーム_脱出
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-269
+    url: https://ja.wikipedia.org/wiki/警視庁考察一課
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-270
+    url: https://ja.wikipedia.org/wiki/暗闇の果てで君を待つ
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  # decades, medium, usage
+  - id: src-271
+    url: https://ja.wikipedia.org/wiki/ピースボート_-Piece_Vote-
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06

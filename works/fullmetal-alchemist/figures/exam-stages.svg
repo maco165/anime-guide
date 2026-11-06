@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 430" width="640" height="430" role="img" aria-labelledby="exam-stages-title exam-stages-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="exam-stages-title">試験の段階の 2 つの書き方</title>
+<desc id="exam-stages-desc">国家錬金術師の試験について、4 段階とする書き方と 3 つとする書き方を破線の枠で並べた図。筆記と実技の場面は 2003 年版で描かれた、と 4 段階の資料が書くことも記す</desc>
+<defs><pattern id="exam-stages-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="430" fill="#f1f5f8"/>
+<rect width="640" height="430" fill="url(#exam-stages-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">試験の段階は書き方が 2 つある</text>
+<rect x="16" y="76" width="608" height="152" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5" stroke-dasharray="10,6"/>
+<text x="32" y="108" font-size="21" font-weight="800" text-anchor="start" fill="#10131a">4 段階とする</text>
+<text x="608" y="108" font-size="16" font-weight="500" text-anchor="end" fill="#46515c">[src-045]</text>
+<rect x="32" y="122" width="134" height="62" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
+<text x="99.0" y="159.12" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">筆記</text>
+<polygon points="166.4,142.0 173.0,142.0 180.7,153.0 173.0,164.0 166.4,164.0 174.1,153.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<rect x="180" y="122" width="134" height="62" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
+<text x="247.0" y="159.12" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">精神鑑定</text>
+<polygon points="314.4,142.0 321.0,142.0 328.7,153.0 321.0,164.0 314.4,164.0 322.1,153.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<rect x="328" y="122" width="134" height="62" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
+<text x="395.0" y="148.92000000000002" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">実技か研究</text>
+<text x="395.0" y="169.32000000000002" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">の提出</text>
+<polygon points="462.4,142.0 469.0,142.0 476.7,153.0 469.0,164.0 462.4,164.0 470.1,153.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<rect x="476" y="122" width="134" height="62" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
+<text x="543.0" y="159.12" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">面接</text>
+<text x="32" y="210" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">筆記と実技の場面は 2003 年版で描かれた、と同じ資料が書く</text>
+<rect x="16" y="238" width="608" height="124" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5" stroke-dasharray="10,6"/>
+<text x="32" y="270" font-size="21" font-weight="800" text-anchor="start" fill="#10131a">3 つとする</text>
+<text x="608" y="270" font-size="16" font-weight="500" text-anchor="end" fill="#46515c">[src-053] [src-040]</text>
+<rect x="32" y="284" width="134" height="62" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
+<text x="99.0" y="321.12" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">筆記</text>
+<polygon points="166.4,304.0 173.0,304.0 180.7,315.0 173.0,326.0 166.4,326.0 174.1,315.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<rect x="180" y="284" width="134" height="62" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
+<text x="247.0" y="321.12" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">精神鑑定</text>
+<polygon points="314.4,304.0 321.0,304.0 328.7,315.0 321.0,326.0 314.4,326.0 322.1,315.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<rect x="328" y="284" width="134" height="62" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
+<text x="395.0" y="321.12" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">実技</text>
+<line x1="14.0" y1="386.0" x2="626.0" y2="386.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="30" y="399" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="64" y="413" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">破線の枠は説が割れている内容です</text>
+<rect x="1.5" y="1.5" width="637" height="427" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

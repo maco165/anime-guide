@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 904" width="640" height="904" role="img" aria-labelledby="homunculus-origin-title homunculus-origin-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="homunculus-origin-title">ホムンクルスの成り立ち</title>
+<desc id="homunculus-origin-desc">お父様が自分から切り離した面を賢者の石の欠片に移し、お父様の肉の身体か人間の身体に入る分かれ道の図。倒れても魂が尽きるまで復活することを減っていく目盛りで示す</desc>
+<defs><pattern id="homunculus-origin-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="904" fill="#f1f5f8"/>
+<rect width="640" height="904" fill="url(#homunculus-origin-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">ホムンクルスの成り立ち</text>
+<rect x="16" y="72" width="608" height="138" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="72.0" cy="91.4" r="11.399999999999999" fill="#ffffff" stroke="#10131a" stroke-width="5"/>
+<line x1="72.0" y1="102.8" x2="72.0" y2="132.4" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<line x1="72.0" y1="132.4" x2="58.3" y2="164.4" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<line x1="72.0" y1="132.4" x2="85.7" y2="164.4" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<line x1="72.0" y1="109.6" x2="54.9" y2="132.4" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<line x1="72.0" y1="109.6" x2="89.1" y2="132.4" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<circle cx="72.0" cy="118.8" r="6.84" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<text x="72" y="198" font-size="16.5" font-weight="800" text-anchor="middle" fill="#10131a">お父様</text>
+<path d="M116.0 142.0 L138.0 142.0" fill="none" stroke="#d92d20" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="152.0,142.0 138.0,152.1 138.0,131.9" fill="#d92d20" stroke="#d92d20" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="156" y="106" width="152" height="72" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
+<text x="232.0" y="137.07" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">自分から</text>
+<text x="232.0" y="159.17" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">切り離した面</text>
+<path d="M312.0 142.0 L332.0 142.0" fill="none" stroke="#d92d20" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="346.0,142.0 332.0,152.1 332.0,131.9" fill="#d92d20" stroke="#d92d20" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="412.0,142.0 397.0,168.0 367.0,168.0 352.0,142.0 367.0,116.0 397.0,116.0" fill="#d92d20" stroke="#10131a" stroke-width="3" stroke-linejoin="round"/>
+<text x="382" y="200" font-size="16.5" font-weight="800" text-anchor="middle" fill="#10131a">石の欠片</text>
+<path d="M418.0 142.0 L438.0 142.0" fill="none" stroke="#d92d20" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="452.0,142.0 438.0,152.1 438.0,131.9" fill="#d92d20" stroke="#d92d20" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="456" y="90" width="156" height="104" rx="4" fill="#10131a" stroke="#10131a" stroke-width="3"/>
+<circle cx="476.0" cy="112.0" r="17" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+<circle cx="476.0" cy="112.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="476" y="118" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="534" y="142.0" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">七つの大罪</text>
+<text x="534" y="165.4" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">の名を持つ</text>
+<text x="16" y="240" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">入る身体は 2 通り</text>
+<circle cx="200.0" cy="234.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="200" y="240" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">2</text>
+<rect x="16" y="252" width="298" height="196" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<text x="30" y="284" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">お父様の肉の身体</text>
+<text x="30" y="312" font-size="18" font-weight="700" text-anchor="start" fill="#46515c">多くはこちら</text>
+<circle cx="84.0" cy="345.0" r="9.0" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="84.0" y1="354.0" x2="84.0" y2="377.4" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="84.0" y1="377.4" x2="73.2" y2="402.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="84.0" y1="377.4" x2="94.8" y2="402.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="84.0" y1="359.4" x2="70.5" y2="377.4" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="84.0" y1="359.4" x2="97.5" y2="377.4" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="84.0" cy="366.6" r="5.4" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<circle cx="164.0" cy="345.0" r="9.0" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="164.0" y1="354.0" x2="164.0" y2="377.4" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="164.0" y1="377.4" x2="153.2" y2="402.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="164.0" y1="377.4" x2="174.8" y2="402.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="164.0" y1="359.4" x2="150.5" y2="377.4" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="164.0" y1="359.4" x2="177.5" y2="377.4" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="164.0" cy="366.6" r="5.4" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<circle cx="244.0" cy="345.0" r="9.0" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="244.0" y1="354.0" x2="244.0" y2="377.4" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="244.0" y1="377.4" x2="233.2" y2="402.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="244.0" y1="377.4" x2="254.8" y2="402.6" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="244.0" y1="359.4" x2="230.5" y2="377.4" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="244.0" y1="359.4" x2="257.5" y2="377.4" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="244.0" cy="366.6" r="5.4" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<rect x="326" y="252" width="298" height="196" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<text x="340" y="284" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">人間の身体</text>
+<text x="340" y="312" font-size="18" font-weight="700" text-anchor="start" fill="#46515c">ラースと 2 代目の強欲</text>
+<circle cx="372.0" cy="333.4" r="7.4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="372.0" y1="340.8" x2="372.0" y2="360.0" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="372.0" y1="360.0" x2="363.1" y2="380.8" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="372.0" y1="360.0" x2="380.9" y2="380.8" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="372.0" y1="345.2" x2="360.9" y2="360.0" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="372.0" y1="345.2" x2="383.1" y2="360.0" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="372.0" cy="351.2" r="4.4399999999999995" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<circle cx="416.0" cy="348.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="416" y="354" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">3</text>
+<text x="438" y="344.0" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">ラースは魂が</text>
+<text x="438" y="365.25" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">1 つで人間が</text>
+<text x="438" y="386.5" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">土台なので</text>
+<text x="438" y="407.75" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">年を取る</text>
+<rect x="16" y="460" width="608" height="182" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<circle cx="38.0" cy="486.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="492" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">4</text>
+<text x="60" y="493" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">倒れても復活する</text>
+<circle cx="262.0" cy="486.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="262" y="492" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">5</text>
+<text x="284" y="493" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">魂が尽きるまでで、尽きれば死ぬ</text>
+<rect x="40" y="518" width="134" height="66" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="48" y="530" width="16" height="42" rx="1" fill="#f5b700" stroke="#10131a" stroke-width="2"/>
+<rect x="68" y="530" width="16" height="42" rx="1" fill="#f5b700" stroke="#10131a" stroke-width="2"/>
+<rect x="88" y="530" width="16" height="42" rx="1" fill="#f5b700" stroke="#10131a" stroke-width="2"/>
+<rect x="108" y="530" width="16" height="42" rx="1" fill="#f5b700" stroke="#10131a" stroke-width="2"/>
+<rect x="128" y="530" width="16" height="42" rx="1" fill="#f5b700" stroke="#10131a" stroke-width="2"/>
+<rect x="148" y="530" width="16" height="42" rx="1" fill="#f5b700" stroke="#10131a" stroke-width="2"/>
+<text x="107" y="614" font-size="18" font-weight="800" text-anchor="middle" fill="#10131a">魂が多い</text>
+<rect x="182" y="518" width="134" height="66" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="190" y="530" width="16" height="42" rx="1" fill="#f5b700" stroke="#10131a" stroke-width="2"/>
+<rect x="210" y="530" width="16" height="42" rx="1" fill="#f5b700" stroke="#10131a" stroke-width="2"/>
+<rect x="230" y="530" width="16" height="42" rx="1" fill="#f5b700" stroke="#10131a" stroke-width="2"/>
+<rect x="250" y="530" width="16" height="42" rx="1" fill="#f5b700" stroke="#10131a" stroke-width="2"/>
+<rect x="270" y="530" width="16" height="42" rx="1" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="290" y="530" width="16" height="42" rx="1" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="249" y="614" font-size="18" font-weight="800" text-anchor="middle" fill="#10131a">復活で減る</text>
+<rect x="324" y="518" width="134" height="66" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="332" y="530" width="16" height="42" rx="1" fill="#f5b700" stroke="#10131a" stroke-width="2"/>
+<rect x="352" y="530" width="16" height="42" rx="1" fill="#f5b700" stroke="#10131a" stroke-width="2"/>
+<rect x="372" y="530" width="16" height="42" rx="1" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="392" y="530" width="16" height="42" rx="1" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="412" y="530" width="16" height="42" rx="1" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="432" y="530" width="16" height="42" rx="1" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="391" y="614" font-size="18" font-weight="800" text-anchor="middle" fill="#10131a">さらに減る</text>
+<rect x="466" y="518" width="134" height="66" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="474" y="530" width="16" height="42" rx="1" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="494" y="530" width="16" height="42" rx="1" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="514" y="530" width="16" height="42" rx="1" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="534" y="530" width="16" height="42" rx="1" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="554" y="530" width="16" height="42" rx="1" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="574" y="530" width="16" height="42" rx="1" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="533" y="614" font-size="18" font-weight="800" text-anchor="middle" fill="#d92d20">尽きる</text>
+<polygon points="172.0,541.0 178.0,541.0 185.0,551.0 178.0,561.0 172.0,561.0 179.0,551.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="314.0,541.0 320.0,541.0 327.0,551.0 320.0,561.0 314.0,561.0 321.0,551.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="456.0,541.0 462.0,541.0 469.0,551.0 462.0,561.0 456.0,561.0 463.0,551.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<rect x="16" y="654" width="298" height="86" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="678.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="684" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">6</text>
+<text x="60" y="692.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">ウロボロスの印を持つのは</text>
+<text x="60" y="714.2" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">ホムンクルスだけ</text>
+<rect x="326" y="654" width="298" height="86" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="348.0" cy="678.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="348" y="684" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">8</text>
+<text x="370" y="692.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">お父様に仕えながら、</text>
+<text x="370" y="714.2" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">各自に強い自我がある</text>
+<rect x="16" y="750" width="608" height="96" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="774.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="780" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">7</text>
+<text x="60" y="780" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">生まれた順はこう続く</text>
+<rect x="30" y="794" width="130" height="40" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
+<text x="95.0" y="820.12" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">プライド</text>
+<polygon points="161.6,805.0 167.0,805.0 173.3,814.0 167.0,823.0 161.6,823.0 167.9,814.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<rect x="176" y="794" width="130" height="40" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
+<text x="241.0" y="820.12" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">ラスト</text>
+<polygon points="307.6,805.0 313.0,805.0 319.3,814.0 313.0,823.0 307.6,823.0 313.9,814.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<rect x="322" y="794" width="130" height="40" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
+<text x="387.0" y="820.12" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">グリード</text>
+<polygon points="453.6,805.0 459.0,805.0 465.3,814.0 459.0,823.0 453.6,823.0 459.9,814.0" fill="#d92d20" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<rect x="468" y="794" width="130" height="40" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
+<text x="533.0" y="820.12" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">エンヴィー</text>
+<line x1="14.0" y1="860.0" x2="626.0" y2="860.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="881.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="887" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="881.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="887" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="873" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="887" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="901" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

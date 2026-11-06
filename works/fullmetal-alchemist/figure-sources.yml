@@ -1,0 +1,862 @@
+# 図ごとの出典の全件です。references.md の「図ごとの出典」はここから生成します。
+# 図の下の行には主な出典だけを書くので、残りはここに書きます。
+# SVG の data-sources に全件がある図は、ここに書きません。
+# no は図の中の番号で、null は破線の枠で描いた内容です。
+figures:
+  world:
+  - figure: 1-2
+    section: 錬金術の仕組み
+    note: 錬成の 3 工程です。
+    rows:
+    - 'no': '1'
+      text: 理解、分解、再構築の 3 工程
+      mark: 公式
+      sources: [src-001]
+    - 'no': '2'
+      text: 作る前に必要な材料を予測できる。床材から木の鳥や石の盾を作る例
+      mark: 1 サイトのみ
+      sources: [src-031]
+      note: 例は 2009 年版の「The First Day」「Rain of Sorrows」の場面
+  - figure: 1-3
+    section: 錬金術の仕組み
+    note: 等価交換です。
+    rows:
+    - 'no': '1'
+      text: 得るものと差し出すものは同じ価値
+      mark: 2 サイトで一致
+      sources: [src-044, src-067]
+      note: '2009 年版 第 2 話: [src-067]'
+    - 'no': '2'
+      text: 質量保存と同じ性質の物質への変化という 2 法則、無から有は作れないこと、失敗すると術者に返る反動
+      mark: 1 サイトのみ
+      sources: [src-040]
+  - figure: 1-4
+    section: 錬金術の仕組み
+    note: 賢者の石と等価交換の 3 つの書き方です。
+    rows:
+    - 'no': null
+      text: 唯一の例外 [src-077]、お父様は縛られない [src-078]、代価の肩代わり [src-040]
+      mark: 説が割れている
+      sources: [src-077, src-078, src-040]
+  - figure: 1-5
+    section: 錬金術の仕組み
+    note: 力の流れの断面です。
+    rows:
+    - 'no': '1'
+      text: 力の源は地殻変動のエネルギー
+      mark: 3 サイトで一致
+      sources: [src-040, src-044, src-058]
+      note: '2009 年版 第 35 話: [src-058]'
+    - 'no': '2'
+      text: 地下の賢者の石があいだに入り、お父様は意思で封じられる
+      mark: 2 サイトで一致
+      sources: [src-040, src-054]
+    - 'no': '3'
+      text: 石を国中のパイプに流して封じる、と書く資料もある
+      mark: 1 サイトのみ
+      sources: [src-054]
+    - 'no': '4'
+      text: 比較として描いた龍脈と、封じが届かないこと
+      mark: 公式
+      sources: [src-006, src-040, src-049, src-054]
+      note: '公式あらすじ 第 31 話: [src-006]'
+    - 'no': '5'
+      text: 錬金術師は知らずに封じられた魂の力を使っている
+      mark: 1 サイトのみ
+      sources: [src-054]
+  - figure: 1-6
+    section: 錬金術の仕組み
+    note: 発動の条件です。
+    rows:
+    - 'no': '1'
+      text: 錬成陣にエネルギーを流して発動する。円を基本に構築式を組み込み、多様な素材で描ける
+      mark: 3 サイトで一致
+      sources: [src-040, src-044, src-072]
+    - 'no': '2'
+      text: 真理の扉を見た者は手を合わせて陣なしで発動する
+      mark: 2 サイトで一致
+      sources: [src-040, src-075]
+    - 'no': '3'
+      text: 手を合わせるのが一番楽だと思ったという作者の発言
+      mark: 1 サイトのみ
+      sources: [src-029]
+    - 'no': '4'
+      text: 錬成の光の色
+      mark: 1 サイトのみ
+      sources: [src-041]
+    - 'no': '5'
+      text: 陣なしの錬成は通常できない
+      mark: 1 サイトのみ
+      sources: [src-072]
+  - figure: 1-7
+    section: 錬金術の仕組み
+    note: 錬金術と錬丹術です。
+    rows:
+    - 'no': '1'
+      text: 力の源の違い
+      mark: 5 サイトで一致
+      sources: [src-040, src-044, src-046, src-049, src-058]
+      note: '2009 年版 第 35 話: [src-058]'
+    - 'no': '2'
+      text: 使えなくなる場面
+      mark: 1 サイトのみ
+      sources: [src-040]
+    - 'no': '3'
+      text: 錬金術は作中でもっとも進んだ科学
+      mark: 公式
+      sources: [src-001]
+    - 'no': '4'
+      text: 錬丹術は医療に特化して発達した術
+      mark: 2 サイトで一致
+      sources: [src-040, src-044]
+    - 'no': '5'
+      text: 遠隔錬成。メイ・チャンは龍脈を読んで使う
+      mark: 2 サイトで一致
+      sources: [src-040, src-049]
+    - 'no': '6'
+      text: 技術は西の賢者が伝えて発展
+      mark: 1 サイトのみ
+      sources: [src-040]
+  - figure: 1-8
+    section: 錬金術の仕組み
+    note: 真理の扉です。
+    rows:
+    - 'no': '1'
+      text: 人体錬成を行うと扉の前へ飛ばされる
+      mark: 4 サイトで一致
+      sources: [src-040, src-071, src-074, src-077]
+      note: '2009 年版 第 2 話: [src-071]'
+    - 'no': '2'
+      text: 白い空間
+      mark: 2 サイトで一致
+      sources: [src-071, src-072]
+      note: '2009 年版 第 2 話: [src-071]'
+    - 'no': '3'
+      text: 通行料として身体の一部か全部を奪われ、知識を得る
+      mark: 2 サイトで一致
+      sources: [src-040, src-074]
+    - 'no': '4'
+      text: 扉は全ての人の内にあり、錬金術を使うためにも要る
+      mark: 1 サイトのみ
+      sources: [src-040]
+    - 'no': '5'
+      text: 扉の前に「真理」が現れる
+      mark: 1 サイトのみ
+      sources: [src-040]
+    - 'no': null
+      text: '扉の場所: 認知外空間 [src-040]、精神世界 [src-044]'
+      mark: 説が割れている
+      sources: [src-040, src-044]
+  - figure: 2-2
+    section: 国家と歴史
+    note: アメストリスの模式図です。
+    rows:
+    - 'no': '1'
+      text: アメストリスは軍事国家で、国軍の最高責任者は大総統キング・ブラッドレイ
+      mark: 公式
+      sources: [src-001, src-002]
+    - 'no': '2'
+      text: 国土はほぼ円形で、中央と東西南北の 5 地域に分かれる
+      mark: 2 サイトで一致
+      sources: [src-040, src-044]
+    - 'no': '3'
+      text: クセルクセスは東の大砂漠にあった古代の王国で、ヴァン・ホーエンハイムの出身地
+      mark: 1 サイトのみ
+      sources: [src-040]
+  - figure: 2-3
+    section: 国家と歴史
+    note: 国家錬金術師の権利と義務です。
+    rows:
+    - 'no': '1'
+      text: 国家資格で、年に一度の査定があり、二つ名を持つ。エドワードは史上最年少の 12 歳で取得
+      mark: 公式
+      sources: [src-001, src-002, src-003]
+    - 'no': '2'
+      text: 軍の階級で少佐に相当
+      mark: 2 サイトで一致
+      sources: [src-040, src-045]
+    - 'no': '3'
+      text: 銀時計は国家錬金術師の証
+      mark: 公式
+      sources: [src-004, src-045, src-074]
+      note: '公式あらすじ 第 11 話: [src-004]'
+    - 'no': '4'
+      text: '持てる権利: 年に数千万センズの研究費、特殊な文献の閲覧、施設の優先利用'
+      mark: 3 サイトで一致
+      sources: [src-045, src-040, src-044]
+      note: '研究費は [src-045] [src-040] の 2 サイト'
+    - 'no': '5'
+      text: '負う義務: 年に一度の査定と成果不振での資格喪失、三大制限、招集されれば人間兵器として戦地へ'
+      mark: 3 サイトで一致
+      sources: [src-045, src-040, src-044]
+      note: '査定は [src-045] [src-040] の 2 サイト'
+    - 'no': '6'
+      text: 制度の裏の目的は人柱の候補の確保
+      mark: 2 サイトで一致
+      sources: [src-045, src-053]
+    - 'no': '7'
+      text: 人柱は 5 人
+      mark: 公式
+      sources: [src-081, src-075]
+      note: '公式あらすじ 第 60 話: [src-081]'
+    - 'no': '8'
+      text: 人柱とは人体錬成で扉に到達した者
+      mark: 1 サイトのみ
+      sources: [src-075]
+    - 'no': '9'
+      text: 銀時計を見せて研究費を引き出す。軍人として働く者は報告が免除
+      mark: 1 サイトのみ
+      sources: [src-045]
+  - figure: 2-4
+    section: 国家と歴史
+    note: 試験の段階の 2 つの書き方です。
+    rows:
+    - 'no': null
+      text: 筆記、精神鑑定、実技か研究の提出、面接の 4 段階 (筆記と実技の場面は 2003 年版で描かれた、と同じ資料が書く) [src-045]、筆記、精神鑑定、実技の 3 つ [src-053] [src-040]
+      mark: 説が割れている
+      sources: [src-045, src-053, src-040]
+  - figure: 2-5
+    section: 国家と歴史
+    note: イシュヴァールの流れです。
+    rows:
+    - 'no': '1'
+      text: 併合の条件はイシュヴァラ教を認めること
+      mark: 1 サイトのみ
+      sources: [src-040]
+    - 'no': '2'
+      text: 信仰は錬金術を認めない
+      mark: 2 サイトで一致
+      sources: [src-042, src-067]
+      note: '2009 年版 第 30 話: [src-067]'
+    - 'no': '3'
+      text: 肌や赤い目の特徴でも区別される
+      mark: 1 サイトのみ
+      sources: [src-067]
+      note: '2009 年版 第 30 話: [src-067]'
+    - 'no': '4'
+      text: 錬丹術も異端とする、と書く元もある
+      mark: 1 サイトのみ
+      sources: [src-042]
+    - 'no': '5'
+      text: 発端は軍人が子どもを撃った事件で、撃ったのは軍人に化けたエンヴィー
+      mark: 2 サイトで一致
+      sources: [src-050, src-076]
+    - 'no': '6'
+      text: この戦争も国土錬成陣に要る血を流すためのもの
+      mark: 2 サイトで一致
+      sources: [src-040, src-050]
+    - 'no': '7'
+      text: 7 年続いた内戦が大総統の命令 3066 号を境に殲滅戦へ変わる
+      mark: 2 サイトで一致
+      sources: [src-050, src-067]
+      note: '2009 年版 第 30 話: [src-067]'
+    - 'no': '8'
+      text: この命令で国家錬金術師が戦場に投入された
+      mark: 2 サイトで一致
+      sources: [src-050, src-055]
+      note: '2009 年版 第 30 話: [src-055]'
+    - 'no': '10'
+      text: イシュヴァール人のスラムがある
+      mark: 公式
+      sources: [src-007]
+      note: '公式あらすじ 第 43 話: [src-007]'
+    - 'no': '9'
+      text: 生き残った人々は各地のスラムや遺跡、砂漠へ散った
+      mark: 2 サイトで一致
+      sources: [src-040, src-067]
+      note: '2009 年版 第 30 話: [src-067]'
+    - 'no': null
+      text: '命令の呼び名: 同じ解説ページに「命令 3066 号」「3066 号特別厳命」「3066 号密令」が混ざる [src-050]、英語の話数解説は Executive Order 3066 [src-055]。正式な名前は確かめられていない'
+      mark: 説が割れている
+      sources: [src-050, src-055]
+  - figure: 2-6
+    section: 国家と歴史
+    note: 国土錬成陣の仕組みです。
+    rows:
+    - 'no': '1'
+      text: 国土錬成陣はアメストリス国民全てを巻き込む
+      mark: 公式
+      sources: [src-005]
+      note: '公式あらすじ 第 24 話: [src-005]'
+    - 'no': '6'
+      text: 目的は国内の全員を犠牲にして巨大な賢者の石を作ること
+      mark: 4 サイトで一致
+      sources: [src-043, src-044, src-056, src-068]
+      note: '2009 年版 第 35 話: [src-056]'
+    - 'no': '2'
+      text: 国内の虐殺の地点を結ぶと陣が浮かび、紛争や領土拡大はそのために起こされた
+      mark: 3 サイトで一致
+      sources: [src-040, src-044, src-052]
+      note: '2009 年版 第 35 話: [src-052]'
+    - 'no': '3'
+      text: 国土錬成陣の発動に使う地下道を、スロウスが国中に掘っている
+      mark: 公式
+      sources: [src-002]
+    - 'no': '5'
+      text: 発動には日食が要り、その日が約束の日になる
+      mark: 2 サイトで一致
+      sources: [src-040, src-068]
+    - 'no': '4'
+      text: 国の外縁の 10 都市を軸に設計された、と書く記事がある
+      mark: 1 サイトのみ
+      sources: [src-072]
+    - 'no': '7'
+      text: お父様が石のために国そのものを作った
+      mark: 2 サイトで一致
+      sources: [src-052, src-040, src-009]
+      note: Wikipedia は言語が違っても 1 と数えています
+    - 'no': '8'
+      text: 地下道は陣の線になる
+      mark: 1 サイトのみ
+      sources: [src-040]
+    - 'no': '9'
+      text: ブリッグズの地下のトンネルもその一部
+      mark: 2 サイトで一致
+      sources: [src-056, src-052]
+      note: '2009 年版 第 35 話: [src-056]'
+    - 'no': null
+      text: '陣の形: 円とする解説ページの同じページのよくある質問は五角形 [src-052]、第五研究所の二重五角形に似る [src-072]'
+      mark: 説が割れている
+      sources: [src-052, src-072]
+  - figure: 2-7
+    section: 国家と歴史
+    note: クセルクセスの陣と国土錬成陣です。
+    rows:
+    - 'no': '1'
+      text: フラスコの中の小人が王を騙して国の規模の陣を造らせた
+      mark: 1 サイトのみ
+      sources: [src-042]
+    - 'no': '2'
+      text: 陣の正体は灌漑の運河で、皆既日食の日に発動した
+      mark: 1 サイトのみ
+      sources: [src-057]
+      note: '2009 年版 第 40 話: [src-057]'
+    - 'no': '4'
+      text: 陣の要所で町ごとの虐殺を王が密かに命じたこと、小人が陣を歪めて自分とホーエンハイムを真の中心に置いたこと
+      mark: 1 サイトのみ
+      sources: [src-051]
+      note: '2009 年版 第 40 話: [src-051]'
+    - 'no': '3'
+      text: 国民の魂は小人とホーエンハイムの 2 人に半分ずつ入り、2 人は賢者の石になった
+      mark: 2 サイトで一致
+      sources: [src-057, src-073]
+      note: '2009 年版 第 40 話: [src-057]'
+    - 'no': '6'
+      text: ホーエンハイムの中の魂は 53 万 6329 人分
+      mark: 公式
+      sources: [src-081, src-048, src-073]
+      note: '公式あらすじ 第 56 話: [src-081]'
+    - 'no': '5'
+      text: 年表の総人口は 107 万 2658 人で、その半分にあたる
+      mark: 1 サイトのみ
+      sources: [src-073]
+  - figure: 2-8
+    section: 国家と歴史
+    note: 年代の書き方の違いです。
+    rows:
+    - 'no': null
+      text: 'クセルクセスの時期: 400 年前に滅びた [src-068]、1506 年に滅びた (年表 1 件だけの記載。作中の 1914 年 [src-051] から約 408 年前で 400 年前とほぼ同じ) [src-073]、約 500 年前にあった国 [src-078]'
+      mark: 説が割れている
+      sources: [src-068, src-073, src-078, src-051]
+    - 'no': null
+      text: 'お父様が生まれた時期: 約 8 世紀前 [src-042]、1480 年 (年表 1 件だけの記載) [src-073]'
+      mark: 説が割れている
+      sources: [src-042, src-073]
+    - 'no': null
+      text: '建国の年: 1558 年ごろ [src-040]、1550 年 [src-073]。別の資料は 1558 年をリヴィエールの事件の年とする [src-052]'
+      mark: 説が割れている
+      sources: [src-040, src-073, src-052]
+  - figure: 3-2
+    section: 人間と命
+    note: 賢者の石と魂の流れです。
+    rows:
+    - 'no': '1'
+      text: 正体は多数の生きた人間の魂を圧縮したエネルギーの塊
+      mark: 3 サイトで一致
+      sources: [src-040, src-044, src-047]
+    - 'no': '2'
+      text: 第五研究所の床に賢者の石の錬成陣があった
+      mark: 公式
+      sources: [src-003]
+      note: '公式あらすじ 第 8 話: [src-003]'
+    - 'no': '3'
+      text: マルコーはイシュヴァール人の捕虜数千人を犠牲に石を作った
+      mark: 1 サイトのみ
+      sources: [src-055]
+      note: '2009 年版 第 30 話: [src-055]'
+    - 'no': '4'
+      text: 公式あらすじ第 43 話に、人を賢者の石にした話がある
+      mark: 公式
+      sources: [src-007]
+    - 'no': '5'
+      text: 中の魂を減らして代価にあてるので、使い続ければ壊れる
+      mark: 2 サイトで一致
+      sources: [src-040, src-065]
+    - 'no': '6'
+      text: 兄弟が探す対象で、軍の命令で研究される題材で、ホムンクルスの核でもある
+      mark: 公式
+      sources: [src-001, src-002, src-003, src-004]
+  - figure: 3-3
+    section: 人間と命
+    note: 人体錬成が失敗する理由です。
+    rows:
+    - 'no': '1'
+      text: 錬金術で最大の禁忌とされ、兄弟は亡くなった母を想ってこれを犯した
+      mark: 公式
+      sources: [src-001, src-003]
+    - 'no': '2'
+      text: 死者の復活を目指す試みは必ず失敗する
+      mark: 3 サイトで一致
+      sources: [src-040, src-061, src-077]
+    - 'no': '3'
+      text: 存在しないものは錬成できない
+      mark: 1 サイトのみ
+      sources: [src-040]
+    - 'no': '4'
+      text: 材料の一覧が精確でも失敗する
+      mark: 1 サイトのみ
+      sources: [src-031]
+    - 'no': '5'
+      text: 魂の対価が分からないまま、兄弟は血を数滴入れただけだった (原作を論じた論文)
+      mark: 1 サイトのみ
+      sources: [src-068]
+    - 'no': '6'
+      text: 結果として生まれるのは半端な怪物
+      mark: 1 サイトのみ
+      sources: [src-061]
+    - 'no': '7'
+      text: イズミは子の蘇生に失敗して内臓の一部を失った
+      mark: 公式
+      sources: [src-002, src-046]
+    - 'no': '8'
+      text: 行った国家錬金術師は資格を奪われる
+      mark: 1 サイトのみ
+      sources: [src-044]
+    - 'no': '9'
+      text: 代償は術者の身体に及ぶ
+      mark: 2 サイトで一致
+      sources: [src-040, src-074]
+  - figure: 3-4
+    section: 人間と命
+    note: ホムンクルスの成り立ちです。
+    rows:
+    - 'no': '1'
+      text: お父様が自分から切り離した面を賢者の石の欠片に移した存在で、七つの大罪の名を持つ
+      mark: 2 サイトで一致
+      sources: [src-042, src-078]
+    - 'no': '2'
+      text: 多くはお父様の肉の身体に入り、ラースと 2 代目の強欲は人間の身体を使う
+      mark: 1 サイトのみ
+      sources: [src-042]
+    - 'no': '3'
+      text: ラースは魂が 1 つで人間を土台にしているので年を取る
+      mark: 2 サイトで一致
+      sources: [src-002, src-078]
+      note: 元は人間で年を取ることは [src-002]、魂が 1 つは [src-078] だけ
+    - 'no': '4'
+      text: 石の力で、倒れても復活する
+      mark: 公式
+      sources: [src-001, src-002, src-003, src-004]
+    - 'no': '5'
+      text: 復活は中の魂が尽きるまでで、尽きれば死ぬ
+      mark: 2 サイトで一致
+      sources: [src-065, src-078]
+    - 'no': '6'
+      text: ウロボロスの印を持つのはホムンクルスだけ
+      mark: 1 サイトのみ
+      sources: [src-071]
+      note: '2009 年版 第 1 話: [src-071]'
+    - 'no': '7'
+      text: 生まれた順はプライド、ラスト、グリード、エンヴィーと続く
+      mark: 1 サイトのみ
+      sources: [src-078]
+    - 'no': '8'
+      text: お父様に仕えながら、各自に強い自我がある
+      mark: 1 サイトのみ
+      sources: [src-077]
+  - figure: 3-5
+    section: 人間と命
+    note: 機械鎧の技術と代償です。
+    rows:
+    - 'no': '1'
+      text: エドワードの右腕と左足の義肢。ウィンリィが整備し、技術は祖母のピナコが教えた
+      mark: 公式
+      sources: [src-002, src-008]
+    - 'no': '2'
+      text: 神経と直接つないで動かす
+      mark: 1 サイトのみ
+      sources: [src-040]
+    - 'no': '3'
+      text: 金属製で丈夫
+      mark: 1 サイトのみ
+      sources: [src-044]
+    - 'no': '4'
+      text: 銃器を内蔵した戦闘用がある
+      mark: 2 サイトで一致
+      sources: [src-040, src-044]
+    - 'no': '5'
+      text: 寒冷地向けに改造した戦闘用の例がバッカニアで、エドワードの右腕も戦闘で刃に変わる
+      mark: 公式
+      sources: [src-002, src-008]
+    - 'no': '6'
+      text: 激痛を伴う手術と、維持の費用
+      mark: 2 サイトで一致
+      sources: [src-040, src-046]
+    - 'no': '7'
+      text: 訓練は最低 3 年とされ、エドワードは 1 年で身につけた。成長に合わせて作り直す
+      mark: 1 サイトのみ
+      sources: [src-046]
+    - 'no': '8'
+      text: ファンの投稿をまとめた記事に、幻肢痛と高温の土地での皮膚の火傷という記述がある
+      mark: 1 サイトのみ
+      sources: [src-070]
+    - 'no': '9'
+      text: 義肢の需要はイシュヴァールの戦争で急に高まった
+      mark: 2 サイトで一致
+      sources: [src-040, src-046]
+    - 'no': '10'
+      text: 機械鎧技師たちの聖地がラッシュバレー
+      mark: 公式
+      sources: [src-004, src-009, src-040, src-044, src-080]
+      note: '公式あらすじ 第 11 話: [src-004]。2009 年版 第 11 話: [src-080]'
+    - 'no': '11'
+      text: 作者は、重い義肢なら相応の筋肉が要り、エドワードの年齢に合わないと気にしていた
+      mark: 1 サイトのみ
+      sources: [src-043]
+  abilities:
+  - figure: 1-1
+    rows:
+    - 'no': ①
+      mark: 公式
+      sources: [src-002]
+    - 'no': ②
+      mark: 複数サイト
+      sources: [src-109, src-103, src-045]
+    - 'no': ③
+      mark: 1 サイトのみ
+      sources: [src-109]
+    - 'no': ④
+      mark: 複数サイト
+      sources: [src-002, src-109, src-102]
+    - 'no': ⑤
+      mark: 複数サイト
+      sources: [src-109, src-104, src-114]
+    - 'no': ⑥
+      mark: 複数サイト
+      sources: [src-109, src-104, src-045]
+    - 'no': ⑦
+      mark: 複数サイト
+      sources: [src-109, src-045, src-102]
+    - 'no': ⑧
+      mark: 複数サイト
+      sources: [src-045, src-114, src-105]
+  - figure: 1-2
+    rows:
+    - 'no': ①
+      mark: 公式
+      sources: [src-002]
+    - 'no': ②
+      mark: 複数サイト
+      sources: [src-102, src-109, src-106]
+    - 'no': ③
+      mark: 公式
+      sources: [src-003]
+    - 'no': ④
+      mark: 複数サイト
+      sources: [src-003, src-045, src-128]
+    - 'no': ⑤
+      mark: 複数サイト
+      sources: [src-042, src-116, src-114]
+    - 'no': ⑥
+      mark: 複数サイト
+      sources: [src-042, src-045, src-114]
+    - 'no': ⑦
+      mark: 1 サイトのみ
+      sources: [src-114]
+    - 'no': ⑧
+      mark: 1 サイトのみ
+      sources: [src-121]
+    - 'no': ⑨
+      mark: 複数サイト
+      sources: [src-045, src-114]
+  - figure: 1-3
+    rows:
+    - 'no': ①
+      mark: 複数サイト
+      sources: [src-101, src-045, src-109]
+    - 'no': ②
+      mark: 複数サイト
+      sources: [src-101, src-109, src-114]
+    - 'no': ③
+      mark: 1 サイトのみ
+      sources: [src-109, src-122]
+    - 'no': ④
+      mark: 1 サイトのみ
+      sources: [src-118]
+    - 'no': ⑤
+      mark: 複数サイト
+      sources: [src-101, src-045, src-114]
+    - 'no': ⑥
+      mark: 1 サイトのみ
+      sources: [src-114, src-120]
+    - 'no': ⑦
+      mark: 1 サイトのみ
+      sources: [src-120]
+    - 'no': ⑧
+      mark: 1 サイトのみ
+      sources: [src-119]
+    - 'no': ⑨
+      mark: 公式
+      sources: [src-003]
+    - 'no': ⑩
+      mark: 複数サイト
+      sources: [src-042, src-115, src-113]
+    - 'no': ⑪
+      mark: 複数サイト
+      sources: [src-115, src-113, src-042]
+    - 'no': ⑫
+      mark: 1 サイトのみ
+      sources: [src-129]
+    - 'no': ⑬
+      mark: 複数サイト
+      sources: [src-115, src-113]
+  - figure: 1-4
+    rows:
+    - 'no': ①
+      mark: 説が割れている
+      sources: [src-102, src-106, src-109, src-042, src-127, src-045]
+      note: 左から順に [src-102] [src-106] [src-109] / [src-042] [src-127] / [src-045]
+    - 'no': ②
+      mark: 説が割れている
+      sources: [src-102, src-109, src-114, src-127]
+      note: 左から順に [src-102] [src-109] / [src-114] [src-127]
+    - 'no': ③
+      mark: 説が割れている
+      sources: [src-042, src-128, src-101, src-045, src-107]
+      note: 左から順に [src-042] [src-128] / [src-101] [src-045] [src-107]
+    - 'no': ④
+      mark: 説が割れている
+      sources: [src-003, src-101, src-107, src-128]
+      note: 左から順に [src-003] [src-101] [src-107] / [src-128]
+    - 'no': ⑤
+      mark: 説が割れている
+      sources: [src-101, src-109, src-114, src-120]
+      note: 左から順に [src-101] [src-109] / [src-114] / [src-120]
+    - 'no': ⑥
+      mark: 説が割れている
+      sources: [src-042, src-116, src-114, src-045]
+      note: 左から順に [src-042] [src-116] [src-114] / [src-045]
+  - figure: 2-1
+    rows:
+    - 'no': ①
+      mark: 公式
+      sources: [src-002]
+    - 'no': ②
+      mark: 1 サイトのみ
+      sources: [src-109]
+    - 'no': ③
+      mark: 複数サイト
+      sources: [src-002, src-109, src-108]
+    - 'no': ④
+      mark: 複数サイト
+      sources: [src-109, src-108, src-071]
+    - 'no': ⑤
+      mark: 1 サイトのみ
+      sources: [src-125]
+    - 'no': ⑥
+      mark: 複数サイト
+      sources: [src-102, src-109, src-125]
+    - 'no': ⑦
+      mark: 複数サイト
+      sources: [src-048, src-109]
+    - 'no': ⑧
+      mark: 1 サイトのみ
+      sources: [src-130]
+    - 'no': ⑨
+      mark: 複数サイト
+      sources: [src-102, src-109, src-130]
+  - figure: 2-2
+    rows:
+    - 'no': ①
+      mark: 公式
+      sources: [src-002]
+    - 'no': ②
+      mark: 複数サイト
+      sources: [src-109, src-102, src-126]
+    - 'no': ③
+      mark: 1 サイトのみ
+      sources: [src-113, src-126]
+    - 'no': ④
+      mark: 複数サイト
+      sources: [src-109, src-042]
+    - 'no': ⑤
+      mark: 複数サイト
+      sources: [src-109, src-102]
+    - 'no': ⑥
+      mark: 複数サイト
+      sources: [src-101, src-113, src-126]
+    - 'no': ⑦
+      mark: 1 サイトのみ
+      sources: [src-101]
+    - 'no': ⑧
+      mark: 複数サイト
+      sources: [src-102, src-049, src-042]
+    - 'no': ⑨
+      mark: 複数サイト
+      sources: [src-109, src-113, src-124]
+    - 'no': ⑩
+      mark: 複数サイト
+      sources: [src-042, src-109]
+    - 'no': ⑪
+      mark: 複数サイト
+      sources: [src-002, src-102]
+    - 'no': ⑫
+      mark: 1 サイトのみ
+      sources: [src-109]
+  - figure: 2-3
+    rows:
+    - 'no': ①
+      mark: 公式
+      sources: [src-002]
+    - 'no': ②
+      mark: 複数サイト
+      sources: [src-102, src-113]
+    - 'no': ③
+      mark: 複数サイト
+      sources: [src-102, src-109]
+    - 'no': ④
+      mark: 1 サイトのみ
+      sources: [src-102]
+    - 'no': ⑤
+      mark: 複数サイト
+      sources: [src-112, src-111, src-109]
+    - 'no': ⑥
+      mark: 1 サイトのみ
+      sources: [src-123]
+    - 'no': ⑦
+      mark: 公式
+      sources: [src-003]
+    - 'no': ⑧
+      mark: 1 サイトのみ
+      sources: [src-101]
+  - figure: 2-4
+    rows:
+    - 'no': ①
+      mark: 説が割れている
+      sources: [src-102, src-109, src-101, src-113, src-126]
+      note: 左から順に [src-102] [src-109] / [src-101] [src-113] [src-126]
+    - 'no': ②
+      mark: 説が割れている
+      sources: [src-002, src-102, src-042, src-109, src-124]
+      note: 左から順に [src-002] [src-102] / [src-042] [src-109] / [src-124]
+    - 'no': ③
+      mark: 説が割れている
+      sources: [src-002, src-102, src-113]
+      note: 左から順に [src-002] [src-102] / [src-113]
+    - 'no': ④
+      mark: 説が割れている
+      sources: [src-110, src-112, src-111, src-123]
+      note: 左から順に [src-110] / [src-112] [src-111] [src-123]
+    - 'no': ⑤
+      mark: 説が割れている
+      sources: [src-002, src-071, src-123]
+      note: 左から順に [src-002] / [src-071] / [src-123]
+  - figure: 3-1
+    rows:
+    - 'no': ①
+      mark: 複数サイト
+      sources: [src-040, src-109, src-108]
+    - 'no': ②
+      mark: 複数サイト
+      sources: [src-002, src-109, src-102]
+    - 'no': ③
+      mark: 複数サイト
+      sources: [src-002, src-109, src-042]
+    - 'no': ④
+      mark: 複数サイト
+      sources: [src-102, src-109, src-130]
+  - figure: 4-1
+    rows:
+    - 'no': ①
+      mark: 複数サイト
+      sources: [src-040, src-109]
+    - 'no': ②
+      mark: 1 サイトのみ
+      sources: [src-109]
+    - 'no': ③
+      mark: 1 サイトのみ
+      sources: [src-117]
+    - 'no': ④
+      mark: 複数サイト
+      sources: [src-109, src-071]
+    - 'no': ⑤
+      mark: 1 サイトのみ
+      sources: [src-071]
+    - 'no': ⑥
+      mark: 1 サイトのみ
+      sources: [src-109, src-122]
+    - 'no': ⑦
+      mark: 1 サイトのみ
+      sources: [src-102]
+  - figure: 4-2
+    rows:
+    - 'no': ①
+      mark: 複数サイト
+      sources: [src-102, src-109]
+    - 'no': ②
+      mark: 1 サイトのみ
+      sources: [src-071, src-127]
+    - 'no': ③
+      mark: 複数サイト
+      sources: [src-101, src-109, src-114]
+    - 'no': ④
+      mark: 1 サイトのみ
+      sources: [src-121, src-129]
+    - 'no': ⑤
+      mark: 複数サイト
+      sources: [src-109, src-102, src-101]
+    - 'no': ⑥
+      mark: 複数サイト
+      sources: [src-101, src-113, src-126]
+    - 'no': ⑦
+      mark: 1 サイトのみ
+      sources: [src-126]
+    - 'no': ⑧
+      mark: 複数サイト
+      sources: [src-112, src-111, src-109]
+  - figure: 4-3
+    rows:
+    - 'no': ①
+      mark: 複数サイト
+      sources: [src-109, src-071, src-108]
+    - 'no': ②
+      mark: 複数サイト
+      sources: [src-109, src-071]
+    - 'no': ③
+      mark: 複数サイト
+      sources: [src-042, src-109]
+    - 'no': ④
+      mark: 1 サイトのみ
+      sources: [src-109]
+  - figure: 4-4
+    rows:
+    - 'no': ①
+      mark: 1 サイトのみ
+      sources: [src-109]
+    - 'no': ②
+      mark: 複数サイト
+      sources: [src-109, src-056, src-072]
+    - 'no': ③
+      mark: 複数サイト
+      sources: [src-109, src-042]
+    - 'no': ④
+      mark: 1 サイトのみ
+      sources: [src-071]
+    - 'no': ⑤
+      mark: 複数サイト
+      sources: [src-109, src-071]
+  - figure: 5-1
+    rows:
+    - 'no': ①
+      mark: 公式
+      sources: [src-002]

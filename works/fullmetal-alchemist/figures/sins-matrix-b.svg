@@ -1,0 +1,111 @@
+<svg data-sources="src-225 src-231 src-239 src-240 src-255 src-260" xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 704" width="640" height="704" role="img" aria-labelledby="sins-matrix-b-title sins-matrix-b-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="sins-matrix-b-title">作品ごとの罪とキャラの行列 (2)</title>
+<desc id="sins-matrix-b-desc">縦に 7 つの罪、横に 4 作品を置いた行列。下に七つの外に足された憂鬱と虚飾の例を破線の枠で示す。</desc>
+<defs><pattern id="sins-matrix-b-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="704" fill="#f1f5f8"/>
+<rect width="640" height="704" fill="url(#sins-matrix-b-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">罪 × キャラの行列 (2)</text>
+<rect x="76" y="70" width="136" height="58" rx="0" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="144.0" y="94.0" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">ドキドキ!</text>
+<text x="144.0" y="115.25" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">プリキュア</text>
+<rect x="212" y="70" width="136" height="58" rx="0" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="280.0" y="94.0" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">でぃ・えっち</text>
+<text x="280.0" y="115.25" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">・えぃ</text>
+<rect x="348" y="70" width="136" height="58" rx="0" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="416.0" y="105" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">ザンキゼロ</text>
+<rect x="484" y="70" width="136" height="58" rx="0" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="552.0" y="94.0" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">蒼き雷霆</text>
+<text x="552.0" y="115.25" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">ガンヴォルト</text>
+<rect x="16" y="128" width="60" height="44" rx="0" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<text x="46" y="157" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">傲慢</text>
+<rect x="76" y="128" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="144.0" y="157" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">ゴーマ</text>
+<rect x="212" y="128" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="280.0" y="157" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">明星獅ぃ子</text>
+<rect x="348" y="128" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="416.0" y="157" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">瀬戸内</text>
+<rect x="484" y="128" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="552.0" y="157" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">イオタ</text>
+<rect x="16" y="172" width="60" height="44" rx="0" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<text x="46" y="201" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">嫉妬</text>
+<rect x="76" y="172" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="144.0" y="201" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">リーヴァ</text>
+<rect x="212" y="172" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="280.0" y="201" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">宇美野巳和</text>
+<rect x="348" y="172" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="416.0" y="201" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">三花締</text>
+<rect x="484" y="172" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="552.0" y="201" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">エリーゼ</text>
+<rect x="16" y="216" width="60" height="44" rx="0" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<text x="46" y="245" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">憤怒</text>
+<rect x="76" y="216" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="144.0" y="245" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">イーラ</text>
+<rect x="212" y="216" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="280.0" y="245" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">田名網久美</text>
+<rect x="348" y="216" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="416.0" y="245" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">玖保田</text>
+<rect x="484" y="216" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="552.0" y="245" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">デイトナ</text>
+<rect x="16" y="260" width="60" height="44" rx="0" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<text x="46" y="289" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">怠惰</text>
+<rect x="76" y="260" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="144.0" y="289" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">ベール</text>
+<rect x="212" y="260" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="280.0" y="289" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">荒縁棕櫚</text>
+<rect x="348" y="260" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="416.0" y="289" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">日暮</text>
+<rect x="484" y="260" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="552.0" y="289" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">メラク</text>
+<rect x="16" y="304" width="60" height="44" rx="0" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<text x="46" y="333" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">強欲</text>
+<rect x="76" y="304" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="144.0" y="333" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">マーモ</text>
+<rect x="212" y="304" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="280.0" y="333" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">鏡倉子</text>
+<rect x="348" y="304" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="416.0" y="333" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">一葉</text>
+<rect x="484" y="304" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="552.0" y="333" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">カレラ</text>
+<rect x="16" y="348" width="60" height="44" rx="0" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<text x="46" y="377" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">暴食</text>
+<rect x="76" y="348" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="144.0" y="377" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">グーラ</text>
+<rect x="212" y="348" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="280.0" y="377" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">那賀花美巳</text>
+<rect x="348" y="348" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="416.0" y="377" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">真白</text>
+<rect x="484" y="348" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="552.0" y="377" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">ストラトス</text>
+<rect x="16" y="392" width="60" height="44" rx="0" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<text x="46" y="421" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">色欲</text>
+<rect x="76" y="392" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="144.0" y="421" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">ルスト</text>
+<rect x="212" y="392" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="280.0" y="421" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">牧鷹羊子</text>
+<rect x="348" y="392" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="416.0" y="421" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">芒野</text>
+<rect x="484" y="392" width="136" height="44" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="552.0" y="421" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">パンテーラ</text>
+<circle cx="32.0" cy="462.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="32" y="468" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">1</text>
+<text x="54" y="468.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">イーラは ira、グーラは gula のように語から名を取る作品もある。</text>
+<text x="54" y="490.1" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">作品の表記は高慢、邪淫、大食などと違い、行は 7 つにそろえた</text>
+<rect x="16" y="522" width="608" height="132" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="546.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="552" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">2</text>
+<text x="60" y="552" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">七つの外に足された名</text>
+<text x="32" y="582.0" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">SERVAMP: 憂鬱 / 『七つの大罪』の企画: 虚飾と憂鬱 / ペルソナ5: 虚飾</text>
+<text x="32" y="604.95" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">【見立て】 歴史で消えた虚栄と悲嘆に語が近い。作者の意図は未確認で、</text>
+<text x="32" y="627.9" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">偶然の一致かもしれません</text>
+<line x1="14.0" y1="660.0" x2="626.0" y2="660.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="681.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="687" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="681.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="687" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="673" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="687" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="701" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>
