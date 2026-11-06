@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 576" width="640" height="576" role="img" aria-labelledby="activation-conditions-title activation-conditions-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="activation-conditions-title">錬成の発動の条件</title>
+<desc id="activation-conditions-desc">錬成陣があれば発動し、陣なしは通常できず、真理の扉を見た者は手を合わせて陣なしで発動できることを示す。錬成の光の色の違いも並べる。</desc>
+<defs><pattern id="activation-conditions-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="576" fill="#f1f5f8"/>
+<rect width="640" height="576" fill="url(#activation-conditions-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">発動の条件: 陣があるか、扉を見たか</text>
+<rect x="16" y="76" width="608" height="104" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="76.0" cy="128.0" r="36" fill="#e4edfb" stroke="#10131a" stroke-width="4"/>
+<path d="M52 128.0 q12 -18 24 0 t24 0" fill="none" stroke="#1f62d6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M56 142.0 h40 M60 114.0 h32" fill="none" stroke="#1f62d6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="32.0" cy="98.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="32" y="104" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="130" y="110" font-size="22" font-weight="800" text-anchor="start" fill="#10131a">錬成陣で流し方を決める</text>
+<text x="130" y="138" font-size="18" font-weight="500" text-anchor="start" fill="#10131a">円を基本に、構築式を組み込む</text>
+<text x="130" y="164" font-size="18" font-weight="500" text-anchor="start" fill="#10131a">多様な素材で描ける</text>
+<rect x="520" y="104" width="90" height="48" rx="4" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="565.0" y="135.92" font-size="22" font-weight="800" text-anchor="middle" fill="#ffffff">発動</text>
+<rect x="16" y="190" width="608" height="74" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="76.0" cy="227.0" r="26" fill="#ffffff" stroke="#10131a" stroke-width="3" stroke-dasharray="6,5"/>
+<line x1="56.0" y1="207.0" x2="96.0" y2="247.0" stroke="#d92d20" stroke-width="6" stroke-linecap="round"/>
+<line x1="96.0" y1="207.0" x2="56.0" y2="247.0" stroke="#d92d20" stroke-width="6" stroke-linecap="round"/>
+<text x="130" y="235.0" font-size="22" font-weight="800" text-anchor="start" fill="#10131a">陣なしの錬成</text>
+<rect x="460" y="205" width="150" height="44" rx="4" fill="#ffffff" stroke="#d92d20" stroke-width="3.5"/>
+<text x="535.0" y="233.48" font-size="18" font-weight="800" text-anchor="middle" fill="#10131a">通常はできない</text>
+<rect x="16" y="274" width="608" height="136" rx="4" fill="#fff7d6" stroke="#10131a" stroke-width="3.5"/>
+<line x1="112.0" y1="336.0" x2="126.0" y2="336.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="109.6" y1="349.7" x2="117.7" y2="352.6" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="102.6" y1="361.7" x2="113.4" y2="370.7" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="92.0" y1="370.6" x2="96.3" y2="378.2" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="78.9" y1="375.4" x2="81.4" y2="389.2" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="65.1" y1="375.4" x2="63.5" y2="383.9" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="52.0" y1="370.6" x2="45.0" y2="382.8" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="41.4" y1="361.7" x2="34.7" y2="367.3" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="34.4" y1="349.7" x2="21.3" y2="354.5" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="32.0" y1="336.0" x2="23.3" y2="336.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="34.4" y1="322.3" x2="21.3" y2="317.5" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="41.4" y1="310.3" x2="34.7" y2="304.7" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="52.0" y1="301.4" x2="45.0" y2="289.2" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="65.1" y1="296.6" x2="63.5" y2="288.1" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="78.9" y1="296.6" x2="81.4" y2="282.8" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="92.0" y1="301.4" x2="96.3" y2="293.8" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="102.6" y1="310.3" x2="113.4" y2="301.3" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="109.6" y1="322.3" x2="117.7" y2="319.4" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<circle cx="60.0" cy="311.2" r="9.200000000000001" fill="#ffffff" stroke="#10131a" stroke-width="5"/>
+<line x1="60.0" y1="320.4" x2="60.0" y2="344.3" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<line x1="60.0" y1="344.3" x2="49.0" y2="370.1" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<line x1="60.0" y1="344.3" x2="71.0" y2="370.1" stroke="#10131a" stroke-width="5" stroke-linecap="round"/>
+<circle cx="77.5" cy="331.4" r="17.48" fill="none" stroke="#10131a" stroke-width="5"/>
+<circle cx="32.0" cy="296.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="32" y="302" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
+<text x="130" y="308" font-size="22" font-weight="800" text-anchor="start" fill="#10131a">例外: 手を合わせる錬成</text>
+<text x="130" y="336" font-size="18" font-weight="500" text-anchor="start" fill="#10131a">真理の扉を見た者は陣を描かずに発動する</text>
+<circle cx="144.0" cy="374.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="144" y="380" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">3</text>
+<text x="166" y="368" font-size="18" font-weight="500" text-anchor="start" fill="#10131a">作者は、円で循環させるという前提から</text>
+<text x="166" y="394" font-size="18" font-weight="500" text-anchor="start" fill="#10131a">手を合わせるのが一番楽だと思ったと語っている</text>
+<circle cx="32.0" cy="444.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="32" y="450" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">4</text>
+<text x="54" y="451" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">錬成の光の色</text>
+<rect x="16" y="464" width="196" height="62" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="40.0" cy="495.0" r="13" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="60" y="489" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">2009 年版 通常</text>
+<text x="60" y="514" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">青</text>
+<rect x="222" y="464" width="196" height="62" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="246.0" cy="495.0" r="13" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<text x="266" y="489" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">2009 年版 賢者の石</text>
+<text x="266" y="514" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">赤</text>
+<rect x="428" y="464" width="196" height="62" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="452.0" cy="495.0" r="13" fill="#f5b700" stroke="#10131a" stroke-width="3"/>
+<text x="472" y="489" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">原作のカラー</text>
+<text x="472" y="514" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">黄</text>
+<line x1="14.0" y1="532.0" x2="626.0" y2="532.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="553.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="559" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="553.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="559" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="545" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="559" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="573" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>
