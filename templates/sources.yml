@@ -1,0 +1,38 @@
+# 出典の台帳の見本です。works/<slug>/sources.yml にコピーして書き換えます。
+# 値はすべて架空です。
+#
+# permission に書ける値:
+#   未依頼: 文章や画像の掲載をまだ頼んでいない
+#   依頼中: 掲載を頼み、返事を待っている
+#   許諾:   掲載の許諾を得た
+#   拒否:   掲載を断られた、または削除の申し出を受けて外した
+#   不要:   書いた本人の言葉で、許諾を得る必要がない
+sources:
+  - id: src-001
+    url: https://example.com/official
+    kind: 公式サイト
+    rights_holder: 架空の権利者
+    terms_url: https://example.com/official/terms
+    permission: 未依頼
+    checked_at: 2000-01-01
+  - id: src-002
+    url: https://example.com/guidebook
+    kind: 設定資料
+    rights_holder: 架空の出版社
+    terms_url: https://example.com/guidebook/terms
+    permission: 許諾
+    checked_at: 2000-01-01
+  - id: src-003
+    url: works/example-work/audience.md
+    kind: 本人の感想
+    rights_holder: 見本の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2000-01-01
+  - id: src-004
+    url: https://example.com/encyclopedia
+    kind: 事典
+    rights_holder: 架空の事典の編集部
+    terms_url: https://example.com/encyclopedia/terms
+    permission: 依頼中
+    checked_at: 2000-01-01
