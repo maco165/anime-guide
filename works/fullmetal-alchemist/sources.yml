@@ -275,3 +275,290 @@ sources:
     terms_url: null
     permission: 不要
     checked_at: 2026-11-06
+  - id: src-040
+    url: https://ja.wikipedia.org/wiki/鋼の錬金術師
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-041
+    url: https://ja.wikipedia.org/wiki/鋼の錬金術師_FULLMETAL_ALCHEMIST
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-042
+    url: https://en.wikipedia.org/wiki/List_of_Fullmetal_Alchemist_characters
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-043
+    url: https://en.wikipedia.org/wiki/Edward_Elric
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-044
+    url: https://mangapedia.com/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB-uninl50t6
+    kind: 事典 (マンガペディア)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-045
+    url: https://wiki3.jp/aniwotadata/name/%E5%9B%BD%E5%AE%B6%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB
+    kind: 利用者が編集する wiki (アニヲタ wiki)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-046
+    url: https://wiki3.jp/aniwotadata/name/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB
+    kind: 利用者が編集する wiki (アニヲタ wiki)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-047
+    url: https://dic.nicovideo.jp/a/%E8%B3%A2%E8%80%85%E3%81%AE%E7%9F%B3
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-048
+    url: https://dic.nicovideo.jp/a/%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%9B%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%A0
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-049
+    url: https://dic.nicovideo.jp/a/%E3%83%A1%E3%82%A4%E3%83%BB%E3%83%81%E3%83%A3%E3%83%B3
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-050
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Ishval-Civil-War
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-051
+    url: https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-40-2009-Anime
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-052
+    url: https://daddyjim.com/ja/fullmetal-alchemist/episode/Episode-35-2009-Anime
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-053
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Alchemist
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-054
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Father
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-055
+    url: https://animeoshi.com/anime/fullmetal-alchemist-brotherhood/episode/30
+    kind: 話数の解説サイト (AnimeOshi)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-056
+    url: https://animeoshi.com/anime/fullmetal-alchemist-brotherhood/episode/35
+    kind: 話数の解説サイト (AnimeOshi)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-057
+    url: https://animeoshi.com/anime/fullmetal-alchemist-brotherhood/episode/40
+    kind: 話数の解説サイト (AnimeOshi)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-058
+    url: https://anigamers.com/2009/12/fma-brotherhood-diaries-episode-35.html
+    kind: ブログ (Anigamers)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-059
+    url: https://markwatches.net/reviews/2013/09/mark-watches-fullmetal-alchemist-brotherhood-episode-30/
+    kind: ブログ (Mark Watches)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-060
+    url: https://looper.com/364093/the-real-meaning-of-the-truth-in-fullmetal-alchemist-brotherhood
+    kind: 解説記事 (Looper)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-061
+    url: https://www.thefandomentals.com/fullmetal-alchemist-humanity
+    kind: 論考 (The Fandomentals)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-062
+    url: https://galacticamedia.com/index.php/gmd/article/view/697
+    kind: 論文 (Galactica Media)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-063
+    url: https://note.com/tsure_risa/n/n074a7346014e?hl=en
+    kind: 個人の記事 (note)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-064
+    url: https://nazbutnotcoy.substack.com/p/what-is-the-value-of-a-human-soul
+    kind: 個人の記事 (Substack)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-065
+    url: https://www.animesparks.blog/blog/fullmetal-alchemist-philosophers-stone-explained-human-souls
+    kind: 解説サイト (Anime Sparks。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-066
+    url: https://hypercritic.org/?p=5388
+    kind: 評論 (Hypercritic)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-067
+    url: https://www.costituzionalismo.it/wp-content/uploads/1-2025-3.-Infante.pdf
+    kind: 論考 (costituzionalismo.it)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-068
+    url: https://publis-shs.univ-rouen.fr/ceredi/2126-1.pdf
+    kind: 論文 (ルーアン大学のサイト)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-069
+    url: https://www.betaseries.com/en/article/47613-fullmetal-alchemist-scar-and-the-ishvalan-civil-war-explained/amp
+    kind: 解説記事 (BetaSeries)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-070
+    url: https://comicbook.com/anime/news/fullmetal-alchemist-edward-elric-disabled-anime
+    kind: 記事 (ComicBook)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-071
+    url: https://www.cbr.com/fullmetal-alchemist-brotherhood-symbols-explained/
+    kind: 解説記事 (CBR)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-072
+    url: https://fictionhorizon.com/most-important-fullmetal-alchemist-symbols-meanings/
+    kind: 解説記事 (Fiction Horizon)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-073
+    url: https://www.tiki-toki.com/timeline/entry/515716/Fullmetal-Alchemist-Manga2009-Anime-Timeline/
+    kind: 利用者が作った年表 (Tiki-Toki)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-074
+    url: https://renote.net/articles/13966
+    kind: まとめ記事 (RENOTE)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-075
+    url: https://renote.net/articles/13936
+    kind: まとめ記事 (RENOTE)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-076
+    url: https://renote.net/articles/78723
+    kind: まとめ記事 (RENOTE)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-077
+    url: https://ciatr.jp/topics/308259
+    kind: まとめ記事 (ciatr)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-078
+    url: https://ciatr.jp/topics/169821
+    kind: まとめ記事 (ciatr)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-079
+    url: https://note.com/katakuri22/n/n6ec319fc6b3c
+    kind: 個人の感想記事 (note)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-080
+    url: https://anigamers.com/2009/06/fma-brotherhood-diaries-episode-11.html
+    kind: ブログ (Anigamers)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
