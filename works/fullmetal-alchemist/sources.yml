@@ -1,0 +1,277 @@
+# 鋼の錬金術師 FULLMETAL ALCHEMIST の出典の台帳です。
+# 本文は事実を筆者の言葉で書き、出典の文章を転載していないので、permission は不要としています。
+# rights_holder は権利者を確定できなかったものを「不明」と書きます。
+sources:
+  - id: src-001
+    url: https://www.hagaren.jp/fa/about/introduction.html
+    kind: 公式サイト (作品紹介)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-002
+    url: https://www.hagaren.jp/fa/characters/index01.html
+    kind: 公式サイト (キャラクター)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-003
+    url: https://www.hagaren.jp/fa/about/story.html
+    kind: 公式サイト (話数あらすじ)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-004
+    url: https://www.hagaren.jp/fa/about/story01.html
+    kind: 公式サイト (話数あらすじ)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-005
+    url: https://www.hagaren.jp/fa/about/story02.html
+    kind: 公式サイト (話数あらすじ)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-006
+    url: https://www.hagaren.jp/fa/about/story03.html
+    kind: 公式サイト (話数あらすじ)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-007
+    url: https://www.hagaren.jp/fa/about/story04.html
+    kind: 公式サイト (話数あらすじ)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-008
+    url: https://fullmetalalchemistusa.com/character/
+    kind: 英語版の公式サイト (キャラクター)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-009
+    url: https://en.wikipedia.org/wiki/Fullmetal_Alchemist
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-010
+    url: https://www.sciencehistory.org/stories/magazine/the-secrets-of-alchemy/
+    kind: 研究機関の記事 (Science History Institute)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-011
+    url: https://en.wikipedia.org/wiki/Alchemy
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-012
+    url: https://en.wikipedia.org/wiki/Waidan
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-013
+    url: https://en.wikipedia.org/wiki/Neidan
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-014
+    url: https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/jabir-ibn-hayy
+    kind: 事典 (encyclopedia.com)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-015
+    url: https://www.lindahall.org/paracelsus/
+    kind: 図書館の記事 (Linda Hall Library)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-016
+    url: https://shc.stanford.edu/arcade/publications/rofl/issues/volume-1-issue-2/artificial-men-alchemy-transubstantiation-and
+    kind: 大学の論文誌 (Stanford)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-017
+    url: https://worldneurologyonline.com/article/the-homunculus-from-paracelsus-to-penfield/
+    kind: 専門誌の記事 (World Neurology)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-018
+    url: https://collection.sciencemuseumgroup.org.uk/people/ap24980/flamel-nicolas
+    kind: 博物館の資料 (Science Museum Group)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-019
+    url: https://en.wikipedia.org/wiki/Alkahest
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-020
+    url: https://webapp1.dlib.indiana.edu/newton/project/grant.do
+    kind: 大学のプロジェクト (Indiana University)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-021
+    url: https://philipball.co.uk/wp-content/uploads/2015/05/newtons_alchemy_final.pdf
+    kind: 科学記者の記事 (Philip Ball)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-022
+    url: https://sciencehistory.org/stories/magazine/dr-butler-and-the-quest-for-the-philosophers-stone
+    kind: 研究機関の記事 (Science History Institute)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-023
+    url: https://lemdo.uvic.ca/emee/AlchemyAndChemistry.html
+    kind: 大学の資料 (University of Victoria)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-024
+    url: https://www.sciencehistory.org/alchemy
+    kind: 研究機関の解説 (Science History Institute)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-025
+    url: https://pitjournal.unc.edu/2023/01/15/lead-to-gold-sorcery-to-science-alchemy-and-the-foundations-of-modern-chemistry/
+    kind: 大学の学部生誌 (University of North Carolina)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-026
+    url: https://hyle.org/journal/issues/10-2/rev_karpenko.htm
+    kind: 学術誌の書評 (HYLE)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-027
+    url: https://hagarenmovie.tumblr.com/post/167232938220/translation-special-interview-with-hiromu/amp
+    kind: 作者インタビューのファン英訳
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-028
+    url: https://clewilan.tumblr.com/post/44966298003
+    kind: 作者インタビューのファン重訳
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-029
+    url: https://www.cinematoday.jp/page/A0005783
+    kind: 作者インタビュー記事 (シネマトゥデイ)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-030
+    url: https://www.looper.com/179096/the-untold-truth-of-fullmetal-alchemist/
+    kind: 解説記事 (Looper)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-031
+    url: https://jgeekstudies.org/2026/05/12/on-the-relation-between-full-metal-alchemists-equivalent-exchange-and-the-scientific-conservation-laws/
+    kind: 論考 (Journal of Geek Studies)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-032
+    url: https://dic.nicovideo.jp/a/%E7%AD%89%E4%BE%A1%E4%BA%A4%E6%8F%9B
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-033
+    url: https://kotobank.jp/word/質量保存の法則
+    kind: 事典 (コトバンク)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-034
+    url: https://breezewiki.discard.no/fma/wiki/Van_Hohenheim
+    kind: ファン wiki (Van Hohenheim の項の閲覧用ミラー)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-035
+    url: https://fma.fandom.com/wiki/Volume_19
+    kind: ファン wiki
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-036
+    url: https://www.deviantart.com/evilgidgit/art/Name-Origins-Fullmetal-Alchemist-1258823408
+    kind: ファンの整理
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-037
+    url: https://fma.fandom.com/wiki/Roy_Mustang
+    kind: ファン wiki
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-038
+    url: https://en.namu.wiki/w/%EA%B0%95%EC%B2%A0%EC%9D%98%20%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC
+    kind: 利用者が編集する事典 (namu.wiki)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-039
+    url: https://blog.rebresearch.com/edward-elrichs-snake-flamel/
+    kind: 個人ブログ
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
