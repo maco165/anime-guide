@@ -29,3 +29,10 @@ sources:
     terms_url: https://example.com/writer/terms
     permission: 不要
     checked_at: 2000-01-01
+  - id: src-004
+    url: https://example.com/encyclopedia
+    kind: 事典
+    rights_holder: 架空の事典の編集部
+    terms_url: https://example.com/encyclopedia/terms
+    permission: 依頼中
+    checked_at: 2000-01-01
