@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 884" width="640" height="884" role="img" aria-labelledby="stone-soul-flow-title stone-soul-flow-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="stone-soul-flow-title">賢者の石と魂の流れ</title>
+<desc id="stone-soul-flow-desc">多数の人の記号が賢者の石の錬成陣を通って魂を圧縮した石になり、使うたびに中の魂が減って最後に壊れる流れの図。作中の陣の図案は描かない</desc>
+<defs><pattern id="stone-soul-flow-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="884" fill="#f1f5f8"/>
+<rect width="640" height="884" fill="url(#stone-soul-flow-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">賢者の石: 人の魂が材料で、使うと減る</text>
+<rect x="16" y="72" width="186" height="190" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="52.0" cy="91.2" r="7.199999999999999" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="52.0" y1="98.4" x2="52.0" y2="117.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="52.0" y1="117.1" x2="43.4" y2="137.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="52.0" y1="117.1" x2="60.6" y2="137.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="52.0" y1="102.7" x2="41.2" y2="117.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="52.0" y1="102.7" x2="62.8" y2="117.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="108.0" cy="91.2" r="7.199999999999999" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="108.0" y1="98.4" x2="108.0" y2="117.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="108.0" y1="117.1" x2="99.4" y2="137.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="108.0" y1="117.1" x2="116.6" y2="137.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="108.0" y1="102.7" x2="97.2" y2="117.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="108.0" y1="102.7" x2="118.8" y2="117.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="164.0" cy="91.2" r="7.199999999999999" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="164.0" y1="98.4" x2="164.0" y2="117.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="164.0" y1="117.1" x2="155.4" y2="137.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="164.0" y1="117.1" x2="172.6" y2="137.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="164.0" y1="102.7" x2="153.2" y2="117.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="164.0" y1="102.7" x2="174.8" y2="117.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="52.0" cy="163.2" r="7.199999999999999" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="52.0" y1="170.4" x2="52.0" y2="189.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="52.0" y1="189.1" x2="43.4" y2="209.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="52.0" y1="189.1" x2="60.6" y2="209.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="52.0" y1="174.7" x2="41.2" y2="189.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="52.0" y1="174.7" x2="62.8" y2="189.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="108.0" cy="163.2" r="7.199999999999999" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="108.0" y1="170.4" x2="108.0" y2="189.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="108.0" y1="189.1" x2="99.4" y2="209.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="108.0" y1="189.1" x2="116.6" y2="209.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="108.0" y1="174.7" x2="97.2" y2="189.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="108.0" y1="174.7" x2="118.8" y2="189.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="164.0" cy="163.2" r="7.199999999999999" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="164.0" y1="170.4" x2="164.0" y2="189.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="164.0" y1="189.1" x2="155.4" y2="209.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="164.0" y1="189.1" x2="172.6" y2="209.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="164.0" y1="174.7" x2="153.2" y2="189.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="164.0" y1="174.7" x2="174.8" y2="189.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<text x="109" y="250" font-size="16.5" font-weight="800" text-anchor="middle" fill="#10131a">多数の生きた人間</text>
+<path d="M206.0 166.0 L244.0 166.0" fill="none" stroke="#d92d20" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="260.0,166.0 244.0,177.5 244.0,154.5" fill="#d92d20" stroke="#d92d20" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="262" y="112" width="134" height="108" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="282.0" cy="134.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="282" y="140" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
+<text x="329" y="168.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">賢者の石</text>
+<text x="329" y="190.1" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">の錬成陣</text>
+<path d="M400.0 166.0 L432.0 166.0" fill="none" stroke="#d92d20" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="448.0,166.0 432.0,177.5 432.0,154.5" fill="#d92d20" stroke="#d92d20" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="592.0" y1="186.0" x2="604.0" y2="186.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="589.9" y1="202.0" x2="597.1" y2="204.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="583.7" y1="217.0" x2="594.1" y2="223.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="573.8" y1="229.8" x2="579.1" y2="235.1" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="561.0" y1="239.7" x2="567.0" y2="250.1" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="546.0" y1="245.9" x2="548.0" y2="253.1" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="530.0" y1="248.0" x2="530.0" y2="260.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="514.0" y1="245.9" x2="512.0" y2="253.1" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="499.0" y1="239.7" x2="493.0" y2="250.1" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="486.2" y1="229.8" x2="480.9" y2="235.1" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="476.3" y1="217.0" x2="465.9" y2="223.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="470.1" y1="202.0" x2="462.9" y2="204.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="468.0" y1="186.0" x2="456.0" y2="186.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="470.1" y1="170.0" x2="462.9" y2="168.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="476.3" y1="155.0" x2="465.9" y2="149.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="486.2" y1="142.2" x2="480.9" y2="136.9" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="499.0" y1="132.3" x2="493.0" y2="121.9" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="514.0" y1="126.1" x2="512.0" y2="118.9" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="530.0" y1="124.0" x2="530.0" y2="112.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="546.0" y1="126.1" x2="548.0" y2="118.9" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="561.0" y1="132.3" x2="567.0" y2="121.9" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="573.8" y1="142.2" x2="579.1" y2="136.9" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="583.7" y1="155.0" x2="594.1" y2="149.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<line x1="589.9" y1="170.0" x2="597.1" y2="168.0" stroke="#f5b700" stroke-width="4" stroke-linecap="round"/>
+<polygon points="586.0,186.0 558.0,234.5 502.0,234.5 474.0,186.0 502.0,137.5 558.0,137.5" fill="#d92d20" stroke="#10131a" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="530.0" cy="186.0" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="541.1" cy="199.7" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="523.7" cy="202.5" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="512.5" cy="188.8" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="518.9" cy="172.3" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="536.3" cy="169.5" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="547.5" cy="183.2" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="528.3" cy="218.2" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="512.4" cy="213.0" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="501.3" cy="200.6" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="497.8" cy="184.3" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="503.0" cy="168.4" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="515.4" cy="157.3" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="531.7" cy="153.8" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="547.6" cy="159.0" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="558.7" cy="171.4" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="562.2" cy="187.7" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="557.0" cy="203.6" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="544.6" cy="214.7" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="446.0" cy="92.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="446" y="98" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="468" y="99" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">魂を圧縮した塊</text>
+<rect x="16" y="276" width="298" height="86" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="300.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="306" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
+<text x="60" y="314.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">第五研究所の床に</text>
+<text x="60" y="336.2" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">賢者の石の錬成陣があった</text>
+<rect x="326" y="276" width="298" height="86" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="348.0" cy="300.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="348" y="306" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">3</text>
+<text x="370" y="314.4" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">マルコーはイシュヴァール人の</text>
+<text x="370" y="335.2" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">捕虜数千人を犠牲に作った</text>
+<rect x="16" y="372" width="608" height="56" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="400.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="406.0" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">4</text>
+<text x="60" y="406.5" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">公式あらすじ第 43 話に、人を賢者の石にした話がある</text>
+<rect x="16" y="442" width="608" height="234" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<circle cx="38.0" cy="468.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="474" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">5</text>
+<text x="60" y="475" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">魂を減らして代価にあてるので、使い続ければ壊れる</text>
+<polygon points="172.0,554.0 144.0,602.5 88.0,602.5 60.0,554.0 88.0,505.5 144.0,505.5" fill="#d92d20" stroke="#10131a" stroke-width="3.5" stroke-linejoin="round"/>
+<circle cx="116.0" cy="554.0" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="127.1" cy="567.7" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="109.7" cy="570.5" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="98.5" cy="556.8" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="104.9" cy="540.3" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="122.3" cy="537.5" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="133.5" cy="551.2" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="114.3" cy="586.2" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="98.4" cy="581.0" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="87.3" cy="568.6" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="83.8" cy="552.3" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="89.0" cy="536.4" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="101.4" cy="525.3" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="117.7" cy="521.8" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="133.6" cy="527.0" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="144.7" cy="539.4" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="148.2" cy="555.7" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="143.0" cy="571.6" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="130.6" cy="582.7" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<polygon points="376.0,554.0 348.0,602.5 292.0,602.5 264.0,554.0 292.0,505.5 348.0,505.5" fill="#d92d20" stroke="#10131a" stroke-width="3.5" stroke-linejoin="round"/>
+<circle cx="320.0" cy="554.0" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="331.1" cy="567.7" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="313.7" cy="570.5" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="302.5" cy="556.8" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="308.9" cy="540.3" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="326.3" cy="537.5" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<circle cx="337.5" cy="551.2" r="3.6400000000000006" fill="#f5b700" stroke="#10131a" stroke-width="1.5"/>
+<path d="M580.0 554.0 L552.0 602.5 L496.0 602.5 L468.0 554.0 L496.0 505.5 L552.0 505.5 Z" fill="#ffffff" stroke="#10131a" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,5"/>
+<path d="M504 506 l14 28 l-16 18 l22 18 l-8 38" fill="none" stroke="#d92d20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M182.0 554.0 L236.0 554.0" fill="none" stroke="#1f62d6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="250.0,554.0 236.0,564.1 236.0,543.9" fill="#1f62d6" stroke="#1f62d6" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="216" y="538" font-size="16" font-weight="800" text-anchor="middle" fill="#1f62d6">錬成</text>
+<path d="M386.0 554.0 L440.0 554.0" fill="none" stroke="#1f62d6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="454.0,554.0 440.0,564.1 440.0,543.9" fill="#1f62d6" stroke="#1f62d6" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="420" y="538" font-size="16" font-weight="800" text-anchor="middle" fill="#1f62d6">錬成</text>
+<text x="116" y="644" font-size="19" font-weight="800" text-anchor="middle" fill="#10131a">魂が多い</text>
+<text x="320" y="644" font-size="19" font-weight="800" text-anchor="middle" fill="#10131a">減っていく</text>
+<text x="524" y="644" font-size="19" font-weight="800" text-anchor="middle" fill="#10131a">尽きると壊れる</text>
+<rect x="16" y="688" width="608" height="140" rx="4" fill="#fff7d6" stroke="#10131a" stroke-width="3.5"/>
+<circle cx="38.0" cy="714.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="720" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">6</text>
+<text x="60" y="721" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">作中で石が担う 3 つの役</text>
+<rect x="30" y="740" width="186" height="74" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+<text x="123.0" y="771.925" font-size="17.5" font-weight="800" text-anchor="middle" fill="#10131a">兄弟が探す</text>
+<text x="123.0" y="794.675" font-size="17.5" font-weight="800" text-anchor="middle" fill="#10131a">対象</text>
+<rect x="222" y="740" width="186" height="74" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+<text x="315.0" y="771.925" font-size="17.5" font-weight="800" text-anchor="middle" fill="#10131a">軍の命令で</text>
+<text x="315.0" y="794.675" font-size="17.5" font-weight="800" text-anchor="middle" fill="#10131a">研究される題材</text>
+<rect x="414" y="740" width="186" height="74" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="2.5"/>
+<text x="507.0" y="771.925" font-size="17.5" font-weight="800" text-anchor="middle" fill="#10131a">ホムンクルス</text>
+<text x="507.0" y="794.675" font-size="17.5" font-weight="800" text-anchor="middle" fill="#10131a">の核 (図 3-4)</text>
+<line x1="14.0" y1="840.0" x2="626.0" y2="840.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="861.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="867" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="861.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="867" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="853" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="867" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="881" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

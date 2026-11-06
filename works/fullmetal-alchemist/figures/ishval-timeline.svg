@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 968" width="640" height="968" role="img" aria-labelledby="ishval-timeline-title ishval-timeline-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="ishval-timeline-title">イシュヴァールの流れ</title>
+<desc id="ishval-timeline-desc">併合、内戦の発端、7 年の内戦、命令 3066 号での殲滅戦への転換、生き残りの離散を縦の線で順に示す図。年は置かない。下に命令の呼び名の違いを破線の枠で示す</desc>
+<defs><pattern id="ishval-timeline-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="968" fill="#f1f5f8"/>
+<rect width="640" height="968" fill="url(#ishval-timeline-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">イシュヴァール: 併合から離散まで</text>
+<line x1="40.0" y1="90.0" x2="40.0" y2="722.0" stroke="#10131a" stroke-width="7" stroke-linecap="butt"/>
+<polygon points="26.0,718.0 54.0,718.0 40.0,744.0" fill="#10131a" stroke="#10131a" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="40.0" cy="102.0" r="12" fill="#f5b700" stroke="#10131a" stroke-width="3.5"/>
+<rect x="66" y="76" width="558" height="192" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<text x="82" y="108" font-size="22" font-weight="800" text-anchor="start" fill="#10131a">併合</text>
+<circle cx="96.0" cy="134.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="96" y="140" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">1</text>
+<text x="118" y="140" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">併合の条件はイシュヴァラ教を認めること</text>
+<circle cx="96.0" cy="168.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="96" y="174" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
+<text x="118" y="174" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">信仰は錬金術を認めない</text>
+<circle cx="96.0" cy="202.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="96" y="208" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">3</text>
+<text x="118" y="208" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">肌や赤い目の特徴でも区別される</text>
+<circle cx="96.0" cy="236.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="96" y="242" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">4</text>
+<text x="118" y="242" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">錬丹術も異端とする、と書く元もある</text>
+<circle cx="40.0" cy="304.0" r="12" fill="#f5b700" stroke="#10131a" stroke-width="3.5"/>
+<rect x="66" y="278" width="558" height="112" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<text x="82" y="310" font-size="22" font-weight="800" text-anchor="start" fill="#10131a">発端</text>
+<circle cx="96.0" cy="334.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="96" y="340" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">5</text>
+<text x="118" y="340" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">軍人が子どもを撃った事件</text>
+<text x="118" y="368" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">撃ったのは軍人に化けたエンヴィー</text>
+<circle cx="40.0" cy="426.0" r="12" fill="#f5b700" stroke="#10131a" stroke-width="3.5"/>
+<rect x="66" y="400" width="558" height="84" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<text x="82" y="432" font-size="22" font-weight="800" text-anchor="start" fill="#10131a">内戦</text>
+<circle cx="150.0" cy="441.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="150" y="447" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<rect x="170" y="418" width="440" height="46" rx="2" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="390" y="449" font-size="22" font-weight="800" text-anchor="middle" fill="#ffffff">7 年続く</text>
+<line x1="232.9" y1="418.0" x2="232.9" y2="430.0" stroke="#ffffff" stroke-width="2.5" stroke-linecap="butt"/>
+<line x1="295.7" y1="418.0" x2="295.7" y2="430.0" stroke="#ffffff" stroke-width="2.5" stroke-linecap="butt"/>
+<line x1="358.6" y1="418.0" x2="358.6" y2="430.0" stroke="#ffffff" stroke-width="2.5" stroke-linecap="butt"/>
+<line x1="421.4" y1="418.0" x2="421.4" y2="430.0" stroke="#ffffff" stroke-width="2.5" stroke-linecap="butt"/>
+<line x1="484.3" y1="418.0" x2="484.3" y2="430.0" stroke="#ffffff" stroke-width="2.5" stroke-linecap="butt"/>
+<line x1="547.1" y1="418.0" x2="547.1" y2="430.0" stroke="#ffffff" stroke-width="2.5" stroke-linecap="butt"/>
+<circle cx="40.0" cy="520.0" r="12" fill="#d92d20" stroke="#10131a" stroke-width="3.5"/>
+<rect x="66" y="494" width="558" height="130" rx="4" fill="#d92d20" stroke="#10131a" stroke-width="3.5"/>
+<text x="82" y="526" font-size="22" font-weight="800" text-anchor="start" fill="#ffffff">命令 3066 号</text>
+<circle cx="96.0" cy="556.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="96" y="562" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">7</text>
+<text x="118" y="562" font-size="19" font-weight="800" text-anchor="start" fill="#ffffff">命令を境に殲滅戦へ変わる</text>
+<circle cx="96.0" cy="594.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="96" y="600" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">8</text>
+<text x="118" y="600" font-size="19" font-weight="800" text-anchor="start" fill="#ffffff">国家錬金術師が戦場に投入される</text>
+<circle cx="40.0" cy="660.0" r="12" fill="#f5b700" stroke="#10131a" stroke-width="3.5"/>
+<rect x="66" y="634" width="558" height="112" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<text x="82" y="666" font-size="22" font-weight="800" text-anchor="start" fill="#10131a">離散</text>
+<circle cx="96.0" cy="690.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="96" y="696" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">9</text>
+<text x="118" y="696" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">生き残りは各地のスラムや遺跡、砂漠へ</text>
+<circle cx="96.0" cy="724.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="96" y="730" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">10</text>
+<text x="118" y="730" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">イシュヴァール人のスラムがある</text>
+<rect x="16" y="758" width="608" height="58" rx="4" fill="#fff7d6" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="787.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="793.0" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">6</text>
+<text x="60" y="793.8" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">この戦争も、国土錬成陣に要る血を流すためのもの</text>
+<rect x="16" y="826" width="608" height="92" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5" stroke-dasharray="10,6"/>
+<text x="32" y="854" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">命令の呼び名は分かれる</text>
+<text x="32" y="882" font-size="16.5" font-weight="700" text-anchor="start" fill="#10131a">「命令 3066 号」「3066 号特別厳命」「3066 号密令」</text>
+<text x="608" y="882" font-size="16" font-weight="500" text-anchor="end" fill="#46515c">[src-050]</text>
+<text x="32" y="906" font-size="16.5" font-weight="700" text-anchor="start" fill="#10131a">Executive Order 3066</text>
+<text x="608" y="906" font-size="16" font-weight="500" text-anchor="end" fill="#46515c">[src-055]</text>
+<line x1="14.0" y1="924.0" x2="626.0" y2="924.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="945.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="951" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="945.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="951" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="937" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="951" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="965" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

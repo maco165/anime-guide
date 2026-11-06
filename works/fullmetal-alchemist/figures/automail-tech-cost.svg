@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 900" width="640" height="900" role="img" aria-labelledby="automail-tech-cost-title automail-tech-cost-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="automail-tech-cost-title">機械鎧の技術と代償</title>
+<desc id="automail-tech-cost-desc">右腕と左足を太い青の線で描いた丸と線の人の記号を中央に置き、左に技術、右に代償を並べた図。下に需要とラッシュバレーを示す</desc>
+<defs><pattern id="automail-tech-cost-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="900" fill="#f1f5f8"/>
+<rect width="640" height="900" fill="url(#automail-tech-cost-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">機械鎧: 技術と代償</text>
+<rect x="16" y="72" width="608" height="66" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="96.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="102" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<text x="60" y="99.8" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">エドワードの右腕と左足の義肢。ウィンリィが整備し、</text>
+<text x="60" y="123.2" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">技術は祖母のピナコが教えた</text>
+<rect x="16" y="150" width="216" height="40" rx="2" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="124.0" y="178" font-size="22" font-weight="800" text-anchor="middle" fill="#ffffff">技術</text>
+<rect x="408" y="150" width="216" height="40" rx="2" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<text x="516.0" y="178" font-size="22" font-weight="800" text-anchor="middle" fill="#ffffff">代償</text>
+<rect x="16" y="196" width="216" height="70" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="220.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="226" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">2</text>
+<text x="60" y="226.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">神経と直接つないで</text>
+<text x="60" y="248.2" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">動かす</text>
+<rect x="16" y="274" width="216" height="54" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="301.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="307.0" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">3</text>
+<text x="60" y="307.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">金属製で丈夫</text>
+<rect x="16" y="336" width="216" height="70" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="360.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="366" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">4</text>
+<text x="60" y="366.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">銃器を内蔵した</text>
+<text x="60" y="388.2" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">戦闘用がある</text>
+<rect x="16" y="414" width="216" height="138" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="438.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="444" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">5</text>
+<text x="60" y="447.2" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">戦闘用の例:</text>
+<text x="60" y="468.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">バッカニアの</text>
+<text x="60" y="488.8" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">寒冷地向け改造、</text>
+<text x="60" y="509.6" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">エドワードの</text>
+<text x="60" y="530.4" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">右腕の刃</text>
+<rect x="408" y="196" width="216" height="92" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="430.0" cy="220.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="430" y="226" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">6</text>
+<text x="452" y="237.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">激痛を伴う手術</text>
+<text x="452" y="259.2" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">維持の費用</text>
+<rect x="408" y="296" width="216" height="122" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="430.0" cy="320.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="430" y="326" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">7</text>
+<text x="452" y="321.2" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">訓練は最低 3 年</text>
+<text x="452" y="342.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">とされ、</text>
+<text x="452" y="362.8" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">エドワードは 1 年</text>
+<text x="452" y="383.6" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">成長に合わせて</text>
+<text x="452" y="404.4" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">作り直す</text>
+<rect x="408" y="426" width="216" height="126" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="430.0" cy="450.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="430" y="456" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">8</text>
+<text x="452" y="463.6" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">ファンの投稿を</text>
+<text x="452" y="484.4" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">まとめた記事に</text>
+<text x="452" y="505.2" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">幻肢痛と火傷の</text>
+<text x="452" y="526.0" font-size="16" font-weight="700" text-anchor="start" fill="#10131a">記述がある</text>
+<circle cx="320.0" cy="230.0" r="34" fill="#ffffff" stroke="#10131a" stroke-width="6"/>
+<line x1="320.0" y1="264.0" x2="320.0" y2="410.0" stroke="#10131a" stroke-width="8" stroke-linecap="round"/>
+<line x1="320.0" y1="286.0" x2="376.0" y2="368.0" stroke="#10131a" stroke-width="8" stroke-linecap="round"/>
+<line x1="320.0" y1="410.0" x2="276.0" y2="536.0" stroke="#10131a" stroke-width="8" stroke-linecap="round"/>
+<line x1="320.0" y1="286.0" x2="264.0" y2="368.0" stroke="#1f62d6" stroke-width="15" stroke-linecap="round"/>
+<line x1="320.0" y1="410.0" x2="364.0" y2="536.0" stroke="#1f62d6" stroke-width="15" stroke-linecap="round"/>
+<circle cx="264.0" cy="368.0" r="9" fill="#f5b700" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="364.0" cy="536.0" r="9" fill="#f5b700" stroke="#10131a" stroke-width="2.5"/>
+<text x="268" y="408" font-size="19" font-weight="800" text-anchor="middle" fill="#1f62d6">右腕</text>
+<text x="384" y="466" font-size="19" font-weight="800" text-anchor="middle" fill="#1f62d6">左足</text>
+<rect x="16" y="566" width="608" height="164" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<text x="30" y="598" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">需要と産地</text>
+<rect x="30" y="612" width="262" height="104" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="2.5"/>
+<text x="161.0" y="659.07" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">イシュヴァールの戦争で</text>
+<text x="161.0" y="681.1700000000001" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">義肢の需要が急に高まる</text>
+<circle cx="48.0" cy="630.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="48" y="636" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">9</text>
+<path d="M296.0 664.0 L328.0 664.0" fill="none" stroke="#d92d20" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="344.0,664.0 328.0,675.5 328.0,652.5" fill="#d92d20" stroke="#d92d20" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="348" y="612" width="262" height="104" rx="4" fill="#1f62d6" stroke="#10131a" stroke-width="2.5"/>
+<text x="479.0" y="658.78" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">機械鎧技師たちの聖地</text>
+<text x="479.0" y="682.18" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">ラッシュバレー</text>
+<circle cx="366.0" cy="630.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="366" y="636" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">10</text>
+<rect x="16" y="742" width="608" height="100" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="766.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="772" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">11</text>
+<text x="60" y="786.5" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">作者は、重い義肢なら相応の筋肉が要り、</text>
+<text x="60" y="811.2" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">エドワードの年齢に合わないと気にしていた</text>
+<line x1="14.0" y1="856.0" x2="626.0" y2="856.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="877.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="883" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="877.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="883" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="869" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="883" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="897" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

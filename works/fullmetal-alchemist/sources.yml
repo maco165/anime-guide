@@ -5,49 +5,49 @@ sources:
   - id: src-001
     url: https://www.hagaren.jp/fa/about/introduction.html
     kind: 公式サイト (作品紹介)
-    rights_holder: 不明
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
     terms_url: null
     permission: 不要
     checked_at: 2026-11-06
   - id: src-002
     url: https://www.hagaren.jp/fa/characters/index01.html
     kind: 公式サイト (キャラクター)
-    rights_holder: 不明
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
     terms_url: null
     permission: 不要
     checked_at: 2026-11-06
   - id: src-003
     url: https://www.hagaren.jp/fa/about/story.html
     kind: 公式サイト (話数あらすじ)
-    rights_holder: 不明
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
     terms_url: null
     permission: 不要
     checked_at: 2026-11-06
   - id: src-004
     url: https://www.hagaren.jp/fa/about/story01.html
     kind: 公式サイト (話数あらすじ)
-    rights_holder: 不明
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
     terms_url: null
     permission: 不要
     checked_at: 2026-11-06
   - id: src-005
     url: https://www.hagaren.jp/fa/about/story02.html
     kind: 公式サイト (話数あらすじ)
-    rights_holder: 不明
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
     terms_url: null
     permission: 不要
     checked_at: 2026-11-06
   - id: src-006
     url: https://www.hagaren.jp/fa/about/story03.html
     kind: 公式サイト (話数あらすじ)
-    rights_holder: 不明
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
     terms_url: null
     permission: 不要
     checked_at: 2026-11-06
   - id: src-007
     url: https://www.hagaren.jp/fa/about/story04.html
     kind: 公式サイト (話数あらすじ)
-    rights_holder: 不明
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
     terms_url: null
     permission: 不要
     checked_at: 2026-11-06
@@ -408,13 +408,6 @@ sources:
     terms_url: null
     permission: 不要
     checked_at: 2026-11-06
-  - id: src-059
-    url: https://markwatches.net/reviews/2013/09/mark-watches-fullmetal-alchemist-brotherhood-episode-30/
-    kind: ブログ (Mark Watches)
-    rights_holder: 不明
-    terms_url: null
-    permission: 不要
-    checked_at: 2026-11-06
   - id: src-060
     url: https://looper.com/364093/the-real-meaning-of-the-truth-in-fullmetal-alchemist-brotherhood
     kind: 解説記事 (Looper)
@@ -548,17 +541,17 @@ sources:
     terms_url: null
     permission: 不要
     checked_at: 2026-11-06
-  - id: src-079
-    url: https://note.com/katakuri22/n/n6ec319fc6b3c
-    kind: 個人の感想記事 (note)
-    rights_holder: 不明
-    terms_url: null
-    permission: 不要
-    checked_at: 2026-11-06
   - id: src-080
     url: https://anigamers.com/2009/06/fma-brotherhood-diaries-episode-11.html
     kind: ブログ (Anigamers)
     rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-081
+    url: https://www.hagaren.jp/fa/about/story05.html
+    kind: 公式サイト (話数あらすじ)
+    rights_holder: © 荒川弘／鋼の錬金術師製作委員会・MBS
     terms_url: null
     permission: 不要
     checked_at: 2026-11-06

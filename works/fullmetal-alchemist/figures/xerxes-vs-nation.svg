@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 880" width="640" height="880" role="img" aria-labelledby="xerxes-vs-nation-title xerxes-vs-nation-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="xerxes-vs-nation-title">クセルクセスの陣と国土錬成陣</title>
+<desc id="xerxes-vs-nation-desc">クセルクセスの陣と国土錬成陣を、誰が造るか、陣の正体、発動の日、魂の行き先の 4 点で左右に比べる図。下にホーエンハイムの中の魂の数を棒で示す。計画が実現するかどうかは示さない</desc>
+<defs><pattern id="xerxes-vs-nation-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="880" fill="#f1f5f8"/>
+<rect width="640" height="880" fill="url(#xerxes-vs-nation-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">クセルクセスの陣と国土錬成陣を比べる</text>
+<polygon points="16.0,72.0 332.0,72.0 302.0,130.0 16.0,130.0" fill="#d92d20" stroke="#10131a" stroke-width="3.5" stroke-linejoin="round"/>
+<polygon points="346.0,72.0 624.0,72.0 624.0,130.0 316.0,130.0" fill="#1f62d6" stroke="#10131a" stroke-width="3.5" stroke-linejoin="round"/>
+<text x="40" y="98" font-size="17" font-weight="700" text-anchor="start" fill="#ffffff">過去の王国</text>
+<text x="40" y="122" font-size="22" font-weight="800" text-anchor="start" fill="#ffffff">クセルクセスの陣</text>
+<text x="604" y="98" font-size="17" font-weight="700" text-anchor="end" fill="#ffffff">アメストリス (図 2-6)</text>
+<text x="604" y="122" font-size="22" font-weight="800" text-anchor="end" fill="#ffffff">国土錬成陣</text>
+<rect x="16" y="140" width="608" height="98" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<line x1="320.0" y1="170.0" x2="320.0" y2="238.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="16" y="140" width="608" height="30" rx="0" fill="#10131a" stroke="#10131a" stroke-width="3"/>
+<text x="320" y="162" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">誰が造らせるか</text>
+<circle cx="38.0" cy="204.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="210" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">1</text>
+<text x="60" y="198.0" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">小人が王を騙し、国の</text>
+<text x="60" y="220.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">規模の陣を造らせた</text>
+<text x="336" y="198.0" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">お父様が</text>
+<text x="336" y="220.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">国そのものを作る</text>
+<rect x="16" y="246" width="608" height="98" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<line x1="320.0" y1="276.0" x2="320.0" y2="344.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="16" y="246" width="608" height="30" rx="0" fill="#10131a" stroke="#10131a" stroke-width="3"/>
+<text x="320" y="268" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">陣の正体</text>
+<circle cx="38.0" cy="310.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="316" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">2</text>
+<text x="60" y="316.0" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">灌漑の運河</text>
+<text x="336" y="304.0" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">虐殺の地点と</text>
+<text x="336" y="326.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">国中の地下道</text>
+<rect x="16" y="352" width="608" height="98" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<line x1="320.0" y1="382.0" x2="320.0" y2="450.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="16" y="352" width="608" height="30" rx="0" fill="#10131a" stroke="#10131a" stroke-width="3"/>
+<text x="320" y="374" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">発動の日</text>
+<circle cx="38.0" cy="416.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="422" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">2</text>
+<text x="60" y="422.0" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">皆既日食の日</text>
+<text x="336" y="410.0" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">日食の日</text>
+<text x="336" y="432.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">(約束の日)</text>
+<rect x="16" y="458" width="608" height="98" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<line x1="320.0" y1="488.0" x2="320.0" y2="556.0" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="16" y="458" width="608" height="30" rx="0" fill="#10131a" stroke="#10131a" stroke-width="3"/>
+<text x="320" y="480" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">魂の行き先</text>
+<circle cx="38.0" cy="522.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="38" y="528" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">3</text>
+<text x="60" y="516.0" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">小人とホーエンハイムに</text>
+<text x="60" y="538.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">半分ずつ入り、2 人は石に</text>
+<text x="336" y="516.0" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">国内の全員を材料にした</text>
+<text x="336" y="538.1" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">巨大な賢者の石 (計画)</text>
+<rect x="16" y="566" width="608" height="92" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<circle cx="38.0" cy="590.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="596" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">4</text>
+<text x="60" y="596.0" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">陣の要所で町ごとの虐殺を王が密かに命じ、小人が陣を</text>
+<text x="60" y="617.25" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">歪めて自分とホーエンハイムを真の中心に置いた、</text>
+<text x="60" y="638.5" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">と書く資料もある</text>
+<rect x="16" y="668" width="608" height="154" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="30" y="698" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">国民の魂の数</text>
+<rect x="30" y="712" width="290.0" height="44" rx="0" fill="#b4c1cc" stroke="#10131a" stroke-width="3"/>
+<rect x="320.0" y="712" width="290.0" height="44" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="175.0" y="741" font-size="19" font-weight="800" text-anchor="middle" fill="#10131a">小人</text>
+<text x="465.0" y="741" font-size="19" font-weight="800" text-anchor="middle" fill="#ffffff">ホーエンハイム</text>
+<circle cx="340.0" cy="780.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="340" y="786" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">6</text>
+<text x="362" y="786" font-size="19" font-weight="800" text-anchor="start" fill="#10131a">53 万 6329 人分</text>
+<circle cx="38.0" cy="780.0" r="14" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="38" y="786" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">5</text>
+<text x="60" y="786" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">年表の総人口は</text>
+<text x="60" y="811" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">107 万 2658 人で、その半分</text>
+<text x="362" y="811" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">ホーエンハイムの中の魂</text>
+<line x1="14.0" y1="836.0" x2="626.0" y2="836.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="857.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="863" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="857.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="863" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="849" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="863" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="877" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>

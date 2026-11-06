@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 862" width="640" height="862" role="img" aria-labelledby="chronology-splits-title chronology-splits-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="chronology-splits-title">年代の書き方の違い</title>
+<desc id="chronology-splits-desc">クセルクセスの時期、お父様が生まれた時期、建国の年の 3 つについて、資料ごとの年代を行ごとの目盛りの上に並べて比べる図</desc>
+<defs><pattern id="chronology-splits-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="862" fill="#f1f5f8"/>
+<rect width="640" height="862" fill="url(#chronology-splits-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">年代の書き方は資料で違う</text>
+<rect x="16" y="76" width="608" height="282" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5" stroke-dasharray="10,6"/>
+<text x="32" y="108" font-size="21" font-weight="800" text-anchor="start" fill="#10131a">クセルクセスの時期</text>
+<line x1="44.0" y1="226.0" x2="596.0" y2="226.0" stroke="#10131a" stroke-width="4" stroke-linecap="butt"/>
+<line x1="44.0" y1="219.0" x2="44.0" y2="233.0" stroke="#10131a" stroke-width="3" stroke-linecap="butt"/>
+<text x="44.0" y="251" font-size="16" font-weight="500" text-anchor="middle" fill="#46515c">1400</text>
+<line x1="228.0" y1="219.0" x2="228.0" y2="233.0" stroke="#10131a" stroke-width="3" stroke-linecap="butt"/>
+<text x="228.0" y="251" font-size="16" font-weight="500" text-anchor="middle" fill="#46515c">1440</text>
+<line x1="412.0" y1="219.0" x2="412.0" y2="233.0" stroke="#10131a" stroke-width="3" stroke-linecap="butt"/>
+<text x="412.0" y="251" font-size="16" font-weight="500" text-anchor="middle" fill="#46515c">1480</text>
+<line x1="596.0" y1="219.0" x2="596.0" y2="233.0" stroke="#10131a" stroke-width="3" stroke-linecap="butt"/>
+<text x="596.0" y="251" font-size="16" font-weight="500" text-anchor="middle" fill="#46515c">1520</text>
+<line x1="108.4" y1="226.0" x2="108.4" y2="186.0" stroke="#1f62d6" stroke-width="3" stroke-linecap="butt"/>
+<circle cx="108.4" cy="226.0" r="10" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="44" y="146.0" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">約 500 年前に</text>
+<text x="44" y="166.4" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">あった国 [src-078]</text>
+<line x1="531.6" y1="226.0" x2="531.6" y2="182.0" stroke="#1f62d6" stroke-width="3" stroke-linecap="butt"/>
+<circle cx="531.6" cy="226.0" r="10" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="539.5999999999999" y="152.0" font-size="17" font-weight="700" text-anchor="end" fill="#10131a">1506 年に滅びた</text>
+<text x="539.5999999999999" y="172.4" font-size="17" font-weight="700" text-anchor="end" fill="#10131a">[src-073]</text>
+<line x1="568.4" y1="226.0" x2="568.4" y2="270.0" stroke="#1f62d6" stroke-width="3" stroke-linecap="butt"/>
+<circle cx="568.4" cy="226.0" r="10" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="582.4" y="288" font-size="17" font-weight="700" text-anchor="end" fill="#10131a">400 年前に滅びた [src-068]</text>
+<text x="32" y="316" font-size="16.5" font-weight="500" text-anchor="start" fill="#46515c">1506 年は年表の 1 件だけの記載で、作中の 1914 年から</text>
+<text x="32" y="336" font-size="16.5" font-weight="500" text-anchor="start" fill="#46515c">約 408 年前。400 年前とほぼ同じです</text>
+<rect x="16" y="368" width="608" height="186" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5" stroke-dasharray="10,6"/>
+<text x="32" y="400" font-size="21" font-weight="800" text-anchor="start" fill="#10131a">お父様が生まれた時期</text>
+<line x1="44.0" y1="486.0" x2="596.0" y2="486.0" stroke="#10131a" stroke-width="4" stroke-linecap="butt"/>
+<line x1="44.0" y1="479.0" x2="44.0" y2="493.0" stroke="#10131a" stroke-width="3" stroke-linecap="butt"/>
+<text x="44.0" y="511" font-size="16" font-weight="500" text-anchor="middle" fill="#46515c">1100</text>
+<line x1="182.0" y1="479.0" x2="182.0" y2="493.0" stroke="#10131a" stroke-width="3" stroke-linecap="butt"/>
+<text x="182.0" y="511" font-size="16" font-weight="500" text-anchor="middle" fill="#46515c">1200</text>
+<line x1="320.0" y1="479.0" x2="320.0" y2="493.0" stroke="#10131a" stroke-width="3" stroke-linecap="butt"/>
+<text x="320.0" y="511" font-size="16" font-weight="500" text-anchor="middle" fill="#46515c">1300</text>
+<line x1="458.0" y1="479.0" x2="458.0" y2="493.0" stroke="#10131a" stroke-width="3" stroke-linecap="butt"/>
+<text x="458.0" y="511" font-size="16" font-weight="500" text-anchor="middle" fill="#46515c">1400</text>
+<line x1="596.0" y1="479.0" x2="596.0" y2="493.0" stroke="#10131a" stroke-width="3" stroke-linecap="butt"/>
+<text x="596.0" y="511" font-size="16" font-weight="500" text-anchor="middle" fill="#46515c">1500</text>
+<line x1="63.3" y1="486.0" x2="63.3" y2="450.0" stroke="#1f62d6" stroke-width="3" stroke-linecap="butt"/>
+<circle cx="63.3" cy="486.0" r="10" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="44" y="442" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">約 8 世紀前 [src-042]</text>
+<line x1="568.4" y1="486.0" x2="568.4" y2="450.0" stroke="#1f62d6" stroke-width="3" stroke-linecap="butt"/>
+<circle cx="568.4" cy="486.0" r="10" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="588.4" y="442" font-size="17" font-weight="700" text-anchor="end" fill="#10131a">1480 年 [src-073]</text>
+<text x="32" y="536" font-size="16.5" font-weight="500" text-anchor="start" fill="#46515c">1480 年は年表の 1 件だけの記載です</text>
+<rect x="16" y="564" width="608" height="196" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3.5" stroke-dasharray="10,6"/>
+<text x="32" y="596" font-size="21" font-weight="800" text-anchor="start" fill="#10131a">建国の年</text>
+<line x1="44.0" y1="676.0" x2="596.0" y2="676.0" stroke="#10131a" stroke-width="4" stroke-linecap="butt"/>
+<line x1="44.0" y1="669.0" x2="44.0" y2="683.0" stroke="#10131a" stroke-width="3" stroke-linecap="butt"/>
+<text x="44.0" y="701" font-size="16" font-weight="500" text-anchor="middle" fill="#46515c">1545</text>
+<line x1="182.0" y1="669.0" x2="182.0" y2="683.0" stroke="#10131a" stroke-width="3" stroke-linecap="butt"/>
+<text x="182.0" y="701" font-size="16" font-weight="500" text-anchor="middle" fill="#46515c">1550</text>
+<line x1="320.0" y1="669.0" x2="320.0" y2="683.0" stroke="#10131a" stroke-width="3" stroke-linecap="butt"/>
+<text x="320.0" y="701" font-size="16" font-weight="500" text-anchor="middle" fill="#46515c">1555</text>
+<line x1="458.0" y1="669.0" x2="458.0" y2="683.0" stroke="#10131a" stroke-width="3" stroke-linecap="butt"/>
+<text x="458.0" y="701" font-size="16" font-weight="500" text-anchor="middle" fill="#46515c">1560</text>
+<line x1="596.0" y1="669.0" x2="596.0" y2="683.0" stroke="#10131a" stroke-width="3" stroke-linecap="butt"/>
+<text x="596.0" y="701" font-size="16" font-weight="500" text-anchor="middle" fill="#46515c">1565</text>
+<line x1="182.0" y1="676.0" x2="182.0" y2="644.0" stroke="#1f62d6" stroke-width="3" stroke-linecap="butt"/>
+<circle cx="182.0" cy="676.0" r="10" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="182.0" y="636" font-size="17" font-weight="700" text-anchor="middle" fill="#10131a">1550 年 [src-073]</text>
+<line x1="402.8" y1="676.0" x2="402.8" y2="644.0" stroke="#1f62d6" stroke-width="3" stroke-linecap="butt"/>
+<circle cx="402.8" cy="676.0" r="10" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="362.8" y="636" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">1558 年ごろ [src-040]</text>
+<text x="32" y="728" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">別の資料は 1558 年をリヴィエールの事件の年とする</text>
+<text x="608" y="750" font-size="16" font-weight="500" text-anchor="end" fill="#46515c">[src-052]</text>
+<text x="16" y="786" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">目盛りは行ごとに違います。「約」の位置は作中の 1914 年から</text>
+<text x="16" y="808" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">数えた目安です</text>
+<line x1="14.0" y1="818.0" x2="626.0" y2="818.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="30" y="831" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="64" y="845" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">破線の枠は説が割れている内容です</text>
+<rect x="1.5" y="1.5" width="637" height="859" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>
