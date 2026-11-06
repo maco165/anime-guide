@@ -6,7 +6,7 @@
 #   依頼中: 掲載を頼み、返事を待っている
 #   許諾:   掲載の許諾を得た
 #   拒否:   掲載を断られた、または削除の申し出を受けて外した
-#   不要:   書いた本人の言葉など、許諾を得る必要がない
+#   不要:   書いた本人の言葉で、許諾を得る必要がない
 sources:
   - id: src-001
     url: https://example.com/official
@@ -23,10 +23,10 @@ sources:
     permission: 許諾
     checked_at: 2000-01-01
   - id: src-003
-    url: https://example.com/writer
-    kind: 感想
+    url: works/example-work/audience.md
+    kind: 本人の感想
     rights_holder: 見本の筆者
-    terms_url: https://example.com/writer/terms
+    terms_url: null
     permission: 不要
     checked_at: 2000-01-01
   - id: src-004
