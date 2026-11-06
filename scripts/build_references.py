@@ -217,6 +217,7 @@ def build(work):
                 front.setdefault(key, page_front[key])
     out = ['---'] + [f'{k}: {v}' for k, v in front.items()] + ['---', '']
     out += ['# 出典の参照ページ', '']
+    out += ['**このページは AI (Claude) がまとめました。** 資料集め、文章、図を AI が作り、人は公開前に全体を確認しました。記述を一つずつ原典と照らしたものではないので、誤りがあれば [Issue か Pull Request](../../README.md#誤りを指摘する) で教えてください。', '']
     out += ['このページの全ての出典と、使っているページと図の番号をまとめます。', '']
     out += ['**このページは設定のネタバレを含みます。**', '']
     out += ['`scripts/build_references.py` が `sources.yml`、`figure-sources.yml`、`unreachable.yml`、各ページ、図から生成するので、ここは直接書き換えません。', '']
