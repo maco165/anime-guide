@@ -1,0 +1,334 @@
+# 調べるときに開けなかった元の一覧です。references.md の「読めなかった元」はここから生成します。
+# 中身を読んでいないので、sources.yml には入れません。個人の連絡先は書きません。
+# url が分からないものは url を null にして name に書きます。pages は、その元を探していたページです。
+unreachable:
+- url: http://yamakamu.com/archives/1600561.html
+  reason: 証明書の期限切れ
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://chaucer.fas.harvard.edu/pages/parsons-prologue-and-tale
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://devilmaycry.fandom.com/wiki/Hell_Pride
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://dic.nicovideo.jp/a/お父さま
+  reason: HTTP 404
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+- url: https://dic.nicovideo.jp/a/イズミ・カーティス
+  reason: HTTP 404
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+- url: https://dic.nicovideo.jp/a/スカー(鋼の錬金術師)
+  reason: HTTP 404
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+- url: https://dic.nicovideo.jp/a/ティム・マルコー
+  reason: HTTP 404
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+- url: https://dic.nicovideo.jp/a/バスク・グラン
+  reason: HTTP 404
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+- url: https://dic.nicovideo.jp/a/傷の男
+  reason: HTTP 404
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+- url: https://dic.nicovideo.jp/a/国家錬金術師
+  reason: HTTP 404
+  checked_at: 2026-11-06
+  pages:
+  - world
+  - abilities
+- url: https://dic.nicovideo.jp/a/機械鎧
+  reason: HTTP 404
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://dic.pixiv.net/a/七つの大罪
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://dic.pixiv.net/a/国土錬成陣
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://dic.pixiv.net/a/国家錬金術師
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+- url: https://dic.pixiv.net/a/機械鎧
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://dic.pixiv.net/a/真理の扉
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://dic.pixiv.net/a/賢者の石(鋼の錬金術師)
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://dic.pixiv.net/a/錬丹術
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - world
+  - abilities
+- url: https://dic.pixiv.net/a/錬成陣
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+- url: https://digitaldante.columbia.edu/dante/divine-comedy/purgatorio/purgatorio-17/
+  reason: Anubis のボット防止で拒否
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://en.namu.wiki/w/현자의 돌(강철의 연금술사)
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://everybodywiki.com/Tim_Marcoh
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+- url: https://fma.fandom.com/wiki/Alchemy
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://fma.fandom.com/wiki/Homunculi
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://fma.fandom.com/wiki/State_Alchemist
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+- url: https://fullmetal-alchemist-database.fandom.com/wiki/Tim_Marcoh
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+- url: https://giantbomb.com/wiki/Characters/Scar
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+- url: https://giantbomb.com/wiki/Games/Party_of_Sin
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://hagaren.fandom.com/ja/wiki/イシュヴァール
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://hagaren.fandom.com/ja/wiki/クセルクセス
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://hagaren.fandom.com/ja/wiki/ホムンクルス
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://hagaren.fandom.com/ja/wiki/人体錬成
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://hagaren.fandom.com/ja/wiki/国土錬成陣
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://hagaren.fandom.com/ja/wiki/国家錬金術師
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://hagaren.fandom.com/ja/wiki/機械鎧
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://hagaren.fandom.com/ja/wiki/真理の扉
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://hagaren.fandom.com/ja/wiki/等価交換
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://hagaren.fandom.com/ja/wiki/賢者の石
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://hagaren.fandom.com/ja/wiki/錬丹術
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://hagaren.fandom.com/ja/wiki/錬金術
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://ja.wikipedia.org/wiki/鋼の錬金術師の用語一覧
+  reason: HTTP 404
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://medium.com/@chywright/the-value-of-amestris-imperialism-in-fullmetal-alchemist-5bf2d1921858
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://mythandmischief.blog/2025/07/23/the-seven-deadly-sins-fullmetal-alchemist-brotherhoods-homunculi/
+  reason: HTTP 410
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://randomc.net/?p=3742
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://sapporo-u.repo.nii.ac.jp/record/6682/files/SULB00000093.pdf
+  reason: HTTP 503
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://sg.news.yahoo.com/fullmetal-alchemist-brilliant-piercing-critique-193000812.html
+  reason: HTTP 404
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://sportskeeda.com/anime/10-strongest-state-alchemists-fullmetal-alchemist-brotherhood
+  reason: HTTP 405
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+- url: https://the-artifice.com/fullmetal-alchemist-brotherhood-homunculi/
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://theanimeweb.com/homunculi-as-the-seven-deadly-sins/
+  reason: DNS 解決に失敗
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://training.kolcraft.com/the-seven-deadly-sins-of-fullmetal-alchemist-how-homunculi-expose-the-dark-side-of-human-desire
+  reason: 接続拒否
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://tvtropes.org/pmwiki/pmwiki.php/Characters/FullmetalAlchemist
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+- url: https://tvtropes.org/pmwiki/pmwiki.php/Fridge/FullMetalAlchemist
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: https://tvtropes.org/pmwiki/pmwiki.php/SevenDeadlySins/AnimeAndManga
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://tvtropes.org/pmwiki/pmwiki.php/SevenDeadlySins/VideoGames
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://typemoon.fandom.com/wiki/Beast
+  reason: HTTP 402
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://wiki.riteme.site/wiki/User:KrytenKoro/List_of_Devil_May_Cry_Demons
+  reason: HTTP 404
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://www.britannica.com/question/Who-was-the-first-person-to-outline-the-seven-deadly-sins
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://www.britannica.com/topic/seven-deadly-sins
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://www.fullmetal-alchemist.com/character/
+  reason: HTTP 404
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://www.hagaren.jp/fa/character/
+  reason: HTTP 404
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+  - seven-sins
+- url: https://www.museodelprado.es/en/the-collection/art-work/tabletop-of-the-seven-deadly-sins-and-the-four/3fc0a2d1-7a2d-4ad3-a4c6-bc2d9d3ef6b1
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - seven-sins
+- url: https://www.toy-people.com/?p=83873
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - abilities
+- url: https://www.wikiwand.com/en/articles/Automail
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - world
+- url: null
+  name: コミックナタリーの原文 (natalie.mu)
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - column
+- url: null
+  name: Britannica の alchemy の項目
+  reason: HTTP 403
+  checked_at: 2026-11-06
+  pages:
+  - column
