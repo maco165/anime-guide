@@ -1,0 +1,214 @@
+# 鋼の錬金術師の能力のページで新しく使う出典の台帳です。sources.yml と同じ欄で、id は src-101 から振ります。
+# 本文は事実を筆者の言葉で書き、出典の文章を転載していないので、permission は不要としています。
+# rights_holder は権利者を確定できなかったものを「不明」と書きます。
+sources:
+  - id: src-101
+    url: https://ja.wikipedia.org/wiki/鋼の錬金術師の登場人物一覧
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-102
+    url: https://ja.wikipedia.org/wiki/鋼の錬金術師の主要な登場人物
+    kind: 事典 (Wikipedia)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-103
+    url: https://dic.nicovideo.jp/a/エドワード・エルリック
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-104
+    url: https://dic.nicovideo.jp/a/ロイ・マスタング
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-105
+    url: https://dic.nicovideo.jp/a/アレックス・ルイ・アームストロング
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-106
+    url: https://dic.nicovideo.jp/a/ゾルフ・J・キンブリー
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-107
+    url: https://dic.nicovideo.jp/a/ショウ・タッカー
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-108
+    url: https://dic.nicovideo.jp/a/アルフォンス・エルリック
+    kind: 利用者が編集する事典 (ニコニコ大百科)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-109
+    url: https://renote.net/articles/17750
+    kind: まとめ記事 (RENOTE)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-110
+    url: https://renote.net/articles/10068
+    kind: まとめ記事 (RENOTE)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-111
+    url: https://renote.net/articles/323977
+    kind: まとめ記事 (RENOTE)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-112
+    url: https://ciatr.jp/topics/180463
+    kind: まとめ記事 (ciatr)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-113
+    url: https://www.cbr.com/fullmetal-alchemist-most-powerful-alchemy-ranked/
+    kind: 解説記事 (CBR)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-114
+    url: https://www.cbr.com/fullmetal-alchemist-strongest-state-alchemists-ranked-by-strength/
+    kind: 解説記事 (CBR)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-115
+    url: https://www.slashfilm.com/947775/how-fullmetal-alchemist-brotherhood-created-an-original-villain-for-its-first-episode
+    kind: 解説記事 (SlashFilm)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-116
+    url: https://myanimelist.net/character/10956/Tim_Marcoh
+    kind: データベース (MyAnimeList)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-117
+    url: https://www.legiaodosherois.com.br/2022/circulos-transmutacao-fullmetal-alchemist.html
+    kind: 解説記事 (Legião dos Heróis)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-118
+    url: https://anigamers.com/2009/05/fma-brotherhood-diaries-episode-4.html/
+    kind: ブログ (Anigamers)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-119
+    url: https://anigamers.com/2009/07/fma-brotherhood-diaries-episode-15.html
+    kind: ブログ (Anigamers)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-120
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Giolio-Comanche
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-121
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Tim-Marcoh
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-122
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Basque-Grand
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-123
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Berthold-Hawkeye
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-124
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/May-Chang
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-125
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Izumi-Curtis
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-126
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Scar
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-127
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Solf-J-Kimblee
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-128
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Shou-Tucker
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-129
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Isaac-McDougal
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06
+  - id: src-130
+    url: https://daddyjim.com/ja/fullmetal-alchemist/character/Van-Hohenheim
+    kind: 解説サイト (daddyjim。補助扱い)
+    rights_holder: 不明
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-06

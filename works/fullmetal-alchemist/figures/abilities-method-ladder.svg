@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 670" width="640" height="670" role="img" aria-labelledby="abilities-method-ladder-title abilities-method-ladder-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="abilities-method-ladder-title">錬成の方法の 5 段階</title>
+<desc id="abilities-method-ladder-desc">陣を描く、持ち物に刻む、身体に刻む、手を合わせる、陣も動作も不要、の 5 段階を、用意するものと動作で比べる。</desc>
+<defs><pattern id="abilities-method-ladder-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="670" fill="#f1f5f8"/>
+<rect width="640" height="670" fill="url(#abilities-method-ladder-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">方法の 5 段階: 陣をどこに用意するか</text>
+<rect x="16" y="72" width="608" height="96" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="72" width="86" height="96" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<circle cx="59.0" cy="101.2" r="7.199999999999999" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="59.0" y1="108.4" x2="59.0" y2="127.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="59.0" y1="127.1" x2="50.4" y2="147.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="59.0" y1="127.1" x2="67.6" y2="147.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="59.0" y1="112.7" x2="48.2" y2="127.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="59.0" y1="112.7" x2="69.8" y2="127.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="70.0" y1="127.7" x2="85.0" y2="152.7" stroke="#1f62d6" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M77 147 h20" fill="none" stroke="#1f62d6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="114" y="100" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">1 陣を描く</text>
+<text x="114" y="126" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">その場で円と構築式を描く</text>
+<text x="114" y="150" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">描くものと時間が要る</text>
+<circle cx="600.0" cy="96.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="600" y="102" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">1</text>
+<rect x="38" y="176" width="586" height="96" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="38" y="176" width="86" height="96" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<circle cx="81.0" cy="205.2" r="7.199999999999999" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="81.0" y1="212.4" x2="81.0" y2="231.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="81.0" y1="231.1" x2="72.4" y2="251.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="81.0" y1="231.1" x2="89.6" y2="251.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="81.0" y1="216.7" x2="70.2" y2="231.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="81.0" y1="216.7" x2="91.8" y2="231.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="87" y="226" width="12" height="12" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="2"/>
+<text x="136" y="204" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">2 持ち物に刻む</text>
+<text x="136" y="230" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">手袋、手甲、籠手、鏢に入れておく</text>
+<text x="136" y="254" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">擦る、叩く、打ち合わせる、投げる</text>
+<circle cx="600.0" cy="200.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="600" y="206" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
+<rect x="60" y="280" width="564" height="96" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="60" y="280" width="86" height="96" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<circle cx="103.0" cy="309.2" r="7.199999999999999" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="103.0" y1="316.4" x2="103.0" y2="335.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="103.0" y1="335.1" x2="94.4" y2="355.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="103.0" y1="335.1" x2="111.6" y2="355.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="103.0" y1="320.7" x2="92.2" y2="335.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="103.0" y1="320.7" x2="113.8" y2="335.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="114.0" cy="334.7" r="5.5" fill="#1f62d6" stroke="#10131a" stroke-width="2"/>
+<text x="158" y="308" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">3 身体に刻む</text>
+<text x="158" y="334" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">掌や腕の皮膚に入れておく</text>
+<text x="158" y="358" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">合わせる、触れる</text>
+<circle cx="600.0" cy="304.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="600" y="310" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">3</text>
+<rect x="82" y="384" width="542" height="96" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="82" y="384" width="86" height="96" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<circle cx="117.0" cy="413.2" r="7.199999999999999" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="117.0" y1="420.4" x2="117.0" y2="439.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="117.0" y1="439.1" x2="108.4" y2="459.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="117.0" y1="439.1" x2="125.6" y2="459.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="130.7" cy="429.0" r="13.68" fill="none" stroke="#10131a" stroke-width="3.5"/>
+<text x="180" y="412" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">4 手を合わせる</text>
+<text x="180" y="438" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">両手で円を作り、陣を省く</text>
+<text x="180" y="462" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">真理を見た者だけができる</text>
+<circle cx="600.0" cy="408.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="600" y="414" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">2</text>
+<rect x="104" y="488" width="520" height="96" rx="4" fill="#f5b700" stroke="#10131a" stroke-width="3"/>
+<rect x="104" y="488" width="86" height="96" rx="4" fill="#e4edfb" stroke="#10131a" stroke-width="3"/>
+<circle cx="147.0" cy="517.2" r="7.199999999999999" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<line x1="147.0" y1="524.4" x2="147.0" y2="543.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="147.0" y1="543.1" x2="138.4" y2="563.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="147.0" y1="543.1" x2="155.6" y2="563.3" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="147.0" y1="528.7" x2="136.2" y2="543.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="147.0" y1="528.7" x2="157.8" y2="543.1" stroke="#10131a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="147.0" cy="534.5" r="4.32" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<text x="202" y="516" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">5 陣も動作も不要</text>
+<text x="202" y="542" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">賢者の石を体に持つ者について書かれる</text>
+<text x="202" y="566" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">手を合わせることも要らない</text>
+<circle cx="600.0" cy="512.0" r="14" fill="#10131a" stroke="#10131a" stroke-width="2.5"/>
+<text x="600" y="518" font-size="17" font-weight="800" text-anchor="middle" fill="#ffffff">4</text>
+<text x="24" y="612" font-size="17" font-weight="500" text-anchor="start" fill="#46515c">段の順はこのページの整理で、公式の分類ではありません</text>
+<line x1="14.0" y1="626.0" x2="626.0" y2="626.0" stroke="#10131a" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="30.0" cy="647.0" r="8" fill="#10131a" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="653" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">公式・複数サイト</text>
+<circle cx="204.0" cy="647.0" r="8" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="218" y="653" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">1 サイトのみ</text>
+<rect x="338" y="639" width="26" height="16" rx="0" fill="#ffffff" stroke="#10131a" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="372" y="653" font-size="17" font-weight="500" text-anchor="start" fill="#10131a">説が割れている</text>
+<rect x="1.5" y="1.5" width="637" height="667" fill="none" stroke="#10131a" stroke-width="3"/>
+</svg>
