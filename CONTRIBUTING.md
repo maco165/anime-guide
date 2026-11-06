@@ -20,7 +20,17 @@ Pull Request で直すときは、変更した記述に出典の id を付けて
 人物 A は地域 A に住んでいます。[src-001]
 ```
 
-図は説明の文に、表は行に id を付けます。ページで使った id は、先頭の YAML の `sources` にも並べます。出典の無い記述は載せません。
+図は下に短い行を置き、印と主な出典の id を 3 つまで書きます。残りは「ほか」とし、`[ほか](references.md#世界観-図-1-5)` のように参照ページの図の節へリンクします。図ごとの全件は `figure-sources.yml` か、SVG の `data-sources` に書きます。表は行に id を付けます。ページで使った id は、先頭の YAML の `sources` にも並べます。出典の無い記述は載せません。
+
+参照ページの `references.md` は、全ての出典、使っているページと図の番号、読めなかった元 (`unreachable.yml`) をまとめた生成物です。直接書き換えず、次のコマンドで作り直し、検査します。
+
+```bash
+python3 scripts/build_references.py works/<slug>
+python3 scripts/build_references.py works/<slug> --check
+python3 scripts/check_sources.py works/<slug>
+```
+
+`check_sources.py` は、ページと図の id が台帳にあること、未使用の id が無いこと (`拒否` は除く)、id と URL が重複しないこと、`permission` が下の表の値であることを確かめます。
 
 `sources.yml` には、出典ごとに次の欄を書きます。見本は [templates/sources.yml](templates/sources.yml) にあります。
 

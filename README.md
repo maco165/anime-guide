@@ -38,12 +38,17 @@
 
 ```text
 works/example-work/
-├── world.md          世界観
-├── column.md         コラム
-├── characters.md     キャラクター
-├── audience.md       誰向けか
-├── sources.yml       出典の台帳
-└── figures/          画像にした図
+├── world.md            世界観
+├── abilities.md        能力の図鑑
+├── seven-sins.md       ホムンクルスと七つの大罪
+├── column.md           コラム
+├── characters.md       キャラクター
+├── audience.md         誰向けか
+├── references.md       参照ページ (全ての出典と読めなかった元。生成物)
+├── sources.yml         出典の台帳
+├── figure-sources.yml  図ごとの出典
+├── unreachable.yml     読めなかった元
+└── figures/            画像にした図
 ```
 
 新しいページは `templates/` の雛形から作ります。
