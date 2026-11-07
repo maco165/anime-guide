@@ -6,13 +6,18 @@ spoiler: 設定のネタバレを含む
 
 # 出典の参照ページ
 
-**このページは AI (Claude) がまとめました。** 資料集め、文章、図を AI が作り、人は公開前に全体を確認しました。記述を一つずつ原典と照らしたものではないので、誤りがあれば [Issue か Pull Request](../../README.md#誤りを指摘する) で教えてください。
+[← anime-guide のトップ](../../README.md)
+
+> [!IMPORTANT]
+> **このページは AI (Claude) がまとめました。** 資料集め、文章、図を AI が作り、人は公開前に全体を確認しました。記述を一つずつ原典と照らしたものではないので、誤りがあれば [Issue か Pull Request](../../README.md#誤りを指摘する) で教えてください。
+
+> [!WARNING]
+> **このページは設定のネタバレを含みます。**
 
 このページの全ての出典と、使っているページと図の番号をまとめます。
 
-**このページは設定のネタバレを含みます。**
-
-`scripts/build_references.py` が `sources.yml`、`figure-sources.yml`、`unreachable.yml`、各ページ、図から生成するので、ここは直接書き換えません。
+> [!NOTE]
+> `scripts/build_references.py` が `sources.yml`、`figure-sources.yml`、`unreachable.yml`、各ページ、図から生成するので、ここは直接書き換えません。
 
 ## 件数
 
