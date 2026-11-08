@@ -187,15 +187,42 @@ def render(markdown_text, page_dir, sources=None, ref_page=None):
     return out, toc
 
 
-def layout(title, body, root, description='', extra_class=''):
-    desc = f'<meta name="description" content="{html.escape(description)}">' if description else ''
+def summary(content, limit=110):
+    """The first body paragraph as plain text, for the page description."""
+    text = re.sub(r'(?s)<aside.*?</aside>|<div class="table-wrap">.*?</div>|<figure>.*?</figure>', '', content)
+    m = re.search(r'(?s)<p>(.*?)</p>', text)
+    if not m:
+        return ''
+    plain = re.sub(r'<span class="mark[^"]*">.*?</span>|<a class="src"[^>]*>.*?</a>|<rt>.*?</rt>', '', m.group(1))
+    plain = html.unescape(re.sub(r'<[^>]+>', '', plain))
+    plain = re.sub(r'\s+', ' ', plain).strip()
+    return plain if len(plain) <= limit else plain[:limit].rstrip() + '…'
+
+
+def layout(title, body, root, description, path, extra_class=''):
+    """Wrap a page. path is the page's path inside the site ('' for the top page)."""
+    url = SITE_URL + path
+    t, d = html.escape(title), html.escape(description)
+    head = f'''<meta name="description" content="{d}">
+<link rel="canonical" href="{url}">
+<link rel="icon" type="image/svg+xml" href="{root}favicon.svg">
+<meta property="og:type" content="{'website' if not path else 'article'}">
+<meta property="og:site_name" content="anime-guide">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:title" content="{t}">
+<meta property="og:description" content="{d}">
+<meta property="og:url" content="{url}">
+<meta property="og:image" content="{SITE_URL}og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">'''
     return f'''<!doctype html>
 <html lang="ja">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{html.escape(title)}</title>
-{desc}
+<title>{t}</title>
+{head}
 <link rel="stylesheet" href="{root}style.css">
 </head>
 <body class="{extra_class}">
@@ -248,7 +275,7 @@ def build_index(readme, out):
 {lead_html}
 {''.join(parts)}
 </main>'''
-    (out / 'index.html').write_text(layout(f'{h1} | {tagline}', body_html, '', tagline, 'page-home'),
+    (out / 'index.html').write_text(layout(f'{h1} | {tagline}', body_html, '', tagline, '', 'page-home'),
                                     encoding='utf-8')
     return works
 
@@ -300,7 +327,8 @@ def build_page(src, out, work, sources):
 </div>'''
     target = out / page_dir / f'{src.stem}.html'
     target.parent.mkdir(parents=True, exist_ok=True)
-    target.write_text(layout(f'{title} | anime-guide', body_html, '../../', title, 'page-work'),
+    target.write_text(layout(f'{title} | anime-guide', body_html, '../../', summary(content) or title,
+                             f'{page_dir}/{src.stem}.html', 'page-work'),
                       encoding='utf-8')
 
 
@@ -308,11 +336,20 @@ def published_pages():
     return [ROOT / 'README.md'] + sorted((ROOT / 'works').glob('*/*.md'))
 
 
+def write_sitemap(out):
+    pages = sorted(p.relative_to(out).as_posix() for p in out.rglob('*.html'))
+    urls = ''.join(f'  <url><loc>{SITE_URL}{"" if p == "index.html" else p}</loc></url>\n' for p in pages)
+    (out / 'sitemap.xml').write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        f'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{urls}</urlset>\n', encoding='utf-8')
+
+
 def build(out):
     if out.exists():
         shutil.rmtree(out)
     out.mkdir(parents=True)
-    shutil.copy(ASSETS / 'style.css', out / 'style.css')
+    for asset in ('style.css', 'favicon.svg', 'og.png'):
+        shutil.copy(ASSETS / asset, out / asset)
     works = build_index((ROOT / 'README.md').read_text(encoding='utf-8'), out)
     by_slug = {w['slug']: w for w in works}
     for work_dir in sorted(p for p in (ROOT / 'works').iterdir() if p.is_dir()):
@@ -325,6 +362,7 @@ def build(out):
             shutil.copytree(work_dir / 'figures', dest / 'figures')
         for page in sorted(work_dir.glob('*.md')):
             build_page(page, out, by_slug.get(work_dir.name), sources)
+    write_sitemap(out)
 
 
 # ---------- checking ----------
@@ -334,12 +372,25 @@ def check(out):
     built = sorted(out.rglob('*.html'))
     if len(built) != len(published_pages()):
         ng.append(f'page count: {len(published_pages())} Markdown pages, {len(built)} HTML pages')
+    for asset in ('favicon.svg', 'og.png'):
+        if not (out / asset).exists():
+            ng.append(f'missing {asset}')
+    sitemap = (out / 'sitemap.xml').read_text(encoding='utf-8') if (out / 'sitemap.xml').exists() else ''
     ids = {}
     for page in built:
         ids[page] = set(re.findall(r'\sid="([^"]+)"', page.read_text(encoding='utf-8')))
     for page in built:
         text = page.read_text(encoding='utf-8')
         rel = page.relative_to(out)
+        url = SITE_URL + ('' if rel.as_posix() == 'index.html' else rel.as_posix())
+        if f'<link rel="canonical" href="{url}">' not in text:
+            ng.append(f'{rel}: canonical is not {url}')
+        desc = re.search(r'<meta name="description" content="([^"]*)">', text)
+        title = re.search(r'<title>(.*?)</title>', text)
+        if not desc or not desc.group(1) or (title and title.group(1).startswith(desc.group(1) + ' |')):
+            ng.append(f'{rel}: description is empty or only repeats the title')
+        if url not in sitemap:
+            ng.append(f'{rel}: not in sitemap.xml')
         if re.search(r'\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]', text):
             ng.append(f'{rel}: callout marker left as text')
         if re.search(r'(?<!<code>)\[src-\d{3}\](?!</code>)', text):
