@@ -9,7 +9,7 @@
 ![設定のネタバレあり](https://img.shields.io/badge/%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC-%E3%81%82%E3%82%8A-bf8700)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-0969da)](LICENSE)
 
-[世界観から読む](works/fullmetal-alchemist/world.md) · [誤りを指摘する](https://github.com/maco165/anime-guide/issues/new) · [書き方の約束 (CONTRIBUTING)](https://github.com/maco165/anime-guide/blob/main/CONTRIBUTING.md)
+[サイトで読む](https://maco165.github.io/anime-guide/) · [世界観から読む](works/fullmetal-alchemist/world.md) · [誤りを指摘する](https://github.com/maco165/anime-guide/issues/new) · [書き方の約束 (CONTRIBUTING)](https://github.com/maco165/anime-guide/blob/main/CONTRIBUTING.md)
 
 </div>
 
