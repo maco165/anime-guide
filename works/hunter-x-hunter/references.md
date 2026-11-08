@@ -27,10 +27,10 @@ spoiler: 設定のネタバレを含む
 | 事典・Wiki | 20 |
 | 学術 | 0 |
 | データベース | 0 |
-| 解説・まとめ | 27 |
+| 解説・まとめ | 29 |
 | 考察 | 1 |
 | その他 | 1 |
-| 合計 | 51 |
+| 合計 | 53 |
 
 ## 出典の一覧
 
@@ -68,7 +68,7 @@ spoiler: 設定のネタバレを含む
 | src-035 | 百科事典 (幻影旅団) | [https://ja.wikipedia.org/wiki/幻影旅団](https://ja.wikipedia.org/wiki/%E5%B9%BB%E5%BD%B1%E6%97%85%E5%9B%A3) | Wikipedia の執筆者 | 2026-11-08 | 不要 | [世界観](world.md) 本文<br>[能力](abilities.md) 本文 |
 | src-043 | 百科事典 (グリードアイランド) | [https://ja.wikipedia.org/wiki/グリードアイランド](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%89%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89) | Wikipedia の執筆者 | 2026-11-08 | 不要 | [世界観](world.md) 本文 |
 
-### 解説・まとめ (27 件)
+### 解説・まとめ (29 件)
 
 | id | 種類 | URL | 権利者 | 確認日 | 許諾 | 使っている箇所 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -99,6 +99,8 @@ spoiler: 設定のネタバレを含む
 | src-049 | ニュース記事 (ルールの紹介) | [https://www.gizmodo.jp/2022/02/hunterxhuter-gungi.html](https://www.gizmodo.jp/2022/02/hunterxhuter-gungi.html) | ギズモード・ジャパンの記事の筆者 | 2026-11-08 | 不要 | [gungi](gungi.md) 図 2-3、図 2-4、本文 |
 | src-050 | ニュース記事 (先手必勝の指摘) | [https://news.denfaminicogamer.jp/news/220216i](https://news.denfaminicogamer.jp/news/220216i) | 電ファミニコゲーマーの記事の筆者 | 2026-11-08 | 不要 | [gungi](gungi.md) 図 1-2、図 2-2、図 2-5、本文 |
 | src-051 | ニュース記事 (発売の発表) | [https://dengekionline.com/articles/118689/](https://dengekionline.com/articles/118689/) | 電撃オンラインの記事の筆者 | 2026-11-08 | 不要 | [gungi](gungi.md) 本文 |
+| src-052 | 解説記事 (ハンター文字、1 ページ目) | [https://renote.net/articles/37847](https://renote.net/articles/37847) | RENOTE の記事の筆者 | 2026-11-08 | 不要 | [script](script.md) 図 1-1、図 1-2、図 2-1、図 2-2、図 2-3、図 2-4、本文 |
+| src-053 | 解説記事 (ハンター文字、2 ページ目) | [https://renote.net/articles/37847/page/2](https://renote.net/articles/37847/page/2) | RENOTE の記事の筆者 | 2026-11-08 | 不要 | [script](script.md) 図 1-1、図 2-2、図 2-3、図 2-4、本文 |
 
 ### 考察 (1 件)
 
@@ -251,6 +253,44 @@ spoiler: 設定のネタバレを含む
 軍儀の序盤の例 5
 
 [[src-044]](https://www.universal-music.co.jp/cinema/hunter-gungi/) [[src-045]](https://www.universal-music.co.jp/other/hunter-gungi__qa/) [[src-050]](https://news.denfaminicogamer.jp/news/220216i)
+
+### script
+
+#### script 図 1-1
+
+ハンター文字の五十音表
+
+[[src-052]](https://renote.net/articles/37847) [[src-053]](https://renote.net/articles/37847/page/2)
+
+#### script 図 1-2
+
+ハンター文字の段ごとの作り
+
+[[src-052]](https://renote.net/articles/37847)
+
+#### script 図 2-1
+
+ハンター文字の例文「ハンター」
+
+[[src-052]](https://renote.net/articles/37847)
+
+#### script 図 2-2
+
+ハンター文字の例文「念の修行」
+
+[[src-052]](https://renote.net/articles/37847) [[src-053]](https://renote.net/articles/37847/page/2)
+
+#### script 図 2-3
+
+ハンター文字の例文「グリードアイランド」
+
+[[src-052]](https://renote.net/articles/37847) [[src-053]](https://renote.net/articles/37847/page/2)
+
+#### script 図 2-4
+
+ハンター文字の例文「一緒に冒険しよう」
+
+[[src-052]](https://renote.net/articles/37847) [[src-053]](https://renote.net/articles/37847/page/2)
 
 ## 読めなかった元 (28 件)
 

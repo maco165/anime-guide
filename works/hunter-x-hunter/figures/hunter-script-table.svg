@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 900" width="640" height="900" role="img" aria-labelledby="hunter-script-table-title hunter-script-table-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="hunter-script-table-title">ハンター文字の五十音表</title>
+<desc id="hunter-script-table-desc">あ行からら行まで、ひらがな 1 字ごとに対応するハンター文字を五十音の並びで示し、わ・を・ん・長音を別の行に並べた表。下の段に、小さい「っ」、長音、濁点、半濁点の例を添える。字形は筆者が解読表をもとに描き起こした。</desc>
+<defs><pattern id="hunter-script-table-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="900" fill="#f1f5f8"/>
+<rect width="640" height="900" fill="url(#hunter-script-table-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">ひらがな 1 字に 1 つの文字が対応する</text>
+<text x="139.0" y="88" font-size="15" font-weight="800" text-anchor="middle" fill="#46515c">あ段</text>
+<text x="241.0" y="88" font-size="15" font-weight="800" text-anchor="middle" fill="#46515c">い段</text>
+<text x="343.0" y="88" font-size="15" font-weight="800" text-anchor="middle" fill="#46515c">う段</text>
+<text x="445.0" y="88" font-size="15" font-weight="800" text-anchor="middle" fill="#46515c">え段</text>
+<text x="547.0" y="88" font-size="15" font-weight="800" text-anchor="middle" fill="#46515c">お段</text>
+<text x="46" y="140" font-size="15" font-weight="800" text-anchor="middle" fill="#46515c">あ行</text>
+<g transform="translate(110.0,104.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="12,8 50,92 88,8"/><line x1="27" y1="38" x2="73" y2="38"/></g>
+<text x="172" y="144" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">あ</text>
+<g transform="translate(212.0,104.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="52" r="22" fill="currentColor" stroke="none"/></g>
+<text x="274" y="144" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">い</text>
+<g transform="translate(314.0,104.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M22,92 V40 A28,28 0 0 1 78,40 V92"/></g>
+<text x="376" y="144" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">う</text>
+<g transform="translate(416.0,104.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polygon points="50,8 92,90 8,90"/></g>
+<text x="478" y="144" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">え</text>
+<g transform="translate(518.0,104.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="50" r="40"/></g>
+<text x="580" y="144" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">お</text>
+<text x="46" y="210" font-size="15" font-weight="800" text-anchor="middle" fill="#46515c">か行</text>
+<g transform="translate(110.0,174.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="15,10 48,84 85,10"/><line x1="10" y1="88" x2="90" y2="88"/></g>
+<text x="172" y="214" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">か</text>
+<g transform="translate(212.0,174.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="8" x2="22" y2="92"/><circle cx="48" cy="54" r="22" fill="currentColor" stroke="none"/></g>
+<text x="274" y="214" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">き</text>
+<g transform="translate(314.0,174.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M14,8 V62 A15,15 0 0 0 44,62 V8"/><line x1="44" y1="56" x2="86" y2="10"/><line x1="58" y1="44" x2="90" y2="88"/></g>
+<text x="376" y="214" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">く</text>
+<g transform="translate(416.0,174.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="14" y1="8" x2="14" y2="92"/><polygon points="88,10 30,50 88,90"/></g>
+<text x="478" y="214" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">け</text>
+<g transform="translate(518.0,174.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="12,70 12,12 84,12 84,46"/><circle cx="66" cy="68" r="20"/></g>
+<text x="580" y="214" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">こ</text>
+<text x="46" y="280" font-size="15" font-weight="800" text-anchor="middle" fill="#46515c">さ行</text>
+<g transform="translate(110.0,244.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M14,8 V68 A16,16 0 0 0 46,68 V32 A16,16 0 0 1 78,32 V92"/></g>
+<text x="172" y="284" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">さ</text>
+<g transform="translate(212.0,244.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="10" y1="12" x2="90" y2="12"/><line x1="10" y1="34" x2="90" y2="34"/><circle cx="50" cy="68" r="18" fill="currentColor" stroke="none"/></g>
+<text x="274" y="284" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">し</text>
+<g transform="translate(314.0,244.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M10,14 H34 Q46,14 52,26 L88,90"/><path d="M10,86 H44 L62,52"/></g>
+<text x="376" y="284" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">す</text>
+<g transform="translate(416.0,244.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="52,8 10,54 90,54 48,94 48,54"/><line x1="52" y1="8" x2="52" y2="54"/></g>
+<text x="478" y="284" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">せ</text>
+<g transform="translate(518.0,244.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="30" r="17"/><circle cx="50" cy="70" r="20"/></g>
+<text x="580" y="284" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">そ</text>
+<text x="46" y="350" font-size="15" font-weight="800" text-anchor="middle" fill="#46515c">た行</text>
+<g transform="translate(110.0,314.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="50" y1="8" x2="50" y2="88"/><line x1="10" y1="88" x2="90" y2="88"/></g>
+<text x="172" y="354" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">た</text>
+<g transform="translate(212.0,314.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="50" y1="4" x2="50" y2="52"/><line x1="10" y1="30" x2="90" y2="30"/><circle cx="50" cy="68" r="20" fill="currentColor" stroke="none"/></g>
+<text x="274" y="354" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">ち</text>
+<g transform="translate(314.0,314.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M18,8 V58 A32,32 0 0 0 82,58 V8"/><line x1="38" y1="8" x2="38" y2="56"/><line x1="60" y1="8" x2="60" y2="40"/></g>
+<text x="376" y="354" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">つ</text>
+<g transform="translate(416.0,314.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="10" y1="8" x2="90" y2="8"/><polygon points="14,24 86,24 50,92"/></g>
+<text x="478" y="354" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">て</text>
+<g transform="translate(518.0,314.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="50" r="30"/><line x1="50" y1="4" x2="50" y2="96"/></g>
+<text x="580" y="354" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">と</text>
+<text x="46" y="420" font-size="15" font-weight="800" text-anchor="middle" fill="#46515c">な行</text>
+<g transform="translate(110.0,384.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="12,12 88,12 12,88 88,88"/></g>
+<text x="172" y="424" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">な</text>
+<g transform="translate(212.0,384.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="16" y1="10" x2="84" y2="10"/><line x1="10" y1="90" x2="90" y2="90"/><circle cx="50" cy="50" r="20" fill="currentColor" stroke="none"/></g>
+<text x="274" y="424" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">に</text>
+<g transform="translate(314.0,384.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M18,92 V36 A32,30 0 0 1 82,36 V92"/><line x1="24" y1="30" x2="82" y2="92"/></g>
+<text x="376" y="424" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">ぬ</text>
+<g transform="translate(416.0,384.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="16" y1="10" x2="16" y2="90"/><line x1="84" y1="10" x2="84" y2="90"/><line x1="16" y1="10" x2="84" y2="90"/><line x1="16" y1="90" x2="84" y2="10"/></g>
+<text x="478" y="424" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">ね</text>
+<g transform="translate(518.0,384.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="34" cy="32" r="20"/><path d="M84,8 V62 A26,26 0 0 1 58,88 H18"/></g>
+<text x="580" y="424" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">の</text>
+<text x="46" y="490" font-size="15" font-weight="800" text-anchor="middle" fill="#46515c">は行</text>
+<g transform="translate(110.0,454.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="12" x2="88" y2="12"/><line x1="12" y1="88" x2="88" y2="88"/><line x1="50" y1="12" x2="50" y2="88"/></g>
+<text x="172" y="494" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">は</text>
+<g transform="translate(212.0,454.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="14,10 14,90 90,90"/><circle cx="58" cy="36" r="21" fill="currentColor" stroke="none"/></g>
+<text x="274" y="494" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">ひ</text>
+<g transform="translate(314.0,454.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M10,12 H52 A38,38 0 0 1 52,88 H10"/></g>
+<text x="376" y="494" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">ふ</text>
+<g transform="translate(416.0,454.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="10" y1="10" x2="90" y2="10"/><polygon points="50,26 88,88 12,88"/></g>
+<text x="478" y="494" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">へ</text>
+<g transform="translate(518.0,454.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="50" r="40"/><line x1="50" y1="10" x2="50" y2="90"/><line x1="10" y1="50" x2="90" y2="50"/></g>
+<text x="580" y="494" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">ほ</text>
+<text x="46" y="560" font-size="15" font-weight="800" text-anchor="middle" fill="#46515c">ま行</text>
+<g transform="translate(110.0,524.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="88,12 14,12 62,50 14,88 88,88"/></g>
+<text x="172" y="564" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">ま</text>
+<g transform="translate(212.0,524.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="28" r="21" fill="currentColor" stroke="none"/><line x1="22" y1="62" x2="22" y2="92"/><line x1="50" y1="62" x2="50" y2="92"/><line x1="78" y1="62" x2="78" y2="92"/></g>
+<text x="274" y="564" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">み</text>
+<g transform="translate(314.0,524.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="34,10 20,84 44,80"/><path d="M44,48 V68 A19,19 0 0 0 82,68 V48"/></g>
+<text x="376" y="564" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">む</text>
+<g transform="translate(416.0,524.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="10" x2="86" y2="90"/><line x1="12" y1="90" x2="86" y2="10"/><line x1="86" y1="10" x2="86" y2="90"/></g>
+<text x="478" y="564" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">め</text>
+<g transform="translate(518.0,524.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="10" y1="12" x2="90" y2="12"/><line x1="10" y1="34" x2="90" y2="34"/><line x1="50" y1="2" x2="50" y2="50"/><circle cx="50" cy="72" r="20"/></g>
+<text x="580" y="564" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">も</text>
+<text x="46" y="630" font-size="15" font-weight="800" text-anchor="middle" fill="#46515c">や行</text>
+<g transform="translate(110.0,594.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="12,10 48,50 12,90"/><line x1="48" y1="50" x2="90" y2="50"/></g>
+<text x="172" y="634" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">や</text>
+<g transform="translate(314.0,594.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="12,10 50,10 50,40"/><path d="M16,92 V66 A34,28 0 0 1 84,66 V92"/></g>
+<text x="376" y="634" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">ゆ</text>
+<g transform="translate(518.0,594.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="26" r="18"/><line x1="50" y1="44" x2="50" y2="92"/></g>
+<text x="580" y="634" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">よ</text>
+<text x="46" y="700" font-size="15" font-weight="800" text-anchor="middle" fill="#46515c">ら行</text>
+<g transform="translate(110.0,664.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="84,10 84,88 10,88"/></g>
+<text x="172" y="704" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">ら</text>
+<g transform="translate(212.0,664.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="34" r="22" fill="currentColor" stroke="none"/><line x1="34" y1="66" x2="14" y2="92"/><line x1="66" y1="66" x2="86" y2="92"/></g>
+<text x="274" y="704" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">り</text>
+<g transform="translate(314.0,664.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M34,8 V72 A16,16 0 0 1 18,88 H12"/><path d="M52,8 V64 A16,16 0 0 0 84,64 V8"/></g>
+<text x="376" y="704" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">る</text>
+<g transform="translate(416.0,664.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polygon points="10,10 90,10 48,54"/><line x1="48" y1="54" x2="48" y2="92"/><line x1="48" y1="92" x2="82" y2="60"/></g>
+<text x="478" y="704" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">れ</text>
+<g transform="translate(518.0,664.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="32" r="22"/><line x1="36" y1="50" x2="12" y2="90"/><line x1="64" y1="50" x2="88" y2="90"/></g>
+<text x="580" y="704" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">ろ</text>
+<line x1="24" y1="728" x2="616" y2="728" stroke="#b9c5ce" stroke-width="2" stroke-linecap="round"/>
+<text x="24" y="752" font-size="13" font-weight="800" text-anchor="start" fill="#46515c">わ・を・ん・長音 (段の列にはそろえない)</text>
+<g transform="translate(110.0,762.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="12,92 34,8 56,92"/><polyline points="36,92 60,8 84,92"/></g>
+<text x="172" y="802" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">わ</text>
+<g transform="translate(212.0,762.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="86,8 14,90 86,90"/><line x1="42" y1="58" x2="86" y2="58"/></g>
+<text x="274" y="802" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">を</text>
+<g transform="translate(314.0,762.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="32" cy="30" r="23" fill="currentColor" stroke="none"/><line x1="14" y1="92" x2="86" y2="24"/></g>
+<text x="376" y="802" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">ん</text>
+<g transform="translate(416.0,762.0) scale(0.480)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="30" y1="50" x2="70" y2="50"/><line x1="30" y1="50" x2="12" y2="34"/><line x1="30" y1="50" x2="12" y2="66"/><line x1="70" y1="50" x2="88" y2="34"/><line x1="70" y1="50" x2="88" y2="66"/></g>
+<text x="478" y="802" font-size="18" font-weight="800" text-anchor="start" fill="#1f62d6">ー</text>
+<line x1="24" y1="816" x2="616" y2="816" stroke="#b9c5ce" stroke-width="2" stroke-linecap="round"/>
+<g transform="translate(50.0,848.0) scale(0.200)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M18,8 V58 A32,32 0 0 0 82,58 V8"/><line x1="38" y1="8" x2="38" y2="56"/><line x1="60" y1="8" x2="60" y2="40"/></g>
+<text x="104" y="858" font-size="15" font-weight="800" text-anchor="start" fill="#1f62d6">小さい っ</text>
+<g transform="translate(230.0,830.0) scale(0.400)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="15,10 48,84 85,10"/><line x1="10" y1="88" x2="90" y2="88"/><circle cx="114" cy="98" r="8" fill="currentColor" stroke="none"/></g>
+<text x="294" y="858" font-size="15" font-weight="800" text-anchor="start" fill="#1f62d6">濁点 が</text>
+<g transform="translate(420.0,830.0) scale(0.400)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="12" x2="88" y2="12"/><line x1="12" y1="88" x2="88" y2="88"/><line x1="50" y1="12" x2="50" y2="88"/><circle cx="114" cy="98" r="7" stroke-width="5"/></g>
+<text x="484" y="858" font-size="15" font-weight="800" text-anchor="start" fill="#1f62d6">半濁点 ぱ</text>
+<text x="24" y="890" font-size="14" font-weight="600" text-anchor="start" fill="#46515c">字形は筆者が解読表をもとに描き起こしたもので、公式の画像ではない</text>
+</svg>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 590" width="640" height="590" role="img" aria-labelledby="hunter-script-rules-title hunter-script-rules-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="hunter-script-rules-title">ハンター文字の段ごとの作り</title>
+<desc id="hunter-script-rules-desc">あ段はローマ字の子音の大文字を倒したり逆さにしたりした形、い段は黒丸、う段は逆さの U、え段は三角、お段は丸をもとにして、い段からお段はそのもとの形に線を足した形になることを、5 つの段と例で示す。</desc>
+<defs><pattern id="hunter-script-rules-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="590" fill="#f1f5f8"/>
+<rect width="640" height="590" fill="url(#hunter-script-rules-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">段ごとに決まったもとの形がある</text>
+<rect x="16" y="72" width="608" height="86" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="30" y="104" font-size="19" font-weight="800" text-anchor="start" fill="#d92d20">あ段</text>
+<text x="30" y="132" font-size="13" font-weight="700" text-anchor="start" fill="#46515c">ローマ字の子音を倒す・逆さにする</text>
+<g transform="translate(260.0,84.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="12,8 50,92 88,8"/><line x1="27" y1="38" x2="73" y2="38"/></g>
+<text x="310" y="106" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">あ</text>
+<text x="281" y="150" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">A を逆さ</text>
+<g transform="translate(352.0,84.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="15,10 48,84 85,10"/><line x1="10" y1="88" x2="90" y2="88"/></g>
+<text x="402" y="106" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">か</text>
+<text x="373" y="150" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">K を左へ</text>
+<g transform="translate(444.0,84.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M14,8 V68 A16,16 0 0 0 46,68 V32 A16,16 0 0 1 78,32 V92"/></g>
+<text x="494" y="106" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">さ</text>
+<text x="465" y="150" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">S を右へ</text>
+<g transform="translate(536.0,84.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="12,12 88,12 12,88 88,88"/></g>
+<text x="586" y="106" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">な</text>
+<text x="557" y="150" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">N を右へ</text>
+<rect x="16" y="168" width="608" height="86" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="30" y="200" font-size="19" font-weight="800" text-anchor="start" fill="#d92d20">い段</text>
+<text x="30" y="228" font-size="13" font-weight="700" text-anchor="start" fill="#46515c">黒丸 (い) に線を足す</text>
+<g transform="translate(260.0,180.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="52" r="22" fill="currentColor" stroke="none"/></g>
+<text x="310" y="202" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">い</text>
+<g transform="translate(352.0,180.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="8" x2="22" y2="92"/><circle cx="48" cy="54" r="22" fill="currentColor" stroke="none"/></g>
+<text x="402" y="202" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">き</text>
+<text x="373" y="246" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">左に縦棒</text>
+<g transform="translate(444.0,180.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="10" y1="12" x2="90" y2="12"/><line x1="10" y1="34" x2="90" y2="34"/><circle cx="50" cy="68" r="18" fill="currentColor" stroke="none"/></g>
+<text x="494" y="202" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">し</text>
+<text x="465" y="246" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">上に 2 本</text>
+<g transform="translate(536.0,180.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="50" y1="4" x2="50" y2="52"/><line x1="10" y1="30" x2="90" y2="30"/><circle cx="50" cy="68" r="20" fill="currentColor" stroke="none"/></g>
+<text x="586" y="202" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">ち</text>
+<text x="557" y="246" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">上に十字</text>
+<rect x="16" y="264" width="608" height="86" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="30" y="296" font-size="19" font-weight="800" text-anchor="start" fill="#d92d20">う段</text>
+<text x="30" y="324" font-size="13" font-weight="700" text-anchor="start" fill="#46515c">逆さの U (う) に線を足す</text>
+<g transform="translate(260.0,276.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M22,92 V40 A28,28 0 0 1 78,40 V92"/></g>
+<text x="310" y="298" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">う</text>
+<g transform="translate(352.0,276.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M14,8 V62 A15,15 0 0 0 44,62 V8"/><line x1="44" y1="56" x2="86" y2="10"/><line x1="58" y1="44" x2="90" y2="88"/></g>
+<text x="402" y="298" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">く</text>
+<text x="373" y="342" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">右に &lt;</text>
+<g transform="translate(444.0,276.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M18,8 V58 A32,32 0 0 0 82,58 V8"/><line x1="38" y1="8" x2="38" y2="56"/><line x1="60" y1="8" x2="60" y2="40"/></g>
+<text x="494" y="298" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">つ</text>
+<text x="465" y="342" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">中に棒</text>
+<g transform="translate(536.0,276.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M18,92 V36 A32,30 0 0 1 82,36 V92"/><line x1="24" y1="30" x2="82" y2="92"/></g>
+<text x="586" y="298" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">ぬ</text>
+<text x="557" y="342" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">斜めの線</text>
+<rect x="16" y="360" width="608" height="86" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="30" y="392" font-size="19" font-weight="800" text-anchor="start" fill="#d92d20">え段</text>
+<text x="30" y="420" font-size="13" font-weight="700" text-anchor="start" fill="#46515c">三角 (え) に線を足す</text>
+<g transform="translate(260.0,372.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polygon points="50,8 92,90 8,90"/></g>
+<text x="310" y="394" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">え</text>
+<g transform="translate(352.0,372.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="14" y1="8" x2="14" y2="92"/><polygon points="88,10 30,50 88,90"/></g>
+<text x="402" y="394" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">け</text>
+<text x="373" y="438" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">倒して縦棒</text>
+<g transform="translate(444.0,372.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="10" y1="8" x2="90" y2="8"/><polygon points="14,24 86,24 50,92"/></g>
+<text x="494" y="394" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">て</text>
+<text x="465" y="438" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">逆さ+横棒</text>
+<g transform="translate(536.0,372.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="10" y1="10" x2="90" y2="10"/><polygon points="50,26 88,88 12,88"/></g>
+<text x="586" y="394" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">へ</text>
+<text x="557" y="438" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">上に横棒</text>
+<rect x="16" y="456" width="608" height="86" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="30" y="488" font-size="19" font-weight="800" text-anchor="start" fill="#d92d20">お段</text>
+<text x="30" y="516" font-size="13" font-weight="700" text-anchor="start" fill="#46515c">丸 (お) に線を足す</text>
+<g transform="translate(260.0,468.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="50" r="40"/></g>
+<text x="310" y="490" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">お</text>
+<g transform="translate(352.0,468.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="12,70 12,12 84,12 84,46"/><circle cx="66" cy="68" r="20"/></g>
+<text x="402" y="490" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">こ</text>
+<text x="373" y="534" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">コを倒す</text>
+<g transform="translate(444.0,468.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="50" r="30"/><line x1="50" y1="4" x2="50" y2="96"/></g>
+<text x="494" y="490" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">と</text>
+<text x="465" y="534" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">縦に棒</text>
+<g transform="translate(536.0,468.0) scale(0.420)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="50" r="40"/><line x1="50" y1="10" x2="50" y2="90"/><line x1="10" y1="50" x2="90" y2="50"/></g>
+<text x="586" y="490" font-size="16" font-weight="800" text-anchor="start" fill="#1f62d6">ほ</text>
+<text x="557" y="534" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">十字</text>
+<text x="24" y="574" font-size="14" font-weight="600" text-anchor="start" fill="#46515c">「を」と「ん」は決まりの外の形。小さい字は下に小さく、濁点は右下に ● を書く</text>
+</svg>

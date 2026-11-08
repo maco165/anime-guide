@@ -360,3 +360,17 @@ sources:
     terms_url: null
     permission: 不要
     checked_at: 2026-11-08
+  - id: src-052
+    url: https://renote.net/articles/37847
+    kind: 解説記事 (ハンター文字、1 ページ目)
+    rights_holder: RENOTE の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-053
+    url: https://renote.net/articles/37847/page/2
+    kind: 解説記事 (ハンター文字、2 ページ目)
+    rights_holder: RENOTE の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
