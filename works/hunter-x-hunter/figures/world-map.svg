@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 860" width="640" height="860" role="img" aria-labelledby="world-map-title world-map-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="world-map-title">HUNTER×HUNTER の世界の模式図</title>
+<desc id="world-map-desc">人の住む世界が暗黒大陸の中のメビウス湖の中心にあり、その中にヨルビアン大陸 (西の端にヨークシンシティ、その真東の海にグリードアイランド)、アイジエン大陸 (中央にカキン帝国)、ミテネ連邦と東ゴルトー共和国があることを示す自作の模式図。各編の舞台を吹き出しで示す。大陸の形と互いの位置は筆者が決めたもので、公式の地図ではない。所在が確かめられない舞台は下の枠に並べる。</desc>
+<defs><pattern id="world-map-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="860" fill="#f1f5f8"/>
+<rect width="640" height="860" fill="url(#world-map-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">世界の模式図と各編の舞台</text>
+<rect x="16" y="68" width="608" height="560" rx="18" fill="#5b4a3a"/>
+<text x="32" y="92" font-size="15" font-weight="800" text-anchor="start" fill="#f4ead8">暗黒大陸 (原作のみ)</text>
+<ellipse cx="320" cy="350" rx="268" ry="238" fill="#cfe3f3" stroke="#8fb6d6" stroke-width="3"/>
+<text x="320" y="136" font-size="15" font-weight="800" text-anchor="middle" fill="#1f62d6">メビウス湖</text>
+<text x="320" y="86" font-size="13" font-weight="800" text-anchor="middle" fill="#f4ead8">北: ブリオン</text>
+<text x="560" y="112" font-size="13" font-weight="800" text-anchor="middle" fill="#f4ead8">北東: パプ</text>
+<text x="548" y="612" font-size="13" font-weight="800" text-anchor="middle" fill="#f4ead8">南東: ヘルベル</text>
+<path d="M84,250 Q90,190 170,186 Q262,180 280,236 Q296,300 236,330 Q160,350 104,318 Q76,292 84,250 Z" fill="#e9dcc0" stroke="#10131a" stroke-width="2.5"/>
+<text x="186" y="214" font-size="14" font-weight="800" text-anchor="middle" fill="#10131a">ヨルビアン大陸</text>
+<circle cx="98" cy="262" r="7" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<text x="116" y="266" font-size="13" font-weight="800" text-anchor="start" fill="#10131a">ヨークシン</text>
+<rect x="196" y="276" width="72" height="24" rx="6" fill="#d8c294"/>
+<text x="232" y="293" font-size="11" font-weight="700" text-anchor="middle" fill="#10131a">ゴルドー砂漠</text>
+<ellipse cx="350" cy="262" rx="26" ry="16" fill="#e9dcc0" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="350" cy="262" r="7" fill="#0b8a5f" stroke="#10131a" stroke-width="2"/>
+<line x1="286" y1="262" x2="322" y2="262" stroke="#46515c" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 6"/>
+<text x="336" y="296" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">ヨークシンの真東</text>
+<path d="M392,300 Q410,236 486,240 Q566,246 570,318 Q574,392 500,410 Q420,420 398,372 Q382,338 392,300 Z" fill="#e9dcc0" stroke="#10131a" stroke-width="2.5"/>
+<text x="482" y="268" font-size="14" font-weight="800" text-anchor="middle" fill="#10131a">アイジエン大陸</text>
+<circle cx="482" cy="330" r="7" fill="#7a3fc4" stroke="#10131a" stroke-width="2"/>
+<text x="482" y="314" font-size="13" font-weight="800" text-anchor="middle" fill="#10131a">カキン帝国</text>
+<text x="482" y="372" font-size="11" font-weight="700" text-anchor="middle" fill="#46515c">移民船の出る国</text>
+<path d="M92,446 Q100,420 160,422 L470,426 Q520,430 520,466 Q518,506 470,508 L150,510 Q96,508 92,476 Z" fill="#e9dcc0" stroke="#10131a" stroke-width="2.5"/>
+<text x="104" y="418" font-size="12" font-weight="800" text-anchor="start" fill="#10131a">ミテネ連邦のある島</text>
+<rect x="104" y="446" width="74" height="38" rx="6" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="141" y="470" font-size="12" font-weight="800" text-anchor="middle" fill="#10131a">NGL</text>
+<rect x="184" y="446" width="74" height="38" rx="6" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="221" y="470" font-size="12" font-weight="800" text-anchor="middle" fill="#10131a">ロカリオ</text>
+<rect x="264" y="446" width="74" height="38" rx="6" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="301" y="470" font-size="12" font-weight="800" text-anchor="middle" fill="#10131a">ハス</text>
+<rect x="344" y="446" width="74" height="38" rx="6" fill="#ffffff" stroke="#10131a" stroke-width="1.5"/>
+<text x="381" y="470" font-size="12" font-weight="800" text-anchor="middle" fill="#10131a">西ゴルトー</text>
+<rect x="424" y="446" width="74" height="38" rx="6" fill="#f3e6c4" stroke="#10131a" stroke-width="1.5"/>
+<text x="461" y="470" font-size="12" font-weight="800" text-anchor="middle" fill="#10131a">東ゴルトー</text>
+<text x="250" y="500" font-size="10" font-weight="700" text-anchor="middle" fill="#46515c">ミテネ連邦の 4 国 (西 → 東)  |  加盟していない東ゴルトー</text>
+<circle cx="141" cy="446" r="7" fill="#e8710a" stroke="#10131a" stroke-width="2"/>
+<circle cx="461" cy="446" r="7" fill="#e8710a" stroke="#10131a" stroke-width="2"/>
+<polygon points="90,180 106,180 98,256" fill="#ffffff" stroke="#d92d20" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="40" y="140" width="150" height="40" rx="10" fill="#ffffff" stroke="#d92d20" stroke-width="2.5"/>
+<rect x="91" y="177" width="14" height="4" fill="#ffffff"/>
+<text x="50" y="160" font-size="14" font-weight="800" text-anchor="start" fill="#d92d20">ヨークシン編</text>
+<text x="50" y="178" font-size="13" font-weight="700" text-anchor="start" fill="#10131a">9 月の大オークション</text>
+<polygon points="342,190 358,190 350,248" fill="#ffffff" stroke="#0b8a5f" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="262" y="150" width="136" height="40" rx="10" fill="#ffffff" stroke="#0b8a5f" stroke-width="2.5"/>
+<rect x="343" y="187" width="14" height="4" fill="#ffffff"/>
+<text x="272" y="170" font-size="14" font-weight="800" text-anchor="start" fill="#0b8a5f">G.I 編</text>
+<text x="272" y="188" font-size="13" font-weight="700" text-anchor="start" fill="#10131a">グリードアイランド</text>
+<polygon points="453,536 469,536 461,452" fill="#ffffff" stroke="#e8710a" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="300" y="536" width="230" height="40" rx="10" fill="#ffffff" stroke="#e8710a" stroke-width="2.5"/>
+<rect x="454" y="537" width="14" height="4" fill="#ffffff"/>
+<text x="310" y="556" font-size="14" font-weight="800" text-anchor="start" fill="#e8710a">キメラ=アント編</text>
+<text x="310" y="574" font-size="13" font-weight="700" text-anchor="start" fill="#10131a">NGL と東ゴルトーが主な舞台</text>
+<polygon points="52,576 68,576 60,612" fill="#ffffff" stroke="#7a3fc4" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="28" y="536" width="250" height="40" rx="10" fill="#ffffff" stroke="#7a3fc4" stroke-width="2.5"/>
+<rect x="53" y="573" width="14" height="4" fill="#ffffff"/>
+<text x="38" y="556" font-size="14" font-weight="800" text-anchor="start" fill="#7a3fc4">暗黒大陸・王位継承編 (原作のみ)</text>
+<text x="38" y="574" font-size="13" font-weight="700" text-anchor="start" fill="#10131a">移民船で暗黒大陸の手前の島へ</text>
+<rect x="16" y="640" width="608" height="186" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="30" y="666" font-size="15" font-weight="800" text-anchor="start" fill="#10131a">場所が確かめられない舞台 (地図の外に置く)</text>
+<text x="30" y="694" font-size="13" font-weight="800" text-anchor="start" fill="#1f62d6">ハンター試験編</text>
+<text x="170" y="694" font-size="13" font-weight="700" text-anchor="start" fill="#10131a">くじら島 (ゴンの故郷)、ザバン市 (会場)</text>
+<text x="30" y="720" font-size="13" font-weight="800" text-anchor="start" fill="#1f62d6">ゾルディック家編</text>
+<text x="170" y="720" font-size="13" font-weight="700" text-anchor="start" fill="#10131a">パドキア共和国のククルーマウンテン</text>
+<text x="30" y="746" font-size="13" font-weight="800" text-anchor="start" fill="#1f62d6">天空闘技場編</text>
+<text x="170" y="746" font-size="13" font-weight="700" text-anchor="start" fill="#10131a">天空闘技場</text>
+<text x="30" y="772" font-size="13" font-weight="800" text-anchor="start" fill="#1f62d6">幻影旅団の出身地</text>
+<text x="170" y="772" font-size="13" font-weight="700" text-anchor="start" fill="#10131a">流星街</text>
+<text x="30" y="798" font-size="13" font-weight="800" text-anchor="start" fill="#1f62d6">会長選挙・アルカ編</text>
+<text x="170" y="798" font-size="13" font-weight="700" text-anchor="start" fill="#10131a">ハンター協会本部</text>
+<text x="24" y="848" font-size="11" font-weight="600" text-anchor="start" fill="#46515c">筆者の模式図で公式の地図ではない。大陸の形と互いの位置は任意。位置はどれも 1 サイトのみ (Wikipedia)</text>
+</svg>
