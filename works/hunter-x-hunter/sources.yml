@@ -241,3 +241,10 @@ sources:
     terms_url: null
     permission: 不要
     checked_at: 2026-11-08
+  - id: src-035
+    url: https://ja.wikipedia.org/wiki/%E5%B9%BB%E5%BD%B1%E6%97%85%E5%9B%A3
+    kind: 百科事典 (幻影旅団)
+    rights_holder: Wikipedia の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08

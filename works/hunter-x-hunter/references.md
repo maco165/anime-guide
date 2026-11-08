@@ -24,19 +24,19 @@ spoiler: 設定のネタバレを含む
 | 種類 | 件数 |
 | --- | --- |
 | 公式 | 0 |
-| 事典・Wiki | 18 |
+| 事典・Wiki | 19 |
 | 学術 | 0 |
 | データベース | 0 |
 | 解説・まとめ | 15 |
 | 考察 | 0 |
 | その他 | 1 |
-| 合計 | 34 |
+| 合計 | 35 |
 
 ## 出典の一覧
 
 権利者の「不明」は、権利者を確定できなかったものです。許諾の「不要」は、出典の文章を転載していないものです。
 
-### 事典・Wiki (18 件)
+### 事典・Wiki (19 件)
 
 | id | 種類 | URL | 権利者 | 確認日 | 許諾 | 使っている箇所 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -58,6 +58,7 @@ spoiler: 設定のネタバレを含む
 | src-030 | 百科事典 (登場人物) | [https://ja.wikipedia.org/wiki/HUNTER×HUNTERの登場人物](https://ja.wikipedia.org/wiki/HUNTER%C3%97HUNTER%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9) | Wikipedia の執筆者 | 2026-11-08 | 不要 | [世界観](world.md) 図 3-5、図 3-7、本文<br>[能力](abilities.md) 本文 |
 | src-032 | 用語事典 (グリードアイランド) | [https://mangapedia.com/gd/7oi4w9eaq](https://mangapedia.com/gd/7oi4w9eaq) | マンガペディアの記事の筆者 | 2026-11-08 | 不要 | [世界観](world.md) 図 3-7、本文 |
 | src-034 | 百科事典 (キメラ=アント) | [https://ja.wikipedia.org/wiki/キメラ＝アント](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A1%E3%83%A9%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88) | Wikipedia の執筆者 | 2026-11-08 | 不要 | [能力](abilities.md) 本文 |
+| src-035 | 百科事典 (幻影旅団) | [https://ja.wikipedia.org/wiki/幻影旅団](https://ja.wikipedia.org/wiki/%E5%B9%BB%E5%BD%B1%E6%97%85%E5%9B%A3) | Wikipedia の執筆者 | 2026-11-08 | 不要 | [世界観](world.md) 本文<br>[能力](abilities.md) 本文 |
 
 ### 解説・まとめ (15 件)
 
