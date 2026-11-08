@@ -304,3 +304,59 @@ sources:
     terms_url: null
     permission: 不要
     checked_at: 2026-11-08
+  - id: src-044
+    url: https://www.universal-music.co.jp/cinema/hunter-gungi/
+    kind: 公式サイト (商品の解説)
+    rights_holder: ユニバーサル ミュージック
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-045
+    url: https://www.universal-music.co.jp/other/hunter-gungi__qa/
+    kind: 公式サイト (商品の Q&A)
+    rights_holder: ユニバーサル ミュージック
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-046
+    url: https://www.famitsu.com/news/202202/14250581.html
+    kind: ニュース記事 (遊んでみた記事)
+    rights_holder: ファミ通の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-047
+    url: https://www.famitsu.com/news/202202/14250852.html
+    kind: ニュース記事 (発売の発表)
+    rights_holder: ファミ通の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-048
+    url: https://www.famitsu.com/news/202206/17265239.html
+    kind: ニュース記事 (2 回目の受注)
+    rights_holder: ファミ通の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-049
+    url: https://www.gizmodo.jp/2022/02/hunterxhuter-gungi.html
+    kind: ニュース記事 (ルールの紹介)
+    rights_holder: ギズモード・ジャパンの記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-050
+    url: https://news.denfaminicogamer.jp/news/220216i
+    kind: ニュース記事 (先手必勝の指摘)
+    rights_holder: 電ファミニコゲーマーの記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-051
+    url: https://dengekionline.com/articles/118689/
+    kind: ニュース記事 (発売の発表)
+    rights_holder: 電撃オンラインの記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08

@@ -21,7 +21,7 @@
 | 作品 | ページ |
 |---|---|
 | [<img src="works/fullmetal-alchemist/card.svg" width="320" alt="鋼の錬金術師 FULLMETAL ALCHEMIST">](works/fullmetal-alchemist/world.md) | [世界観](works/fullmetal-alchemist/world.md) · [能力の図鑑](works/fullmetal-alchemist/abilities.md) · [ホムンクルスと七つの大罪](works/fullmetal-alchemist/seven-sins.md) · [コラム](works/fullmetal-alchemist/column.md) · [参照ページ](works/fullmetal-alchemist/references.md) |
-| [<img src="works/hunter-x-hunter/card.svg" width="320" alt="HUNTER×HUNTER ハンターハンター">](works/hunter-x-hunter/world.md) | [世界観](works/hunter-x-hunter/world.md) · [能力の一覧](works/hunter-x-hunter/abilities.md) · [参照ページ](works/hunter-x-hunter/references.md) |
+| [<img src="works/hunter-x-hunter/card.svg" width="320" alt="HUNTER×HUNTER ハンターハンター">](works/hunter-x-hunter/world.md) | [世界観](works/hunter-x-hunter/world.md) · [能力の一覧](works/hunter-x-hunter/abilities.md) · [軍儀](works/hunter-x-hunter/gungi.md) · [参照ページ](works/hunter-x-hunter/references.md) |
 
 ## 読み方
 
