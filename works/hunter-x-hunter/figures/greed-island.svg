@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 560" width="640" height="560" role="img" aria-labelledby="greed-island-title greed-island-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif" data-sources="src-029 src-030 src-031 src-032 src-033">
+<title id="greed-island-title">グリードアイランドのカード</title>
+<desc id="greed-island-desc">ジンと仲間が念で作った念能力者専用のゲームで、念を込めて起動する。指定ポケットカードは No.000 から No.099 の 100 種で、001 から 099 をそろえると出題されるクイズの優勝者に No.000 の支配者の祝福が与えられ、クリアすると指定ポケットカードを 3 枚まで現実に持ち帰れることを示す。</desc>
+<defs><pattern id="greed-island-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="560" fill="#f1f5f8"/>
+<rect width="640" height="560" fill="url(#greed-island-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">指定ポケットは 100 種、持ち帰りは 3 枚</text>
+<rect x="16" y="72" width="608" height="84" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="72" width="608" height="30" rx="0" fill="#0b8a5f" stroke="#10131a" stroke-width="3"/>
+<text x="320.0" y="94" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">ゲームの成り立ち</text>
+<text x="30" y="125" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">ジンと仲間が念で作った、念能力者専用のゲーム。念を込めて起動</text>
+<rect x="30" y="180" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="82" y="180" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="134" y="180" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="186" y="180" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="238" y="180" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="290" y="180" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="342" y="180" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="394" y="180" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="446" y="180" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="498" y="180" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="550" y="180" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="30" y="246" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="82" y="246" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="134" y="246" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="186" y="246" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="238" y="246" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="290" y="246" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="342" y="246" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="394" y="246" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="446" y="246" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="498" y="246" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="550" y="246" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="30" y="312" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="82" y="312" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="134" y="312" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="186" y="312" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="238" y="312" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="290" y="312" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="342" y="312" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="394" y="312" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="446" y="312" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="498" y="312" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<rect x="550" y="312" width="42" height="56" rx="3" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="320" y="398" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">001〜099 の 99 種をそろえる (図の札は一部)</text>
+<path d="M320 410 L320.0 424.0" fill="none" stroke="#10131a" stroke-width="4" stroke-linecap="round"/>
+<polygon points="320,438 330.0,424.0 310.0,424.0" fill="#10131a" stroke="#10131a" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="170" y="444" width="300" height="56" rx="4" fill="#f5b700" stroke="#10131a" stroke-width="3"/>
+<text x="320" y="480" font-size="19" font-weight="800" text-anchor="middle" fill="#10131a">クイズの優勝者に No.000</text>
+<text x="320" y="524" font-size="17" font-weight="800" text-anchor="middle" fill="#d92d20">クリアの報酬: 指定ポケットカードを 3 枚まで現実へ</text>
+<text x="24" y="548" font-size="17" font-weight="600" text-anchor="start" fill="#46515c">作り手は 3 サイトで一致。念で作ったこと、起動、報酬は 1 サイトのみ</text>
+</svg>

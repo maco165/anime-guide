@@ -1,0 +1,145 @@
+# 調べるときに開けなかった元の一覧です。references.md の「読めなかった元」はここから生成します。
+# 中身を読んでいないので、sources.yml には入れません。pages は、その元を探していたページです。
+unreachable:
+- url: https://dic.pixiv.net/a/%E5%BF%B5%E8%83%BD%E5%8A%9B
+  reason: HTTP 403 (自動の取得を拒否)
+  checked_at: 2026-11-08
+  pages:
+  - world
+  - abilities
+- url: https://dic.pixiv.net/a/%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E5%8D%94%E4%BC%9A
+  reason: HTTP 403 (自動の取得を拒否)
+  checked_at: 2026-11-08
+  pages:
+  - world
+- url: https://dic.pixiv.net/a/NGL
+  reason: HTTP 403 (自動の取得を拒否)
+  checked_at: 2026-11-08
+  pages:
+  - world
+- url: https://hunterxhunter.fandom.com/wiki/Nen
+  reason: HTTP 402 (自動の取得を拒否)
+  checked_at: 2026-11-08
+  pages:
+  - world
+  - abilities
+- url: https://hunterxhunter.fandom.com/wiki/Hunter_Association
+  reason: HTTP 402 (自動の取得を拒否)
+  checked_at: 2026-11-08
+  pages:
+  - world
+- url: https://hunterxhunter.fandom.com/wiki/Hunter_Bylaws
+  reason: HTTP 402 (自動の取得を拒否)
+  checked_at: 2026-11-08
+  pages:
+  - world
+- url: https://hunterxhunter.fandom.com/wiki/Hunter_Exam
+  reason: HTTP 402 (自動の取得を拒否)
+  checked_at: 2026-11-08
+  pages:
+  - world
+- url: https://hunterxhunter.fandom.com/wiki/Heavens_Arena
+  reason: HTTP 402 (自動の取得を拒否)
+  checked_at: 2026-11-08
+  pages:
+  - world
+- url: https://hunterxhunter.fandom.com/wiki/Greed_Island
+  reason: HTTP 402 (自動の取得を拒否)
+  checked_at: 2026-11-08
+  pages:
+  - world
+- url: https://hunterxhunter.fandom.com/wiki/Meteor_City
+  reason: HTTP 402 (自動の取得を拒否)
+  checked_at: 2026-11-08
+  pages:
+  - world
+- url: https://hunterxhunter.fandom.com/wiki/Welfin
+  reason: HTTP 402 (自動の取得を拒否)
+  checked_at: 2026-11-08
+  pages:
+  - abilities
+- url: https://hunterxhunter.fandom.com/wiki/Ikalgo
+  reason: HTTP 402 (自動の取得を拒否)
+  checked_at: 2026-11-08
+  pages:
+  - abilities
+- url: https://hunterxhunter.fandom.com/wiki/Meleoron
+  reason: HTTP 402 (自動の取得を拒否)
+  checked_at: 2026-11-08
+  pages:
+  - abilities
+- url: https://hunterxhunter.fandom.com/wiki/Neon_Nostrade
+  reason: HTTP 402 (自動の取得を拒否)
+  checked_at: 2026-11-08
+  pages:
+  - abilities
+- url: https://hunterxhunter.fandom.com/wiki/Senritsu
+  reason: HTTP 402 (自動の取得を拒否)
+  checked_at: 2026-11-08
+  pages:
+  - abilities
+- url: https://dic.nicovideo.jp/a/%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E5%8D%94%E4%BC%9A
+  reason: HTTP 404 (記事が無い)
+  checked_at: 2026-11-08
+  pages:
+  - world
+- url: https://dic.nicovideo.jp/a/%E5%A4%A9%E7%A9%BA%E9%97%98%E6%8A%80%E5%A0%B4
+  reason: HTTP 404 (記事が無い)
+  checked_at: 2026-11-08
+  pages:
+  - world
+- url: https://dic.nicovideo.jp/a/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%89%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89
+  reason: HTTP 404 (記事が無い)
+  checked_at: 2026-11-08
+  pages:
+  - world
+- url: https://dic.nicovideo.jp/a/%E3%83%9E%E3%83%95%E3%82%A3%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BC
+  reason: HTTP 404 (記事が無い)
+  checked_at: 2026-11-08
+  pages:
+  - world
+- url: https://dic.nicovideo.jp/a/%E9%99%B0%E7%8D%A3
+  reason: HTTP 404 (記事が無い)
+  checked_at: 2026-11-08
+  pages:
+  - world
+- url: https://dic.nicovideo.jp/a/%E3%82%B7%E3%83%AB%E3%83%90=%E3%82%BE%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF
+  reason: HTTP 404 (記事名が違う可能性)
+  checked_at: 2026-11-08
+  pages:
+  - abilities
+- url: https://dic.nicovideo.jp/a/%E3%82%BC%E3%83%8E=%E3%82%BE%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF
+  reason: HTTP 404 (記事名が違う可能性)
+  checked_at: 2026-11-08
+  pages:
+  - abilities
+- url: https://dic.nicovideo.jp/a/%E3%82%AB%E3%83%AB%E3%83%88=%E3%82%BE%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF
+  reason: HTTP 404 (記事名が違う可能性)
+  checked_at: 2026-11-08
+  pages:
+  - abilities
+- url: https://dic.nicovideo.jp/a/%E3%83%84%E3%82%A7%E3%82%BA%E3%82%B2%E3%83%A9
+  reason: HTTP 404 (記事が無い)
+  checked_at: 2026-11-08
+  pages:
+  - abilities
+- url: https://dic.nicovideo.jp/a/%E3%83%8A%E3%83%83%E3%82%AF%E3%83%AB=%E3%83%90%E3%82%A4%E3%83%B3
+  reason: HTTP 404 (記事名が違う可能性)
+  checked_at: 2026-11-08
+  pages:
+  - abilities
+- url: https://dic.nicovideo.jp/a/%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88=%E3%83%9E%E3%82%AF%E3%83%9E%E3%83%9B%E3%83%B3
+  reason: HTTP 404 (記事名が違う可能性)
+  checked_at: 2026-11-08
+  pages:
+  - abilities
+- url: https://dic.nicovideo.jp/a/%E3%83%A2%E3%83%A9%E3%82%A6=%E3%83%9E%E3%83%83%E3%82%AB%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%B7
+  reason: HTTP 404 (記事名が違う可能性)
+  checked_at: 2026-11-08
+  pages:
+  - abilities
+- url: https://dic.nicovideo.jp/a/%E3%83%8E%E3%83%B4
+  reason: HTTP 404 (記事が無い)
+  checked_at: 2026-11-08
+  pages:
+  - abilities

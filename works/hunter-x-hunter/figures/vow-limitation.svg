@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 500" width="640" height="500" role="img" aria-labelledby="vow-limitation-title vow-limitation-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="vow-limitation-title">制約と誓約の釣り合い</title>
+<desc id="vow-limitation-desc">自分で決めた制約が厳しいほど能力が強くなり、誓約を破ったときの代償も大きくなることを、3 段の目盛りで示す。代償は能力を失うことや命を失うこと。例としてクラピカの鎖を添える。</desc>
+<defs><pattern id="vow-limitation-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="500" fill="#f1f5f8"/>
+<rect width="640" height="500" fill="url(#vow-limitation-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">制約が厳しいほど強く、破れば重い</text>
+<text x="130" y="96" font-size="19" font-weight="800" text-anchor="middle" fill="#10131a">制約の厳しさ</text>
+<text x="320" y="96" font-size="19" font-weight="800" text-anchor="middle" fill="#10131a">能力の強さ</text>
+<text x="510" y="96" font-size="19" font-weight="800" text-anchor="middle" fill="#10131a">破ったときの代償</text>
+<rect x="40" y="120" width="180" height="56" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="130" y="157" font-size="20" font-weight="800" text-anchor="middle" fill="#10131a">ゆるい</text>
+<rect x="290.0" y="132" width="60" height="32" fill="#1f62d6"/>
+<rect x="480.0" y="132" width="60" height="32" fill="#d92d20"/>
+<rect x="40" y="190" width="180" height="56" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="130" y="227" font-size="20" font-weight="800" text-anchor="middle" fill="#10131a">ふつう</text>
+<rect x="262.5" y="202" width="115" height="32" fill="#1f62d6"/>
+<rect x="452.5" y="202" width="115" height="32" fill="#d92d20"/>
+<rect x="40" y="260" width="180" height="56" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="130" y="297" font-size="20" font-weight="800" text-anchor="middle" fill="#10131a">厳しい</text>
+<rect x="235.0" y="272" width="170" height="32" fill="#1f62d6"/>
+<rect x="425.0" y="272" width="170" height="32" fill="#d92d20"/>
+<rect x="16" y="340" width="608" height="120" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="340" width="608" height="30" rx="0" fill="#10131a" stroke="#10131a" stroke-width="3"/>
+<text x="320.0" y="362" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">例: クラピカの束縛する中指の鎖</text>
+<text x="30" y="395" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">幻影旅団にしか使わないと決めて、強い拘束を得た。</text>
+<text x="30" y="420" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">旅団以外に使えば命を失う</text>
+<text x="24" y="486" font-size="17" font-weight="600" text-anchor="start" fill="#46515c">釣り合いは 3 サイトで一致。棒の長さは比べるための模式で、数値ではない</text>
+</svg>

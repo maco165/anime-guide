@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 600" width="640" height="600" role="img" aria-labelledby="heavens-arena-title heavens-arena-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="heavens-arena-title">天空闘技場の階と決まり</title>
+<desc id="heavens-arena-desc">251 階建ての塔を断面で描き、199 階までは勝つたびにファイトマネーが出て 100 階からは個室が付くこと、200 階からはお金が無く名誉の戦いで、90 日の準備期間、10 勝でフロアマスターへの挑戦、4 敗か 90 日を過ぎると失格になること、フロアマスターはバトルオリンピアに出られることを示す。</desc>
+<defs><pattern id="heavens-arena-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="600" fill="#f1f5f8"/>
+<rect width="640" height="600" fill="url(#heavens-arena-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">天空闘技場は 200 階で世界が変わる</text>
+<polygon points="70,540 130,540 120,80 80,80" fill="#ffffff" stroke="#10131a" stroke-width="3.5"/>
+<rect x="78" y="80" width="44" height="40" fill="#7a3fc4"/>
+<rect x="80" y="120" width="40" height="200" fill="#d92d20" opacity="0.85"/>
+<rect x="82" y="320" width="36" height="110" fill="#1f62d6" opacity="0.8"/>
+<rect x="84" y="430" width="34" height="110" fill="#1f62d6" opacity="0.45"/>
+<line x1="130" y1="80" x2="170" y2="80" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<text x="176" y="86" font-size="17" font-weight="800" text-anchor="start" fill="#10131a">251 階</text>
+<line x1="130" y1="320" x2="170" y2="320" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<text x="176" y="326" font-size="17" font-weight="800" text-anchor="start" fill="#10131a">200 階</text>
+<line x1="130" y1="430" x2="170" y2="430" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<text x="176" y="436" font-size="17" font-weight="800" text-anchor="start" fill="#10131a">100 階</text>
+<line x1="130" y1="540" x2="170" y2="540" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<text x="176" y="546" font-size="17" font-weight="800" text-anchor="start" fill="#10131a">1 階</text>
+<rect x="260" y="72" width="364" height="74" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="260" y="72" width="364" height="30" rx="0" fill="#7a3fc4" stroke="#10131a" stroke-width="3"/>
+<text x="442.0" y="94" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">最上階</text>
+<text x="274" y="124" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">バトルオリンピアの優勝者の住まい</text>
+<rect x="260" y="160" width="364" height="190" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="260" y="160" width="364" height="30" rx="0" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<text x="442.0" y="182" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">200 階から上</text>
+<text x="274" y="212" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">お金は出ず、名誉だけの戦い</text>
+<text x="274" y="234" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">準備期間 90 日のうちに戦う</text>
+<text x="274" y="256" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">10 勝でフロアマスターに挑める</text>
+<text x="274" y="278" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">4 敗か 90 日を過ぎると失格</text>
+<rect x="260" y="364" width="364" height="76" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="260" y="364" width="364" height="30" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="442.0" y="386" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">100〜199 階</text>
+<text x="274" y="416" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">個室が付き、待遇が良くなる</text>
+<rect x="260" y="454" width="364" height="86" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="260" y="454" width="364" height="30" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="442.0" y="476" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">1〜199 階</text>
+<text x="274" y="506" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">勝つたびにファイトマネー。</text>
+<text x="274" y="528" font-size="17" font-weight="700" text-anchor="start" fill="#10131a">上の階ほど額が上がる</text>
+<text x="24" y="574" font-size="17" font-weight="600" text-anchor="start" fill="#46515c">200 階から上に念能力者が集まるのは、規則ではなくふるい落としの結果</text>
+</svg>

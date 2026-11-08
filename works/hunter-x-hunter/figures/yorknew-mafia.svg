@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 520" width="640" height="520" role="img" aria-labelledby="yorknew-mafia-title yorknew-mafia-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="yorknew-mafia-title">ヨークシンの競売と裏社会</title>
+<desc id="yorknew-mafia-desc">毎年 9 月 1 日から 10 日にヨークシンシティで大規模なオークションが開かれ、地下競売を仕切るマフィアンコミュニティーの頭が十老頭で、十老頭がそれぞれの組織から武闘派を 1 人ずつ出した 10 人の実行部隊が陰獣であることを示す。</desc>
+<defs><pattern id="yorknew-mafia-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="520" fill="#f1f5f8"/>
+<rect width="640" height="520" fill="url(#yorknew-mafia-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">競売の裏に十老頭と陰獣</text>
+<rect x="16" y="72" width="608" height="84" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="72" width="608" height="30" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="320.0" y="94" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">ヨークシンシティ</text>
+<text x="30" y="127" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">毎年 9 月 1 日〜10 日に大規模なオークション</text>
+<rect x="170" y="180" width="300" height="70" rx="4" fill="#10131a" stroke="#10131a" stroke-width="3"/>
+<text x="320" y="208" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">十老頭</text>
+<text x="320" y="234" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">6 大陸 10 地区を仕切る組織の長</text>
+<text x="320" y="274" font-size="17" font-weight="700" text-anchor="middle" fill="#46515c">マフィアンコミュニティーの頭</text>
+<path d="M320 284 L320.0 300.0" fill="none" stroke="#10131a" stroke-width="4" stroke-linecap="round"/>
+<polygon points="320,314 330.0,300.0 310.0,300.0" fill="#10131a" stroke="#10131a" stroke-width="1.5" stroke-linejoin="round"/>
+<circle cx="64" cy="342" r="20" fill="#d92d20" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="120" cy="342" r="20" fill="#d92d20" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="176" cy="342" r="20" fill="#d92d20" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="232" cy="342" r="20" fill="#d92d20" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="288" cy="342" r="20" fill="#d92d20" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="344" cy="342" r="20" fill="#d92d20" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="400" cy="342" r="20" fill="#d92d20" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="456" cy="342" r="20" fill="#d92d20" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="512" cy="342" r="20" fill="#d92d20" stroke="#10131a" stroke-width="2.5"/>
+<circle cx="568" cy="342" r="20" fill="#d92d20" stroke="#10131a" stroke-width="2.5"/>
+<text x="320" y="400" font-size="18" font-weight="800" text-anchor="middle" fill="#10131a">陰獣: 各組織の武闘派を 1 人ずつ集めた 10 人の実行部隊</text>
+<text x="320" y="428" font-size="17" font-weight="700" text-anchor="middle" fill="#46515c">生き物を模した念能力とコードネームを持つ</text>
+<text x="24" y="500" font-size="17" font-weight="600" text-anchor="start" fill="#46515c">3 つとも 1 サイトのみ。人の記号は自作で、人物の姿ではない</text>
+</svg>

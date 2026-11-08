@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 220" width="640" height="220" role="img" aria-labelledby="hunter-x-hunter-card-title hunter-x-hunter-card-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="hunter-x-hunter-card-title">HUNTER×HUNTER ハンターハンター</title>
+<desc id="hunter-x-hunter-card-desc">作品名と、念能力の 6 つの系統を色の違う 6 つの丸で六角形に並べた自作のタイトル画像。作品の絵や公式の図案は使っていない。</desc>
+<rect width="640" height="220" rx="14" fill="#10131a"/>
+<defs><pattern id="hunter-x-hunter-card-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#232836" stroke-width="1"/></pattern><clipPath id="hunter-x-hunter-card-clip"><rect width="640" height="220" rx="14"/></clipPath></defs>
+<g clip-path="url(#hunter-x-hunter-card-clip)">
+<rect width="640" height="220" fill="url(#hunter-x-hunter-card-grid)"/>
+<polygon points="0,0 46,0 22,220 0,220" fill="#d92d20"/>
+<polygon points="56,0 70,0 46,220 32,220" fill="#f5b700"/>
+</g>
+<polygon points="566.0,52.0 616.2,81.0 616.2,139.0 566.0,168.0 515.8,139.0 515.8,81.0" fill="none" stroke="#c9d3dc" stroke-width="3"/>
+<circle cx="566.0" cy="52.0" r="15" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<circle cx="616.2" cy="81.0" r="15" fill="#f5b700" stroke="#10131a" stroke-width="3"/>
+<circle cx="616.2" cy="139.0" r="15" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<circle cx="566.0" cy="168.0" r="15" fill="#7a3fc4" stroke="#10131a" stroke-width="3"/>
+<circle cx="515.8" cy="139.0" r="15" fill="#0b8a5f" stroke="#10131a" stroke-width="3"/>
+<circle cx="515.8" cy="81.0" r="15" fill="#e8710a" stroke="#10131a" stroke-width="3"/>
+<text x="92" y="92" font-size="34" font-weight="800" fill="#ffffff">HUNTER×HUNTER</text>
+<text x="94" y="128" font-size="20" font-weight="700" fill="#c9d3dc" letter-spacing="2">ハンターハンター</text>
+<rect x="92" y="150" width="129" height="34" rx="17" fill="none" stroke="#f5b700" stroke-width="2"/>
+<text x="104" y="173" font-size="16" font-weight="700" fill="#f5b700">2011 年版</text>
+</svg>

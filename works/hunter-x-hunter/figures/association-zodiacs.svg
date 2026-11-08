@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 600" width="640" height="600" role="img" aria-labelledby="association-zodiacs-title association-zodiacs-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="association-zodiacs-title">ハンター協会と十二支ん</title>
+<desc id="association-zodiacs-desc">会長の下に、干支をコードネームにした最高幹部 12 人の十二支んを置き、干支、名前、肩書きのハンターの種類を 12 枚の札で並べた図。2011 年版に出てくるときの顔ぶれ。</desc>
+<defs><pattern id="association-zodiacs-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="600" fill="#f1f5f8"/>
+<rect width="640" height="600" fill="url(#association-zodiacs-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">十二支んは会長を支える 12 人</text>
+<rect x="220" y="72" width="200" height="56" rx="4" fill="#10131a" stroke="#10131a" stroke-width="3"/>
+<text x="320" y="108" font-size="21" font-weight="800" text-anchor="middle" fill="#ffffff">会長</text>
+<line x1="320" y1="128" x2="320" y2="152" stroke="#10131a" stroke-width="3" stroke-linecap="round"/>
+<line x1="70" y1="152" x2="570" y2="152" stroke="#10131a" stroke-width="3" stroke-linecap="round"/>
+<line x1="63" y1="152" x2="63" y2="168" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="16" y="168" width="94" height="150" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="168" width="94" height="44" rx="0" fill="#46515c" stroke="#10131a" stroke-width="3"/>
+<text x="63" y="201" font-size="28" font-weight="800" text-anchor="middle" fill="#ffffff">子</text>
+<text x="63" y="248" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">パリストン</text>
+<text x="63" y="296" font-size="15" font-weight="700" text-anchor="middle" fill="#46515c">副会長</text>
+<line x1="165" y1="152" x2="165" y2="168" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="118" y="168" width="94" height="150" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="118" y="168" width="94" height="44" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="165" y="201" font-size="28" font-weight="800" text-anchor="middle" fill="#ffffff">丑</text>
+<text x="165" y="248" font-size="14" font-weight="800" text-anchor="middle" fill="#10131a">ミザイストム</text>
+<text x="165" y="296" font-size="15" font-weight="700" text-anchor="middle" fill="#46515c">犯罪</text>
+<line x1="267" y1="152" x2="267" y2="168" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="220" y="168" width="94" height="150" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="220" y="168" width="94" height="44" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="267" y="201" font-size="28" font-weight="800" text-anchor="middle" fill="#ffffff">寅</text>
+<text x="267" y="248" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">カンザイ</text>
+<text x="267" y="296" font-size="15" font-weight="700" text-anchor="middle" fill="#46515c">トレジャー</text>
+<line x1="369" y1="152" x2="369" y2="168" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="322" y="168" width="94" height="150" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="322" y="168" width="94" height="44" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="369" y="201" font-size="28" font-weight="800" text-anchor="middle" fill="#ffffff">卯</text>
+<text x="369" y="248" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">ピヨン</text>
+<text x="369" y="296" font-size="15" font-weight="700" text-anchor="middle" fill="#46515c">古文書</text>
+<line x1="471" y1="152" x2="471" y2="168" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="424" y="168" width="94" height="150" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="424" y="168" width="94" height="44" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="471" y="201" font-size="28" font-weight="800" text-anchor="middle" fill="#ffffff">辰</text>
+<text x="471" y="248" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">ボトバイ</text>
+<text x="471" y="296" font-size="15" font-weight="700" text-anchor="middle" fill="#46515c">テロリスト</text>
+<line x1="573" y1="152" x2="573" y2="168" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<rect x="526" y="168" width="94" height="150" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="526" y="168" width="94" height="44" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="573" y="201" font-size="28" font-weight="800" text-anchor="middle" fill="#ffffff">巳</text>
+<text x="573" y="248" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">ゲル</text>
+<text x="573" y="296" font-size="15" font-weight="700" text-anchor="middle" fill="#46515c">ポイズン</text>
+<line x1="63" y1="330" x2="63" y2="338" stroke="#b9c5ce" stroke-width="2" stroke-linecap="round"/>
+<rect x="16" y="338" width="94" height="150" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="338" width="94" height="44" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="63" y="371" font-size="28" font-weight="800" text-anchor="middle" fill="#ffffff">午</text>
+<text x="63" y="418" font-size="16" font-weight="800" text-anchor="middle" fill="#10131a">サッチョウ</text>
+<text x="63" y="466" font-size="15" font-weight="700" text-anchor="middle" fill="#46515c">お悩み</text>
+<line x1="165" y1="330" x2="165" y2="338" stroke="#b9c5ce" stroke-width="2" stroke-linecap="round"/>
+<rect x="118" y="338" width="94" height="150" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="118" y="338" width="94" height="44" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="165" y="371" font-size="28" font-weight="800" text-anchor="middle" fill="#ffffff">未</text>
+<text x="165" y="418" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">ギンタ</text>
+<text x="165" y="466" font-size="15" font-weight="700" text-anchor="middle" fill="#46515c">密猟</text>
+<line x1="267" y1="330" x2="267" y2="338" stroke="#b9c5ce" stroke-width="2" stroke-linecap="round"/>
+<rect x="220" y="338" width="94" height="150" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="220" y="338" width="94" height="44" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="267" y="371" font-size="28" font-weight="800" text-anchor="middle" fill="#ffffff">申</text>
+<text x="267" y="418" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">サイユウ</text>
+<text x="267" y="466" font-size="15" font-weight="700" text-anchor="middle" fill="#46515c">賞金首</text>
+<line x1="369" y1="330" x2="369" y2="338" stroke="#b9c5ce" stroke-width="2" stroke-linecap="round"/>
+<rect x="322" y="338" width="94" height="150" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="322" y="338" width="94" height="44" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="369" y="371" font-size="28" font-weight="800" text-anchor="middle" fill="#ffffff">酉</text>
+<text x="369" y="418" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">クルック</text>
+<text x="369" y="466" font-size="15" font-weight="700" text-anchor="middle" fill="#46515c">プラント</text>
+<line x1="471" y1="330" x2="471" y2="338" stroke="#b9c5ce" stroke-width="2" stroke-linecap="round"/>
+<rect x="424" y="338" width="94" height="150" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="424" y="338" width="94" height="44" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="471" y="371" font-size="28" font-weight="800" text-anchor="middle" fill="#ffffff">戌</text>
+<text x="471" y="418" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">チードル</text>
+<text x="471" y="466" font-size="15" font-weight="700" text-anchor="middle" fill="#46515c">難病</text>
+<line x1="573" y1="330" x2="573" y2="338" stroke="#b9c5ce" stroke-width="2" stroke-linecap="round"/>
+<rect x="526" y="338" width="94" height="150" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="526" y="338" width="94" height="44" rx="0" fill="#46515c" stroke="#10131a" stroke-width="3"/>
+<text x="573" y="371" font-size="28" font-weight="800" text-anchor="middle" fill="#ffffff">亥</text>
+<text x="573" y="418" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">ジン</text>
+<text x="573" y="466" font-size="15" font-weight="700" text-anchor="middle" fill="#46515c">遺跡</text>
+<line x1="16" y1="330" x2="624" y2="330" stroke="#b9c5ce" stroke-width="2" stroke-linecap="round"/>
+<text x="24" y="540" font-size="17" font-weight="600" text-anchor="start" fill="#46515c">灰色の子と亥は、干支に合わせて改名や外見を変えていない 2 人</text>
+<text x="24" y="566" font-size="17" font-weight="600" text-anchor="start" fill="#46515c">肩書きは 2 サイトで一致。未の密猟は資料で表記が割れる</text>
+</svg>

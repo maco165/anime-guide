@@ -1,0 +1,299 @@
+# HUNTER×HUNTER (2011 年版) の出典の台帳です。
+# 本文は事実を筆者の言葉で書き、出典の文章を転載していないので、permission は不要としています。
+# rights_holder は、記事の権利者を確定できなかったので、書いた人の区分を書きます。
+# 公式サイトは見つからなかったので、kind が公式の出典はありません。
+sources:
+  - id: src-001
+    url: https://dic.nicovideo.jp/a/%E5%BF%B5%E8%83%BD%E5%8A%9B
+    kind: 百科事典サイト (念能力)
+    rights_holder: ニコニコ大百科の記事の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-002
+    url: https://ciatr.jp/topics/313836
+    kind: 解説記事 (念能力)
+    rights_holder: ciatr の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-003
+    url: https://www.ticket.co.jp/entx/?p=9994
+    kind: 解説記事 (念能力)
+    rights_holder: チケットジャムの記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-004
+    url: https://kai-you.net/word/%E5%BF%B5
+    kind: 用語解説 (念)
+    rights_holder: KAI-YOU の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-005
+    url: https://dic.nicovideo.jp/a/%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E8%A9%A6%E9%A8%93
+    kind: 百科事典サイト (ハンター試験)
+    rights_holder: ニコニコ大百科の記事の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-006
+    url: https://dic.nicovideo.jp/a/%E5%8D%81%E4%BA%8C%E6%94%AF%E3%82%93
+    kind: 百科事典サイト (十二支ん)
+    rights_holder: ニコニコ大百科の記事の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-007
+    url: https://renote.net/articles/36064
+    kind: 解説記事 (十二支ん)
+    rights_holder: RENOTE の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-008
+    url: https://renote.net/articles/36064/page/2
+    kind: 解説記事 (十二支ん、2 ページ目)
+    rights_holder: RENOTE の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-009
+    url: https://ja.wikipedia.org/wiki/HUNTER%C3%97HUNTER_(2011%E5%B9%B4%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1)
+    kind: 百科事典 (2011 年版のアニメ)
+    rights_holder: Wikipedia の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-010
+    url: https://dic.nicovideo.jp/a/%E3%82%BE%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E5%AE%B6
+    kind: 百科事典サイト (ゾルディック家)
+    rights_holder: ニコニコ大百科の記事の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-011
+    url: https://dic.nicovideo.jp/a/%E5%B9%BB%E5%BD%B1%E6%97%85%E5%9B%A3
+    kind: 百科事典サイト (幻影旅団)
+    rights_holder: ニコニコ大百科の記事の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-012
+    url: https://ciatr.jp/topics/180223
+    kind: 解説記事 (キメラ=アント編)
+    rights_holder: ciatr の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-013
+    url: https://www.ticket.co.jp/entx/entertainment/hunterxhunter-phantom-troupe/
+    kind: 解説記事 (幻影旅団)
+    rights_holder: チケットジャムの記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-014
+    url: https://ciatr.jp/topics/180225
+    kind: 解説記事 (幻影旅団)
+    rights_holder: ciatr の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-015
+    url: https://nlab.itmedia.co.jp/research/articles/68094/
+    kind: 解説記事 (幻影旅団)
+    rights_holder: ねとらぼ調査隊の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-016
+    url: https://ciatr.jp/topics/311588
+    kind: 解説記事 (強さの順位)
+    rights_holder: ciatr の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-017
+    url: https://ciatr.jp/topics/313700
+    kind: 解説記事 (ネフェルピトー)
+    rights_holder: ciatr の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-018
+    url: https://ciatr.jp/topics/313716
+    kind: 解説記事 (シャウアプフ)
+    rights_holder: ciatr の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-019
+    url: https://ciatr.jp/topics/313719
+    kind: 解説記事 (モントゥトゥユピー)
+    rights_holder: ciatr の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-020
+    url: https://ranking.net/rankings/strongest-hunterhunter-characters
+    kind: 投票サイト (強さの順位)
+    rights_holder: ランキング.net の項目の作成者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-021
+    url: https://dic.nicovideo.jp/a/%E3%82%AD%E3%83%AB%E3%82%A2=%E3%82%BE%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF
+    kind: 百科事典サイト (キルア)
+    rights_holder: ニコニコ大百科の記事の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-022
+    url: https://dic.nicovideo.jp/a/%E3%82%AF%E3%83%A9%E3%83%94%E3%82%AB
+    kind: 百科事典サイト (クラピカ)
+    rights_holder: ニコニコ大百科の記事の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-023
+    url: https://dic.nicovideo.jp/a/%E3%83%93%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88=%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%BC
+    kind: 百科事典サイト (ビスケット)
+    rights_holder: ニコニコ大百科の記事の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-024
+    url: https://dic.nicovideo.jp/a/%E3%82%B2%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC
+    kind: 百科事典サイト (ゲンスルー)
+    rights_holder: ニコニコ大百科の記事の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-025
+    url: https://dic.nicovideo.jp/a/%E3%82%A2%E3%82%A4%E3%82%B6%E3%83%83%E3%82%AF=%E3%83%8D%E3%83%86%E3%83%AD
+    kind: 百科事典サイト (ネテロ)
+    rights_holder: ニコニコ大百科の記事の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-026
+    url: https://dic.nicovideo.jp/a/%E3%83%AC%E3%82%AA%E3%83%AA%E3%82%AA=%E3%83%91%E3%83%A9%E3%83%87%E3%82%A3%E3%83%8A%E3%82%A4%E3%83%88
+    kind: 百科事典サイト (レオリオ)
+    rights_holder: ニコニコ大百科の記事の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-027
+    url: https://dic.nicovideo.jp/a/%E3%82%B4%E3%83%B3=%E3%83%95%E3%83%AA%E3%83%BC%E3%82%AF%E3%82%B9
+    kind: 百科事典サイト (ゴン)
+    rights_holder: ニコニコ大百科の記事の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-028
+    url: https://dic.nicovideo.jp/a/%E3%82%A4%E3%83%AB%E3%83%9F=%E3%82%BE%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF
+    kind: 百科事典サイト (イルミ)
+    rights_holder: ニコニコ大百科の記事の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-029
+    url: https://ja.wikipedia.org/wiki/HUNTER%C3%97HUNTER
+    kind: 百科事典 (作品)
+    rights_holder: Wikipedia の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-030
+    url: https://ja.wikipedia.org/wiki/HUNTER%C3%97HUNTER%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9
+    kind: 百科事典 (登場人物)
+    rights_holder: Wikipedia の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-031
+    url: https://nlab.itmedia.co.jp/research/articles/58608/
+    kind: 解説記事 (グリードアイランドのカード)
+    rights_holder: ねとらぼ調査隊の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-032
+    url: https://mangapedia.com/gd/7oi4w9eaq
+    kind: 用語事典 (グリードアイランド)
+    rights_holder: マンガペディアの記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-033
+    url: https://animeanime.jp/article/2017/12/04/36165.html
+    kind: ニュース記事 (カードの商品化)
+    rights_holder: アニメ!アニメ!の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-034
+    url: https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A1%E3%83%A9%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88
+    kind: 百科事典 (キメラ=アント)
+    rights_holder: Wikipedia の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-035
+    url: https://ja.wikipedia.org/wiki/%E5%B9%BB%E5%BD%B1%E6%97%85%E5%9B%A3
+    kind: 百科事典 (幻影旅団)
+    rights_holder: Wikipedia の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-036
+    url: https://renote.net/articles/11082
+    kind: まとめ記事 (十二支んの派閥)
+    rights_holder: RENOTE の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-037
+    url: https://renote.net/articles/323961
+    kind: 解説記事 (パリストンの考察まとめ)
+    rights_holder: RENOTE の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-038
+    url: https://ciatr.jp/topics/339515
+    kind: 解説記事 (十二支ん)
+    rights_holder: ciatr の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-039
+    url: https://ciatr.jp/topics/174853
+    kind: 解説記事 (ヒソカ)
+    rights_holder: ciatr の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-040
+    url: https://www.ticket.co.jp/entx/?p=11644
+    kind: 解説記事 (ヒソカの台詞)
+    rights_holder: チケットジャムの記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-041
+    url: https://honcierge.jp/articles/shelf_story/4299
+    kind: 論考 (35 巻までの考察記事)
+    rights_holder: ホンシェルジュの記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-042
+    url: https://nlab.itmedia.co.jp/cont/articles/3345526/
+    kind: 解説記事 (暗黒大陸編)
+    rights_holder: ねとらぼの記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08

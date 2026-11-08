@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 640" width="640" height="640" role="img" aria-labelledby="exam-stages-title exam-stages-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif" data-sources="src-001 src-002 src-004 src-005">
+<title id="exam-stages-title">第 287 期ハンター試験の関門</title>
+<desc id="exam-stages-desc">会場への到着から、1 次から 4 次、最終の逆トーナメント、合格後の念の習得である裏試験までを、上から順に並べた図。試験は毎年 1 回開かれる。</desc>
+<defs><pattern id="exam-stages-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="640" fill="#f1f5f8"/>
+<rect width="640" height="640" fill="url(#exam-stages-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">試験は会場に着く前から始まる</text>
+<rect x="16" y="72" width="608" height="62" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="72" width="110" height="62" rx="0" fill="#46515c" stroke="#10131a" stroke-width="3"/>
+<text x="71" y="112" font-size="22" font-weight="800" text-anchor="middle" fill="#ffffff">会場</text>
+<text x="142" y="111" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">会場に着くこと自体が第 1 関門</text>
+<path d="M71 136 L71.0 134.0" fill="none" stroke="#10131a" stroke-width="3" stroke-linecap="round"/>
+<polygon points="71,148 81.0,134.0 61.0,134.0" fill="#10131a" stroke="#10131a" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="16" y="148" width="608" height="62" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="148" width="110" height="62" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="71" y="188" font-size="22" font-weight="800" text-anchor="middle" fill="#ffffff">1 次</text>
+<text x="142" y="187" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">試験官を追って走り、次の会場に着く</text>
+<path d="M71 212 L71.0 210.0" fill="none" stroke="#10131a" stroke-width="3" stroke-linecap="round"/>
+<polygon points="71,224 81.0,210.0 61.0,210.0" fill="#10131a" stroke="#10131a" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="16" y="224" width="608" height="62" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="224" width="110" height="62" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="71" y="264" font-size="22" font-weight="800" text-anchor="middle" fill="#ffffff">2 次</text>
+<text x="142" y="263" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">指定の料理を作る</text>
+<path d="M71 288 L71.0 286.0" fill="none" stroke="#10131a" stroke-width="3" stroke-linecap="round"/>
+<polygon points="71,300 81.0,286.0 61.0,286.0" fill="#10131a" stroke="#10131a" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="16" y="300" width="608" height="62" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="300" width="110" height="62" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="71" y="340" font-size="22" font-weight="800" text-anchor="middle" fill="#ffffff">3 次</text>
+<text x="142" y="339" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">塔の罠から 72 時間以内に出る</text>
+<path d="M71 364 L71.0 362.0" fill="none" stroke="#10131a" stroke-width="3" stroke-linecap="round"/>
+<polygon points="71,376 81.0,362.0 61.0,362.0" fill="#10131a" stroke="#10131a" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="16" y="376" width="608" height="62" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="376" width="110" height="62" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="71" y="416" font-size="22" font-weight="800" text-anchor="middle" fill="#ffffff">4 次</text>
+<text x="142" y="415" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">プレートを奪い合い 6 点を集める</text>
+<path d="M71 440 L71.0 438.0" fill="none" stroke="#10131a" stroke-width="3" stroke-linecap="round"/>
+<polygon points="71,452 81.0,438.0 61.0,438.0" fill="#10131a" stroke="#10131a" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="16" y="452" width="608" height="62" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="452" width="110" height="62" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="71" y="492" font-size="22" font-weight="800" text-anchor="middle" fill="#ffffff">最終</text>
+<text x="142" y="491" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">1 勝で合格の逆トーナメント</text>
+<path d="M71 516 L71.0 514.0" fill="none" stroke="#10131a" stroke-width="3" stroke-linecap="round"/>
+<polygon points="71,528 81.0,514.0 61.0,514.0" fill="#10131a" stroke="#10131a" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="16" y="528" width="608" height="62" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="528" width="110" height="62" rx="0" fill="#7a3fc4" stroke="#10131a" stroke-width="3"/>
+<text x="71" y="568" font-size="22" font-weight="800" text-anchor="middle" fill="#ffffff">裏試験</text>
+<text x="142" y="567" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">念を身につけて初めてハンター</text>
+<text x="24" y="626" font-size="17" font-weight="600" text-anchor="start" fill="#46515c">関門の中身は 1 サイトのみ。毎年 1 回、合格率は数百万分の一と書かれる</text>
+</svg>
