@@ -297,3 +297,10 @@ sources:
     terms_url: null
     permission: 不要
     checked_at: 2026-11-08
+  - id: src-043
+    url: https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%89%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89
+    kind: 百科事典 (グリードアイランド)
+    rights_holder: Wikipedia の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
