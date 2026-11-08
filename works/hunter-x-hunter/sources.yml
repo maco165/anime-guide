@@ -234,3 +234,10 @@ sources:
     terms_url: null
     permission: 不要
     checked_at: 2026-11-08
+  - id: src-034
+    url: https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A1%E3%83%A9%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88
+    kind: 百科事典 (キメラ=アント)
+    rights_holder: Wikipedia の執筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08

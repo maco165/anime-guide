@@ -24,19 +24,19 @@ spoiler: 設定のネタバレを含む
 | 種類 | 件数 |
 | --- | --- |
 | 公式 | 0 |
-| 事典・Wiki | 17 |
+| 事典・Wiki | 18 |
 | 学術 | 0 |
 | データベース | 0 |
 | 解説・まとめ | 15 |
 | 考察 | 0 |
 | その他 | 1 |
-| 合計 | 33 |
+| 合計 | 34 |
 
 ## 出典の一覧
 
 権利者の「不明」は、権利者を確定できなかったものです。許諾の「不要」は、出典の文章を転載していないものです。
 
-### 事典・Wiki (17 件)
+### 事典・Wiki (18 件)
 
 | id | 種類 | URL | 権利者 | 確認日 | 許諾 | 使っている箇所 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -54,9 +54,10 @@ spoiler: 設定のネタバレを含む
 | src-026 | 百科事典サイト (レオリオ) | [https://dic.nicovideo.jp/a/レオリオ=パラディナイト](https://dic.nicovideo.jp/a/%E3%83%AC%E3%82%AA%E3%83%AA%E3%82%AA=%E3%83%91%E3%83%A9%E3%83%87%E3%82%A3%E3%83%8A%E3%82%A4%E3%83%88) | ニコニコ大百科の記事の執筆者 | 2026-11-08 | 不要 | [能力](abilities.md) 本文 |
 | src-027 | 百科事典サイト (ゴン) | [https://dic.nicovideo.jp/a/ゴン=フリークス](https://dic.nicovideo.jp/a/%E3%82%B4%E3%83%B3=%E3%83%95%E3%83%AA%E3%83%BC%E3%82%AF%E3%82%B9) | ニコニコ大百科の記事の執筆者 | 2026-11-08 | 不要 | [能力](abilities.md) 本文 |
 | src-028 | 百科事典サイト (イルミ) | [https://dic.nicovideo.jp/a/イルミ=ゾルディック](https://dic.nicovideo.jp/a/%E3%82%A4%E3%83%AB%E3%83%9F=%E3%82%BE%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF) | ニコニコ大百科の記事の執筆者 | 2026-11-08 | 不要 | [能力](abilities.md) 本文 |
-| src-029 | 百科事典 (作品) | [https://ja.wikipedia.org/wiki/HUNTER×HUNTER](https://ja.wikipedia.org/wiki/HUNTER%C3%97HUNTER) | Wikipedia の執筆者 | 2026-11-08 | 不要 | [世界観](world.md) 図 3-4、図 3-5、図 3-7、本文 |
-| src-030 | 百科事典 (登場人物) | [https://ja.wikipedia.org/wiki/HUNTER×HUNTERの登場人物](https://ja.wikipedia.org/wiki/HUNTER%C3%97HUNTER%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9) | Wikipedia の執筆者 | 2026-11-08 | 不要 | [世界観](world.md) 図 3-5、図 3-7、本文 |
+| src-029 | 百科事典 (作品) | [https://ja.wikipedia.org/wiki/HUNTER×HUNTER](https://ja.wikipedia.org/wiki/HUNTER%C3%97HUNTER) | Wikipedia の執筆者 | 2026-11-08 | 不要 | [世界観](world.md) 図 3-4、図 3-5、図 3-7、本文<br>[能力](abilities.md) 本文 |
+| src-030 | 百科事典 (登場人物) | [https://ja.wikipedia.org/wiki/HUNTER×HUNTERの登場人物](https://ja.wikipedia.org/wiki/HUNTER%C3%97HUNTER%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9) | Wikipedia の執筆者 | 2026-11-08 | 不要 | [世界観](world.md) 図 3-5、図 3-7、本文<br>[能力](abilities.md) 本文 |
 | src-032 | 用語事典 (グリードアイランド) | [https://mangapedia.com/gd/7oi4w9eaq](https://mangapedia.com/gd/7oi4w9eaq) | マンガペディアの記事の筆者 | 2026-11-08 | 不要 | [世界観](world.md) 図 3-7、本文 |
+| src-034 | 百科事典 (キメラ=アント) | [https://ja.wikipedia.org/wiki/キメラ＝アント](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A1%E3%83%A9%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88) | Wikipedia の執筆者 | 2026-11-08 | 不要 | [能力](abilities.md) 本文 |
 
 ### 解説・まとめ (15 件)
 
