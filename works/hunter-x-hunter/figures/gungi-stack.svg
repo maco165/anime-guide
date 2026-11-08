@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 520" width="640" height="520" role="img" aria-labelledby="gungi-stack-title gungi-stack-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="gungi-stack-title">軍儀の重ね (ツケ) の決まり</title>
+<desc id="gungi-stack-desc">駒を 1 段、2 段、3 段に重ねた 3 つの山を横から描き、動けるのはいちばん上の駒だけであること、重なった駒は同じ高さ以上の駒にしか取られないこと、上級は 3 段まで、入門は 2 段まで重ねられることを示す。駒は自作の円盤で、商品の駒の図柄ではない。</desc>
+<defs><pattern id="gungi-stack-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="520" fill="#f1f5f8"/>
+<rect width="640" height="520" fill="url(#gungi-stack-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">上に乗った駒だけが動ける</text>
+<ellipse cx="130" cy="344" rx="44" ry="12" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="86" y="330" width="88" height="14" fill="#ffffff"/>
+<line x1="86" y1="330" x2="86" y2="344" stroke="#10131a" stroke-width="3"/>
+<line x1="174" y1="330" x2="174" y2="344" stroke="#10131a" stroke-width="3"/>
+<ellipse cx="130" cy="330" rx="44" ry="12" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<path d="M130 306 L130.0 272.0" fill="none" stroke="#d92d20" stroke-width="5" stroke-linecap="round"/>
+<polygon points="130,258 120.0,272.0 140.0,272.0" fill="#d92d20" stroke="#d92d20" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="130" y="382" font-size="20" font-weight="800" text-anchor="middle" fill="#10131a">1 段</text>
+<ellipse cx="320" cy="344" rx="44" ry="12" fill="#3a4250" stroke="#10131a" stroke-width="3"/>
+<rect x="276" y="330" width="88" height="14" fill="#3a4250"/>
+<line x1="276" y1="330" x2="276" y2="344" stroke="#10131a" stroke-width="3"/>
+<line x1="364" y1="330" x2="364" y2="344" stroke="#10131a" stroke-width="3"/>
+<ellipse cx="320" cy="330" rx="44" ry="12" fill="#3a4250" stroke="#10131a" stroke-width="3"/>
+<ellipse cx="320" cy="314" rx="44" ry="12" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="276" y="300" width="88" height="14" fill="#ffffff"/>
+<line x1="276" y1="300" x2="276" y2="314" stroke="#10131a" stroke-width="3"/>
+<line x1="364" y1="300" x2="364" y2="314" stroke="#10131a" stroke-width="3"/>
+<ellipse cx="320" cy="300" rx="44" ry="12" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<path d="M320 276 L320.0 242.0" fill="none" stroke="#d92d20" stroke-width="5" stroke-linecap="round"/>
+<polygon points="320,228 310.0,242.0 330.0,242.0" fill="#d92d20" stroke="#d92d20" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="320" y="382" font-size="20" font-weight="800" text-anchor="middle" fill="#10131a">2 段</text>
+<ellipse cx="510" cy="344" rx="44" ry="12" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="466" y="330" width="88" height="14" fill="#ffffff"/>
+<line x1="466" y1="330" x2="466" y2="344" stroke="#10131a" stroke-width="3"/>
+<line x1="554" y1="330" x2="554" y2="344" stroke="#10131a" stroke-width="3"/>
+<ellipse cx="510" cy="330" rx="44" ry="12" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<ellipse cx="510" cy="314" rx="44" ry="12" fill="#3a4250" stroke="#10131a" stroke-width="3"/>
+<rect x="466" y="300" width="88" height="14" fill="#3a4250"/>
+<line x1="466" y1="300" x2="466" y2="314" stroke="#10131a" stroke-width="3"/>
+<line x1="554" y1="300" x2="554" y2="314" stroke="#10131a" stroke-width="3"/>
+<ellipse cx="510" cy="300" rx="44" ry="12" fill="#3a4250" stroke="#10131a" stroke-width="3"/>
+<ellipse cx="510" cy="284" rx="44" ry="12" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="466" y="270" width="88" height="14" fill="#ffffff"/>
+<line x1="466" y1="270" x2="466" y2="284" stroke="#10131a" stroke-width="3"/>
+<line x1="554" y1="270" x2="554" y2="284" stroke="#10131a" stroke-width="3"/>
+<ellipse cx="510" cy="270" rx="44" ry="12" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<path d="M510 246 L510.0 212.0" fill="none" stroke="#d92d20" stroke-width="5" stroke-linecap="round"/>
+<polygon points="510,198 500.0,212.0 520.0,212.0" fill="#d92d20" stroke="#d92d20" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="510" y="382" font-size="20" font-weight="800" text-anchor="middle" fill="#10131a">3 段</text>
+<text x="320" y="98" font-size="20" font-weight="800" text-anchor="middle" fill="#d92d20">動けるのは、いちばん上の駒だけ</text>
+<rect x="24" y="400" width="592" height="92" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<text x="44" y="432" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">重なった駒を取れるのは、同じ高さ以上の駒だけ</text>
+<text x="44" y="462" font-size="18" font-weight="700" text-anchor="start" fill="#10131a">重ねられるのは上級で 3 段まで、入門は 2 段まで</text>
+<text x="616" y="134" font-size="15" font-weight="700" text-anchor="end" fill="#46515c">白: 自分 / 灰: 相手</text>
+</svg>
