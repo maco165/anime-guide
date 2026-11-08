@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 230" width="640" height="230" role="img" aria-labelledby="hunter-script-sample-1-title hunter-script-sample-1-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="hunter-script-sample-1-title">ハンター文字の例文「ハンター」</title>
+<desc id="hunter-script-sample-1-desc">「ハンター」(はんたー) をハンター文字で書いた例。長音の ー を含む。字の下に対応するひらがなを添える。</desc>
+<defs><pattern id="hunter-script-sample-1-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="230" fill="#f1f5f8"/>
+<rect width="640" height="230" fill="url(#hunter-script-sample-1-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">例文: ハンター</text>
+<text x="24" y="92" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">ハンター  (はんたー)</text>
+<text x="24" y="118" font-size="14" font-weight="700" text-anchor="start" fill="#46515c">長音の ー を含む</text>
+<g transform="translate(24.0,134.0) scale(0.400)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="12" x2="88" y2="12"/><line x1="12" y1="88" x2="88" y2="88"/><line x1="50" y1="12" x2="50" y2="88"/></g>
+<text x="44.0" y="204" font-size="15" font-weight="800" text-anchor="middle" fill="#1f62d6">は</text>
+<g transform="translate(76.0,134.0) scale(0.400)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="32" cy="30" r="23" fill="currentColor" stroke="none"/><line x1="14" y1="92" x2="86" y2="24"/></g>
+<text x="96.0" y="204" font-size="15" font-weight="800" text-anchor="middle" fill="#1f62d6">ん</text>
+<g transform="translate(128.0,134.0) scale(0.400)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="50" y1="8" x2="50" y2="88"/><line x1="10" y1="88" x2="90" y2="88"/></g>
+<text x="148.0" y="204" font-size="15" font-weight="800" text-anchor="middle" fill="#1f62d6">た</text>
+<g transform="translate(180.0,134.0) scale(0.400)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="30" y1="50" x2="70" y2="50"/><line x1="30" y1="50" x2="12" y2="34"/><line x1="30" y1="50" x2="12" y2="66"/><line x1="70" y1="50" x2="88" y2="34"/><line x1="70" y1="50" x2="88" y2="66"/></g>
+<text x="200.0" y="204" font-size="15" font-weight="800" text-anchor="middle" fill="#1f62d6">ー</text>
+<text x="24" y="224" font-size="12" font-weight="600" text-anchor="start" fill="#46515c">字形は筆者が解読表をもとに描き起こしたもので、公式の画像ではない</text>
+</svg>

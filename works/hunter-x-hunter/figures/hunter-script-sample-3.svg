@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 230" width="640" height="230" role="img" aria-labelledby="hunter-script-sample-3-title hunter-script-sample-3-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="hunter-script-sample-3-title">ハンター文字の例文「グリードアイランド」</title>
+<desc id="hunter-script-sample-3-desc">「グリードアイランド」(ぐりーどあいらんど) をハンター文字で書いた例。濁点の ぐ と ど、長音を含む。字の下に対応するひらがなを添える。</desc>
+<defs><pattern id="hunter-script-sample-3-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="230" fill="#f1f5f8"/>
+<rect width="640" height="230" fill="url(#hunter-script-sample-3-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">例文: グリードアイランド</text>
+<text x="24" y="92" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">グリードアイランド  (ぐりーどあいらんど)</text>
+<text x="24" y="118" font-size="14" font-weight="700" text-anchor="start" fill="#46515c">濁点の ぐ と ど、長音を含む</text>
+<g transform="translate(24.0,134.0) scale(0.400)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M14,8 V62 A15,15 0 0 0 44,62 V8"/><line x1="44" y1="56" x2="86" y2="10"/><line x1="58" y1="44" x2="90" y2="88"/><circle cx="114" cy="98" r="8" fill="currentColor" stroke="none"/></g>
+<text x="44.0" y="204" font-size="15" font-weight="800" text-anchor="middle" fill="#1f62d6">ぐ</text>
+<g transform="translate(76.0,134.0) scale(0.400)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="34" r="22" fill="currentColor" stroke="none"/><line x1="34" y1="66" x2="14" y2="92"/><line x1="66" y1="66" x2="86" y2="92"/></g>
+<text x="96.0" y="204" font-size="15" font-weight="800" text-anchor="middle" fill="#1f62d6">り</text>
+<g transform="translate(128.0,134.0) scale(0.400)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><line x1="30" y1="50" x2="70" y2="50"/><line x1="30" y1="50" x2="12" y2="34"/><line x1="30" y1="50" x2="12" y2="66"/><line x1="70" y1="50" x2="88" y2="34"/><line x1="70" y1="50" x2="88" y2="66"/></g>
+<text x="148.0" y="204" font-size="15" font-weight="800" text-anchor="middle" fill="#1f62d6">ー</text>
+<g transform="translate(180.0,134.0) scale(0.400)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="50" r="30"/><line x1="50" y1="4" x2="50" y2="96"/><circle cx="114" cy="98" r="8" fill="currentColor" stroke="none"/></g>
+<text x="200.0" y="204" font-size="15" font-weight="800" text-anchor="middle" fill="#1f62d6">ど</text>
+<g transform="translate(232.0,134.0) scale(0.400)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="12,8 50,92 88,8"/><line x1="27" y1="38" x2="73" y2="38"/></g>
+<text x="252.0" y="204" font-size="15" font-weight="800" text-anchor="middle" fill="#1f62d6">あ</text>
+<g transform="translate(284.0,134.0) scale(0.400)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="52" r="22" fill="currentColor" stroke="none"/></g>
+<text x="304.0" y="204" font-size="15" font-weight="800" text-anchor="middle" fill="#1f62d6">い</text>
+<g transform="translate(336.0,134.0) scale(0.400)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><polyline points="84,10 84,88 10,88"/></g>
+<text x="356.0" y="204" font-size="15" font-weight="800" text-anchor="middle" fill="#1f62d6">ら</text>
+<g transform="translate(388.0,134.0) scale(0.400)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="32" cy="30" r="23" fill="currentColor" stroke="none"/><line x1="14" y1="92" x2="86" y2="24"/></g>
+<text x="408.0" y="204" font-size="15" font-weight="800" text-anchor="middle" fill="#1f62d6">ん</text>
+<g transform="translate(440.0,134.0) scale(0.400)" fill="none" stroke="#10131a" color="#10131a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><circle cx="50" cy="50" r="30"/><line x1="50" y1="4" x2="50" y2="96"/><circle cx="114" cy="98" r="8" fill="currentColor" stroke="none"/></g>
+<text x="460.0" y="204" font-size="15" font-weight="800" text-anchor="middle" fill="#1f62d6">ど</text>
+<text x="24" y="224" font-size="12" font-weight="600" text-anchor="start" fill="#46515c">字形は筆者が解読表をもとに描き起こしたもので、公式の画像ではない</text>
+</svg>
