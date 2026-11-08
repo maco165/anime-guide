@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" markdown="1">
 
 # anime-guide
 
@@ -9,7 +9,7 @@
 ![設定のネタバレあり](https://img.shields.io/badge/%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC-%E3%81%82%E3%82%8A-bf8700)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-0969da)](LICENSE)
 
-[世界観から読む](works/fullmetal-alchemist/world.md) · [誤りを指摘する](https://github.com/maco165/anime-guide/issues/new) · [書き方の約束 (CONTRIBUTING)](CONTRIBUTING.md)
+[世界観から読む](works/fullmetal-alchemist/world.md) · [誤りを指摘する](https://github.com/maco165/anime-guide/issues/new) · [書き方の約束 (CONTRIBUTING)](https://github.com/maco165/anime-guide/blob/main/CONTRIBUTING.md)
 
 </div>
 
@@ -62,7 +62,7 @@ flowchart LR
 
 ## 規則
 
-要点は次のとおりです。詳しくは [CONTRIBUTING.md](CONTRIBUTING.md) にあります。
+要点は次のとおりです。詳しくは [CONTRIBUTING.md](https://github.com/maco165/anime-guide/blob/main/CONTRIBUTING.md) にあります。
 
 - **出典**: すべての記述に出典を付けます。
 - **許諾**: 許諾の無い文章や画像は載せません。短い文章でも同じです。
@@ -97,8 +97,8 @@ flowchart LR
 | [Issue](https://github.com/maco165/anime-guide/issues/new) | 誤りに気づいた | ページと箇所、正しいと思う内容。出典が分かれば添えてください |
 | Pull Request | 直し方が分かっている | 直した内容と、その出典 |
 
-詳しい書き方と、権利者や筆者の方が削除を申し出る手順は [CONTRIBUTING.md](CONTRIBUTING.md) にあります。
+詳しい書き方と、権利者や筆者の方が削除を申し出る手順は [CONTRIBUTING.md](https://github.com/maco165/anime-guide/blob/main/CONTRIBUTING.md) にあります。
 
 ## ライセンス
 
-本文と自作の図は [CC BY-SA 4.0](LICENSE) です。引用や許諾を得た文章、作品そのものと公式の素材は対象外で、それぞれの権利者のものです。詳しくは [CONTRIBUTING.md](CONTRIBUTING.md#本文のライセンス) にあります。
+本文と自作の図は [CC BY-SA 4.0](LICENSE) です。引用や許諾を得た文章、作品そのものと公式の素材は対象外で、それぞれの権利者のものです。詳しくは [CONTRIBUTING.md](https://github.com/maco165/anime-guide/blob/main/CONTRIBUTING.md#本文のライセンス) にあります。
