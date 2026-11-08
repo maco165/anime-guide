@@ -248,3 +248,52 @@ sources:
     terms_url: null
     permission: 不要
     checked_at: 2026-11-08
+  - id: src-036
+    url: https://renote.net/articles/11082
+    kind: まとめ記事 (十二支んの派閥)
+    rights_holder: RENOTE の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-037
+    url: https://renote.net/articles/323961
+    kind: 解説記事 (パリストンの考察まとめ)
+    rights_holder: RENOTE の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-038
+    url: https://ciatr.jp/topics/339515
+    kind: 解説記事 (十二支ん)
+    rights_holder: ciatr の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-039
+    url: https://ciatr.jp/topics/174853
+    kind: 解説記事 (ヒソカ)
+    rights_holder: ciatr の記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-040
+    url: https://www.ticket.co.jp/entx/?p=11644
+    kind: 解説記事 (ヒソカの台詞)
+    rights_holder: チケットジャムの記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-041
+    url: https://honcierge.jp/articles/shelf_story/4299
+    kind: 論考 (35 巻までの考察記事)
+    rights_holder: ホンシェルジュの記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08
+  - id: src-042
+    url: https://nlab.itmedia.co.jp/cont/articles/3345526/
+    kind: 解説記事 (暗黒大陸編)
+    rights_holder: ねとらぼの記事の筆者
+    terms_url: null
+    permission: 不要
+    checked_at: 2026-11-08

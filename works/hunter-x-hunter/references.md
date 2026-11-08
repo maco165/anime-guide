@@ -27,10 +27,10 @@ spoiler: 設定のネタバレを含む
 | 事典・Wiki | 19 |
 | 学術 | 0 |
 | データベース | 0 |
-| 解説・まとめ | 15 |
-| 考察 | 0 |
+| 解説・まとめ | 21 |
+| 考察 | 1 |
 | その他 | 1 |
-| 合計 | 35 |
+| 合計 | 42 |
 
 ## 出典の一覧
 
@@ -60,7 +60,7 @@ spoiler: 設定のネタバレを含む
 | src-034 | 百科事典 (キメラ=アント) | [https://ja.wikipedia.org/wiki/キメラ＝アント](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A1%E3%83%A9%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88) | Wikipedia の執筆者 | 2026-11-08 | 不要 | [能力](abilities.md) 本文 |
 | src-035 | 百科事典 (幻影旅団) | [https://ja.wikipedia.org/wiki/幻影旅団](https://ja.wikipedia.org/wiki/%E5%B9%BB%E5%BD%B1%E6%97%85%E5%9B%A3) | Wikipedia の執筆者 | 2026-11-08 | 不要 | [世界観](world.md) 本文<br>[能力](abilities.md) 本文 |
 
-### 解説・まとめ (15 件)
+### 解説・まとめ (21 件)
 
 | id | 種類 | URL | 権利者 | 確認日 | 許諾 | 使っている箇所 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -79,6 +79,18 @@ spoiler: 設定のネタバレを含む
 | src-019 | 解説記事 (モントゥトゥユピー) | [https://ciatr.jp/topics/313719](https://ciatr.jp/topics/313719) | ciatr の記事の筆者 | 2026-11-08 | 不要 | [能力](abilities.md) 本文 |
 | src-031 | 解説記事 (グリードアイランドのカード) | [https://nlab.itmedia.co.jp/research/articles/58608/](https://nlab.itmedia.co.jp/research/articles/58608/) | ねとらぼ調査隊の記事の筆者 | 2026-11-08 | 不要 | [世界観](world.md) 図 3-7、本文 |
 | src-033 | ニュース記事 (カードの商品化) | [https://animeanime.jp/article/2017/12/04/36165.html](https://animeanime.jp/article/2017/12/04/36165.html) | アニメ!アニメ!の記事の筆者 | 2026-11-08 | 不要 | [世界観](world.md) 図 3-7、本文 |
+| src-036 | まとめ記事 (十二支んの派閥) | [https://renote.net/articles/11082](https://renote.net/articles/11082) | RENOTE の記事の筆者 | 2026-11-08 | 不要 | [世界観](world.md) 本文 |
+| src-037 | 解説記事 (パリストンの考察まとめ) | [https://renote.net/articles/323961](https://renote.net/articles/323961) | RENOTE の記事の筆者 | 2026-11-08 | 不要 | [世界観](world.md) 本文 |
+| src-038 | 解説記事 (十二支ん) | [https://ciatr.jp/topics/339515](https://ciatr.jp/topics/339515) | ciatr の記事の筆者 | 2026-11-08 | 不要 | [世界観](world.md) 本文 |
+| src-039 | 解説記事 (ヒソカ) | [https://ciatr.jp/topics/174853](https://ciatr.jp/topics/174853) | ciatr の記事の筆者 | 2026-11-08 | 不要 | [能力](abilities.md) 本文 |
+| src-040 | 解説記事 (ヒソカの台詞) | [https://www.ticket.co.jp/entx/?p=11644](https://www.ticket.co.jp/entx/?p=11644) | チケットジャムの記事の筆者 | 2026-11-08 | 不要 | [能力](abilities.md) 本文 |
+| src-042 | 解説記事 (暗黒大陸編) | [https://nlab.itmedia.co.jp/cont/articles/3345526/](https://nlab.itmedia.co.jp/cont/articles/3345526/) | ねとらぼの記事の筆者 | 2026-11-08 | 不要 | [能力](abilities.md) 本文 |
+
+### 考察 (1 件)
+
+| id | 種類 | URL | 権利者 | 確認日 | 許諾 | 使っている箇所 |
+| --- | --- | --- | --- | --- | --- | --- |
+| src-041 | 論考 (35 巻までの考察記事) | [https://honcierge.jp/articles/shelf_story/4299](https://honcierge.jp/articles/shelf_story/4299) | ホンシェルジュの記事の筆者 | 2026-11-08 | 不要 | [世界観](world.md) 本文 |
 
 ### その他 (1 件)
 
