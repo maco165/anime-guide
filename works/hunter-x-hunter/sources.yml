@@ -374,3 +374,10 @@ sources:
     terms_url: null
     permission: 不要
     checked_at: 2026-11-08
+  - id: src-054
+    url: https://www.naturalearthdata.com/
+    kind: データベース (地図データ)
+    rights_holder: Natural Earth (パブリックドメイン)
+    terms_url: https://www.naturalearthdata.com/about/terms-of-use/
+    permission: 不要
+    checked_at: 2026-11-08
