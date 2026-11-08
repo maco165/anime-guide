@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 600" width="640" height="600" role="img" aria-labelledby="chimera-ant-ranks-title chimera-ant-ranks-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="chimera-ant-ranks-title">キメラ=アントの摂取交配と階級</title>
+<desc id="chimera-ant-ranks-desc">女王が食べた生き物の特徴を子に伝える摂取交配の流れと、王を頂点に護衛軍、師団長、兵隊長、兵隊蟻と続く階級をピラミッドで示す図。</desc>
+<defs><pattern id="chimera-ant-ranks-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="600" fill="#f1f5f8"/>
+<rect width="640" height="600" fill="url(#chimera-ant-ranks-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">女王が食べたものが子の形を決める</text>
+<rect x="16" y="72" width="608" height="110" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="72" width="608" height="30" rx="0" fill="#0b8a5f" stroke="#10131a" stroke-width="3"/>
+<text x="320.0" y="94" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">摂取交配</text>
+<text x="30" y="127" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">女王が他の生き物を食べ、その外見や習性、</text>
+<text x="30" y="152" font-size="19" font-weight="700" text-anchor="start" fill="#10131a">時には前世の記憶まで子に伝えて産む</text>
+<path d="M320 188 L320.0 208.0" fill="none" stroke="#0b8a5f" stroke-width="6" stroke-linecap="round"/>
+<polygon points="320,222 330.0,208.0 310.0,208.0" fill="#0b8a5f" stroke="#0b8a5f" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="260.0" y="230" width="120" height="52" rx="4" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<text x="320" y="264" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">王</text>
+<rect x="205.0" y="292" width="230" height="52" rx="4" fill="#e8710a" stroke="#10131a" stroke-width="3"/>
+<text x="320" y="326" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">護衛軍 3</text>
+<rect x="150.0" y="354" width="340" height="52" rx="4" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="320" y="388" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">師団長</text>
+<rect x="95.0" y="416" width="450" height="52" rx="4" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="320" y="450" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">兵隊長</text>
+<rect x="40.0" y="478" width="560" height="52" rx="4" fill="#46515c" stroke="#10131a" stroke-width="3"/>
+<text x="320" y="512" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">兵隊蟻</text>
+<text x="24" y="574" font-size="17" font-weight="600" text-anchor="start" fill="#46515c">摂取交配と階級は 1 サイトのみ (階級は「模様」と断定を避ける書き方)</text>
+</svg>

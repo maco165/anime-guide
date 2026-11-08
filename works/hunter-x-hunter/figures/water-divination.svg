@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 520" width="640" height="520" role="img" aria-labelledby="water-divination-title water-divination-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="water-divination-title">水見式で分かる系統</title>
+<desc id="water-divination-desc">グラスの水に葉を浮かべて両手をかざす水見式で、強化系は水が増え、変化系は味が変わり、具現化系は不純物が出て、放出系は色が変わり、操作系は葉が動き、特質系はそれぞれ別の変化が起きることを 6 つのグラスで示す。</desc>
+<defs><pattern id="water-divination-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="520" fill="#f1f5f8"/>
+<rect width="640" height="520" fill="url(#water-divination-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">水見式: 水と葉の変わり方で系統が分かる</text>
+<rect x="16" y="72" width="196" height="200" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="72" width="196" height="30" rx="0" fill="#d92d20" stroke="#10131a" stroke-width="3"/>
+<text x="114" y="94" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">強化系</text>
+<path d="M74 122 L82 222 L146 222 L154 122 Z" fill="none" stroke="#10131a" stroke-width="3"/>
+<path d="M77.6 142 L82 222 L146 222 L150.4 142 Z" fill="#bcd9f5"/>
+<ellipse cx="114" cy="138" rx="16" ry="6" fill="#0b8a5f"/>
+<path d="M166 182 L166.0 160.0" fill="none" stroke="#1f62d6" stroke-width="4" stroke-linecap="round"/>
+<polygon points="166,146 156.0,160.0 176.0,160.0" fill="#1f62d6" stroke="#1f62d6" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="114" y="256" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">水が増える</text>
+<rect x="222" y="72" width="196" height="200" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="222" y="72" width="196" height="30" rx="0" fill="#f5b700" stroke="#10131a" stroke-width="3"/>
+<text x="320" y="94" font-size="18" font-weight="800" text-anchor="middle" fill="#10131a">変化系</text>
+<path d="M280 122 L288 222 L352 222 L360 122 Z" fill="none" stroke="#10131a" stroke-width="3"/>
+<path d="M285.5 166 L288 222 L352 222 L354.5 166 Z" fill="#bcd9f5"/>
+<ellipse cx="320" cy="162" rx="16" ry="6" fill="#0b8a5f"/>
+<text x="320" y="256" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">水の味が変わる</text>
+<rect x="428" y="72" width="196" height="200" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="428" y="72" width="196" height="30" rx="0" fill="#1f62d6" stroke="#10131a" stroke-width="3"/>
+<text x="526" y="94" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">具現化系</text>
+<path d="M486 122 L494 222 L558 222 L566 122 Z" fill="none" stroke="#10131a" stroke-width="3"/>
+<path d="M491.5 166 L494 222 L558 222 L560.5 166 Z" fill="#c8d3dc"/>
+<ellipse cx="526" cy="162" rx="16" ry="6" fill="#0b8a5f"/>
+<rect x="506" y="192" width="7" height="7" fill="#10131a"/>
+<rect x="530" y="204" width="7" height="7" fill="#10131a"/>
+<rect x="544" y="186" width="7" height="7" fill="#10131a"/>
+<text x="526" y="256" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">水に不純物が出る</text>
+<rect x="16" y="286" width="196" height="200" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="16" y="286" width="196" height="30" rx="0" fill="#e8710a" stroke="#10131a" stroke-width="3"/>
+<text x="114" y="308" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">放出系</text>
+<path d="M74 336 L82 436 L146 436 L154 336 Z" fill="none" stroke="#10131a" stroke-width="3"/>
+<path d="M79.5 380 L82 436 L146 436 L148.5 380 Z" fill="#f5b7b1"/>
+<ellipse cx="114" cy="376" rx="16" ry="6" fill="#0b8a5f"/>
+<text x="114" y="470" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">水の色が変わる</text>
+<rect x="222" y="286" width="196" height="200" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="222" y="286" width="196" height="30" rx="0" fill="#0b8a5f" stroke="#10131a" stroke-width="3"/>
+<text x="320" y="308" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">操作系</text>
+<path d="M280 336 L288 436 L352 436 L360 336 Z" fill="none" stroke="#10131a" stroke-width="3"/>
+<path d="M285.5 380 L288 436 L352 436 L354.5 380 Z" fill="#bcd9f5"/>
+<ellipse cx="338" cy="376" rx="16" ry="6" fill="#0b8a5f"/>
+<path d="M310 362 L326.0 362.0" fill="none" stroke="#10131a" stroke-width="3" stroke-linecap="round"/>
+<polygon points="340,362 326.0,352.0 326.0,372.0" fill="#10131a" stroke="#10131a" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="320" y="470" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">浮かべた葉が動く</text>
+<rect x="428" y="286" width="196" height="200" rx="4" fill="#ffffff" stroke="#10131a" stroke-width="3"/>
+<rect x="428" y="286" width="196" height="30" rx="0" fill="#7a3fc4" stroke="#10131a" stroke-width="3"/>
+<text x="526" y="308" font-size="18" font-weight="800" text-anchor="middle" fill="#ffffff">特質系</text>
+<path d="M486 336 L494 436 L558 436 L566 336 Z" fill="none" stroke="#10131a" stroke-width="3"/>
+<path d="M491.5 380 L494 436 L558 436 L560.5 380 Z" fill="#bcd9f5"/>
+<ellipse cx="526" cy="376" rx="16" ry="6" fill="#0b8a5f"/>
+<text x="526" y="416" font-size="30" font-weight="800" text-anchor="middle" fill="#7a3fc4">?</text>
+<text x="526" y="470" font-size="17" font-weight="800" text-anchor="middle" fill="#10131a">それぞれ別の変化</text>
+<text x="24" y="506" font-size="17" font-weight="600" text-anchor="start" fill="#46515c">系統ごとの変化は 1 サイトのみ。グラスと葉は自作の記号</text>
+</svg>

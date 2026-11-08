@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 520" width="640" height="520" role="img" aria-labelledby="applied-techniques-title applied-techniques-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="applied-techniques-title">応用技は四大行の組み合わせ</title>
+<desc id="applied-techniques-desc">凝、隠、円、周、堅、硬、流の 7 つの応用技を、もとになる四大行の印と役割で表にした図。</desc>
+<defs><pattern id="applied-techniques-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="520" fill="#f1f5f8"/>
+<rect width="640" height="520" fill="url(#applied-techniques-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">応用技は四大行の組み合わせ</text>
+<text x="444" y="96" font-size="22" font-weight="800" text-anchor="middle" fill="#10131a">纏</text>
+<text x="490" y="96" font-size="22" font-weight="800" text-anchor="middle" fill="#10131a">絶</text>
+<text x="536" y="96" font-size="22" font-weight="800" text-anchor="middle" fill="#10131a">練</text>
+<text x="582" y="96" font-size="22" font-weight="800" text-anchor="middle" fill="#10131a">発</text>
+<rect x="16" y="112" width="608" height="44" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="143" font-size="24" font-weight="800" text-anchor="middle" fill="#10131a">凝</text>
+<text x="76" y="141" font-size="16" font-weight="600" text-anchor="start" fill="#10131a">一点に集める。目なら隠れた念が見える</text>
+<circle cx="536" cy="134" r="11" fill="#10131a"/>
+<rect x="16" y="164" width="608" height="44" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="195" font-size="24" font-weight="800" text-anchor="middle" fill="#10131a">隠</text>
+<text x="76" y="193" font-size="16" font-weight="600" text-anchor="start" fill="#10131a">発を見えにくくする</text>
+<circle cx="490" cy="186" r="11" fill="#10131a"/>
+<rect x="16" y="216" width="608" height="44" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="247" font-size="24" font-weight="800" text-anchor="middle" fill="#10131a">円</text>
+<text x="76" y="245" font-size="16" font-weight="600" text-anchor="start" fill="#10131a">オーラを広げ、範囲の中を感じ取る</text>
+<circle cx="444" cy="238" r="11" fill="#10131a"/>
+<circle cx="536" cy="238" r="11" fill="#10131a"/>
+<rect x="16" y="268" width="608" height="44" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="299" font-size="24" font-weight="800" text-anchor="middle" fill="#10131a">周</text>
+<text x="76" y="297" font-size="16" font-weight="600" text-anchor="start" fill="#10131a">持った道具を包んで強くする</text>
+<circle cx="444" cy="290" r="11" fill="#10131a"/>
+<rect x="16" y="320" width="608" height="44" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="351" font-size="24" font-weight="800" text-anchor="middle" fill="#10131a">堅</text>
+<text x="76" y="349" font-size="16" font-weight="600" text-anchor="start" fill="#10131a">練を保ち、多いオーラで全身を守る</text>
+<circle cx="444" cy="342" r="11" fill="#10131a"/>
+<circle cx="536" cy="342" r="11" fill="#10131a"/>
+<rect x="16" y="372" width="608" height="44" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="403" font-size="24" font-weight="800" text-anchor="middle" fill="#10131a">硬</text>
+<text x="76" y="401" font-size="16" font-weight="600" text-anchor="start" fill="#10131a">全部を一部に集める。他は無防備</text>
+<circle cx="444" cy="394" r="11" fill="#10131a"/>
+<circle cx="490" cy="394" r="11" fill="#10131a"/>
+<circle cx="536" cy="394" r="11" fill="#10131a"/>
+<circle cx="582" cy="394" r="11" fill="#10131a"/>
+<rect x="16" y="424" width="608" height="44" rx="2" fill="#ffffff" stroke="#10131a" stroke-width="2"/>
+<text x="44" y="455" font-size="24" font-weight="800" text-anchor="middle" fill="#10131a">流</text>
+<text x="76" y="453" font-size="16" font-weight="600" text-anchor="start" fill="#10131a">移しつつ、集めた所以外にもまとう</text>
+<text x="24" y="494" font-size="17" font-weight="600" text-anchor="start" fill="#46515c">黒丸はもとになる四大行。硬は凝も使う。流は凝の応用。7 つとも 1 サイトのみ</text>
+</svg>

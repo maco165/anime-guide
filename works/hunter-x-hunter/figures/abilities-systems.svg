@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 520" width="640" height="520" role="img" aria-labelledby="abilities-systems-title abilities-systems-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="abilities-systems-title">一覧の人物の系統の内訳</title>
+<desc id="abilities-systems-desc">強化系 6 人、変化系 7 人、放出系 3 人、具現化系 5 人、操作系 5 人、特質系 3 人。系統の記述が無い 3 人は数えない横棒グラフ。</desc>
+<defs><pattern id="abilities-systems-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="520" fill="#f1f5f8"/>
+<rect width="640" height="520" fill="url(#abilities-systems-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">一覧の人物で多いのは変化系</text>
+<text x="150" y="112" font-size="21" font-weight="800" text-anchor="end" fill="#10131a">強化系</text>
+<rect x="166" y="90" width="343" height="32" fill="#d92d20" stroke="#10131a" stroke-width="2"/>
+<text x="519" y="115" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">6 人</text>
+<text x="150" y="174" font-size="21" font-weight="800" text-anchor="end" fill="#10131a">変化系</text>
+<rect x="166" y="152" width="400" height="32" fill="#f5b700" stroke="#10131a" stroke-width="2"/>
+<text x="576" y="177" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">7 人</text>
+<text x="150" y="236" font-size="21" font-weight="800" text-anchor="end" fill="#10131a">放出系</text>
+<rect x="166" y="214" width="171" height="32" fill="#e8710a" stroke="#10131a" stroke-width="2"/>
+<text x="347" y="239" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">3 人</text>
+<text x="150" y="298" font-size="21" font-weight="800" text-anchor="end" fill="#10131a">具現化系</text>
+<rect x="166" y="276" width="286" height="32" fill="#1f62d6" stroke="#10131a" stroke-width="2"/>
+<text x="462" y="301" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">5 人</text>
+<text x="150" y="360" font-size="21" font-weight="800" text-anchor="end" fill="#10131a">操作系</text>
+<rect x="166" y="338" width="286" height="32" fill="#0b8a5f" stroke="#10131a" stroke-width="2"/>
+<text x="462" y="363" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">5 人</text>
+<text x="150" y="422" font-size="21" font-weight="800" text-anchor="end" fill="#10131a">特質系</text>
+<rect x="166" y="400" width="171" height="32" fill="#7a3fc4" stroke="#10131a" stroke-width="2"/>
+<text x="347" y="425" font-size="20" font-weight="800" text-anchor="start" fill="#10131a">3 人</text>
+<text x="24" y="470" font-size="17" font-weight="600" text-anchor="start" fill="#46515c">系統の書かれた 29 人を、人ごとの本来の系統で 1 回ずつ数えた</text>
+<text x="24" y="496" font-size="17" font-weight="600" text-anchor="start" fill="#46515c">系統の記述が無い 3 人は除く。クラピカは具現化系で数えた</text>
+</svg>

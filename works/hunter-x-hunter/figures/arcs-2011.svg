@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 690" width="640" height="690" role="img" aria-labelledby="arcs-2011-title arcs-2011-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="arcs-2011-title">2011 年版の編と話数</title>
+<desc id="arcs-2011-desc">全 148 話を、ハンター試験から会長選挙・アルカ編までの 11 の編に分け、話数の長さを横棒で示す図。キメラ=アント編が 4 つに分かれて最も長い。</desc>
+<defs><pattern id="arcs-2011-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dde5eb" stroke-width="1"/></pattern></defs>
+<rect width="640" height="690" fill="#f1f5f8"/>
+<rect width="640" height="690" fill="url(#arcs-2011-grid)"/>
+<rect x="0" y="0" width="640" height="56" fill="#10131a"/>
+<polygon points="0,0 34,0 16,56 0,56" fill="#d92d20"/>
+<polygon points="42,0 52,0 34,56 24,56" fill="#f5b700"/>
+<text x="60" y="37" font-size="23" font-weight="800" fill="#ffffff">全 148 話の約 4 割がキメラ=アント編</text>
+<text x="176" y="102" font-size="17" font-weight="800" text-anchor="end" fill="#10131a">ハンター試験</text>
+<rect x="186.0" y="82" width="53.5" height="28" fill="#1f62d6"/>
+<text x="246" y="103" font-size="15" font-weight="700" text-anchor="start" fill="#46515c">1〜22</text>
+<text x="176" y="150" font-size="17" font-weight="800" text-anchor="end" fill="#10131a">ゾルディック家</text>
+<rect x="239.5" y="130" width="7.3" height="28" fill="#1f62d6"/>
+<text x="253" y="151" font-size="15" font-weight="700" text-anchor="start" fill="#46515c">23〜25</text>
+<text x="176" y="198" font-size="17" font-weight="800" text-anchor="end" fill="#10131a">天空闘技場</text>
+<rect x="249.2" y="178" width="29.2" height="28" fill="#1f62d6"/>
+<text x="284" y="199" font-size="15" font-weight="700" text-anchor="start" fill="#46515c">27〜38</text>
+<text x="176" y="246" font-size="17" font-weight="800" text-anchor="end" fill="#10131a">幻影旅団 I</text>
+<rect x="278.4" y="226" width="24.3" height="28" fill="#1f62d6"/>
+<text x="309" y="247" font-size="15" font-weight="700" text-anchor="start" fill="#46515c">39〜48</text>
+<text x="176" y="294" font-size="17" font-weight="800" text-anchor="end" fill="#10131a">幻影旅団 II</text>
+<rect x="302.8" y="274" width="26.8" height="28" fill="#1f62d6"/>
+<text x="336" y="295" font-size="15" font-weight="700" text-anchor="start" fill="#46515c">49〜59</text>
+<text x="176" y="342" font-size="17" font-weight="800" text-anchor="end" fill="#10131a">G.I</text>
+<rect x="329.5" y="322" width="38.9" height="28" fill="#1f62d6"/>
+<text x="374" y="343" font-size="15" font-weight="700" text-anchor="start" fill="#46515c">60〜75</text>
+<text x="176" y="390" font-size="17" font-weight="800" text-anchor="end" fill="#10131a">キメラ=アント I</text>
+<rect x="368.4" y="370" width="36.5" height="28" fill="#d92d20"/>
+<text x="411" y="391" font-size="15" font-weight="700" text-anchor="start" fill="#46515c">76〜90</text>
+<text x="176" y="438" font-size="17" font-weight="800" text-anchor="end" fill="#10131a">キメラ=アント II</text>
+<rect x="404.9" y="418" width="36.5" height="28" fill="#d92d20"/>
+<text x="447" y="439" font-size="15" font-weight="700" text-anchor="start" fill="#46515c">91〜105</text>
+<text x="176" y="486" font-size="17" font-weight="800" text-anchor="end" fill="#10131a">キメラ=アント III</text>
+<rect x="441.4" y="466" width="36.5" height="28" fill="#d92d20"/>
+<text x="484" y="487" font-size="15" font-weight="700" text-anchor="start" fill="#46515c">106〜120</text>
+<text x="176" y="534" font-size="17" font-weight="800" text-anchor="end" fill="#10131a">キメラ=アント IV</text>
+<rect x="477.9" y="514" width="38.9" height="28" fill="#d92d20"/>
+<text x="523" y="535" font-size="15" font-weight="700" text-anchor="start" fill="#46515c">121〜136</text>
+<text x="176" y="582" font-size="17" font-weight="800" text-anchor="end" fill="#10131a">会長選挙・アルカ</text>
+<rect x="516.8" y="562" width="29.2" height="28" fill="#1f62d6"/>
+<text x="552" y="583" font-size="15" font-weight="700" text-anchor="start" fill="#46515c">137〜148</text>
+<line x1="186" y1="612" x2="546" y2="612" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<line x1="186.0" y1="606" x2="186.0" y2="618" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<text x="186" y="636" font-size="15" font-weight="600" text-anchor="middle" fill="#46515c">1</text>
+<line x1="305.2" y1="606" x2="305.2" y2="618" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<text x="305" y="636" font-size="15" font-weight="600" text-anchor="middle" fill="#46515c">50</text>
+<line x1="426.8" y1="606" x2="426.8" y2="618" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<text x="427" y="636" font-size="15" font-weight="600" text-anchor="middle" fill="#46515c">100</text>
+<line x1="543.6" y1="606" x2="543.6" y2="618" stroke="#10131a" stroke-width="2" stroke-linecap="round"/>
+<text x="544" y="636" font-size="15" font-weight="600" text-anchor="middle" fill="#46515c">148</text>
+<text x="24" y="674" font-size="17" font-weight="600" text-anchor="start" fill="#46515c">第 13 話と第 26 話は総集編。第 26 話は収録表でどの編にも入らない</text>
+</svg>
