@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" viewBox="0 0 640 220" width="640" height="220" role="img" aria-labelledby="fullmetal-alchemist-card-title fullmetal-alchemist-card-desc" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<title id="fullmetal-alchemist-card-title">鋼の錬金術師 FULLMETAL ALCHEMIST</title>
+<desc id="fullmetal-alchemist-card-desc">作品名と、円と三角を組み合わせた錬金術の記号を自作で描いたタイトル画像。作品の絵や公式の図案は使っていない。</desc>
+<rect width="640" height="220" rx="14" fill="#10131a"/>
+<defs><pattern id="fullmetal-alchemist-card-grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#232836" stroke-width="1"/></pattern><clipPath id="fullmetal-alchemist-card-clip"><rect width="640" height="220" rx="14"/></clipPath></defs>
+<g clip-path="url(#fullmetal-alchemist-card-clip)">
+<rect width="640" height="220" fill="url(#fullmetal-alchemist-card-grid)"/>
+<polygon points="0,0 46,0 22,220 0,220" fill="#d92d20"/>
+<polygon points="56,0 70,0 46,220 32,220" fill="#f5b700"/>
+</g>
+<circle cx="548" cy="110" r="80" fill="none" stroke="#f5b700" stroke-width="4"/>
+<circle cx="548" cy="110" r="70" fill="none" stroke="#f5b700" stroke-width="2"/>
+<polygon points="548.0,40.0 608.6,145.0 487.4,145.0" fill="none" stroke="#d92d20" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="548" cy="110" r="10" fill="#f5b700"/>
+<text x="92" y="92" font-size="42" font-weight="800" fill="#ffffff">鋼の錬金術師</text>
+<text x="94" y="128" font-size="20" font-weight="700" fill="#c9d3dc" letter-spacing="2">FULLMETAL ALCHEMIST</text>
+<rect x="92" y="150" width="129" height="34" rx="17" fill="none" stroke="#f5b700" stroke-width="2"/>
+<text x="104" y="173" font-size="16" font-weight="700" fill="#f5b700">2009 年版</text>
+</svg>
