@@ -261,9 +261,11 @@ def build_index(readme, out):
         parts.append(f'<section class="block"><h2 id="{slugify(title, {})}">{html.escape(title)}</h2>\n{content}</section>')
 
     chip_html = ''.join(f'<li>{html.escape(c)}</li>' for c in chips)
+    # ボタンは主な操作 1 つと補助の操作 1 つだけにする。README の先頭のほかのリンク (CONTRIBUTING など) は
+    # 本文の節からたどれる
     link_html = ''.join(
         f'<a class="button{" primary" if i == 0 else ""}" href="{rewrite_href(h, "")}">{html.escape(t)}</a>'
-        for i, (t, h) in enumerate(links))
+        for i, (t, h) in enumerate(links[:2]))
     lead_html, _ = render(lead, '')
     body_html = f'''<div class="hero"><div class="hero-inner">
 <h1>{html.escape(h1)}</h1>
