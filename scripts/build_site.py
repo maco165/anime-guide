@@ -227,10 +227,10 @@ def layout(title, body, root, description, path, extra_class=''):
 </head>
 <body class="{extra_class}">
 <header class="site-header"><a class="site-name" href="{root}index.html">anime-guide</a>
-<nav><a href="{REPO_URL}/issues/new">誤りを指摘する</a><a href="{REPO_URL}">GitHub</a></nav></header>
+<nav><a href="{REPO_URL}/issues/new">誤りを指摘する</a><a href="{REPO_URL}" target="_blank" rel="noopener noreferrer">GitHub</a></nav></header>
 {body}
 <footer class="site-footer"><p>非公式の解説です。作品の権利者や制作会社とは関係ありません。内容は AI (Claude) がまとめています。</p>
-<p><a href="{root}index.html#ライセンス">ライセンス</a> · <a href="{REPO_URL}">GitHub</a> · <a href="{REPO_URL}/issues/new">誤りを指摘する</a></p></footer>
+<p><a href="{root}index.html#ライセンス">ライセンス</a> · <a href="{REPO_URL}" target="_blank" rel="noopener noreferrer">GitHub</a> · <a href="{REPO_URL}/issues/new">誤りを指摘する</a></p></footer>
 </body>
 </html>
 '''
